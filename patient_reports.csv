@@ -1,0 +1,2001 @@
+report_id,patient_name,age,gender,contact_number,city_id,hospital_id,disease_id,report_date,outcome
+1,Ayaan Yadav,40,Male,+91-8611931113,1,149,15,2024-09-13,Recovered
+2,Ananya Gupta,76,Male,+91-7519927529,10,27,15,2024-02-11,Recovered
+3,Nita Verma,45,Female,+91-8804138557,3,95,8,2025-03-26,Recovered
+4,Meera Singh,56,Female,+91-9793693337,5,118,7,2025-04-22,Under Treatment
+5,Kanta Rao,62,Female,+91-7372214308,19,112,4,2023-10-04,Discharged
+6,Ritesh Agarwal,60,Female,+91-9094011037,1,87,8,2023-10-13,Recovered
+7,Ramesh Jain,44,Female,+91-7367704871,18,71,1,2023-08-06,Discharged
+8,Rakesh Nair,72,Male,+91-8263732197,16,122,7,2023-09-05,Recovered
+9,Naresh Agarwal,40,Female,+91-9363900493,18,122,9,2023-08-15,Recovered
+10,Ramesh Joshi,35,Female,+91-7513483708,8,65,2,2023-12-05,Recovered
+11,Seeta Yadav,25,Male,+91-9253298195,9,124,11,2025-01-30,Referred
+12,Anika Singh,25,Female,+91-9294092753,12,59,3,2024-09-03,Recovered
+13,Myra Verma,7,Female,+91-8221228113,16,33,2,2023-05-10,Recovered
+14,Sunita Joshi,44,Male,+91-7280647907,9,14,15,2024-04-25,Recovered
+15,Meera Gupta,74,Male,+91-7365849190,5,39,14,2024-02-15,Discharged
+16,Ayaan Rao,54,Male,+91-9527696207,13,134,7,2023-09-12,Recovered
+17,Mukesh Shah,73,Male,+91-7348697524,7,26,9,2025-10-10,Recovered
+18,Kavya Yadav,71,Male,+91-9018258729,1,41,7,2023-06-10,Recovered
+19,Aditya Agarwal,37,Female,+91-9684603688,3,117,10,2023-10-26,Discharged
+20,Ananya Pandey,15,Male,+91-7712632936,9,39,15,2024-08-26,Recovered
+21,Priya Menon,73,Female,+91-8728760924,4,113,7,2025-03-22,Recovered
+22,Myra Reddy,70,Female,+91-8384360647,3,113,9,2025-08-23,Discharged
+23,Sara Sharma,12,Male,+91-9887427412,19,148,15,2024-09-10,Referred
+24,Myra Iyer,6,Male,+91-7779489931,17,121,10,2025-04-21,Discharged
+25,Mukesh Nair,12,Female,+91-7690737494,14,90,6,2024-08-22,Recovered
+26,Rakesh Nair,37,Female,+91-8388450337,2,141,7,2023-12-04,Recovered
+27,Naresh Reddy,1,Female,+91-9141011556,2,106,3,2023-04-29,Recovered
+28,Ritesh Verma,27,Female,+91-9998961044,5,141,15,2024-10-02,Recovered
+29,Ayaan Sharma,81,Male,+91-7400330495,10,41,9,2024-05-11,Recovered
+30,Ayaan Joshi,16,Male,+91-9072319898,10,128,8,2023-08-19,Recovered
+31,Sunita Agarwal,59,Male,+91-7586298866,7,99,15,2025-09-30,Recovered
+32,Arjun Jain,54,Female,+91-8282287615,9,130,15,2025-06-03,Recovered
+33,Anita Iyer,85,Female,+91-9370467256,15,39,9,2025-05-07,Recovered
+34,Seeta Mishra,59,Female,+91-8764265618,8,49,9,2025-02-20,Recovered
+35,Rajesh Nair,49,Female,+91-9534805646,16,39,15,2023-02-14,Recovered
+36,Reyansh Joshi,13,Female,+91-7662976399,5,4,7,2023-12-06,Recovered
+37,Sunita Jain,44,Female,+91-8632127923,11,21,15,2023-03-18,Discharged
+38,Rajesh Nair,70,Male,+91-7977046129,8,18,9,2025-09-04,Discharged
+39,Sai Pandey,13,Male,+91-7197529702,6,114,10,2025-02-03,Discharged
+40,Vihaan Shah,46,Female,+91-9928310291,5,111,4,2023-11-29,Recovered
+41,Saanvi Yadav,23,Male,+91-9504640817,20,98,10,2025-03-22,Recovered
+42,Aadhya Joshi,82,Female,+91-8998247509,9,118,10,2023-05-27,Discharged
+43,Anika Rao,21,Male,+91-8822393017,12,114,15,2025-07-11,Recovered
+44,Sara Joshi,39,Male,+91-8541717841,16,99,2,2024-12-07,Recovered
+45,Anika Shah,3,Female,+91-7210643427,1,71,9,2024-08-11,Recovered
+46,Mamta Nair,37,Male,+91-9910976189,8,91,9,2025-07-21,Recovered
+47,Krishna Singh,81,Male,+91-7564409423,15,80,1,2025-02-12,Recovered
+48,Anika Mehta,54,Male,+91-8571346130,5,52,13,2023-04-03,Discharged
+49,Kavita Jain,22,Female,+91-7494650131,10,124,12,2024-06-27,Recovered
+50,Arjun Kumar,29,Female,+91-8135840948,12,143,1,2024-04-24,Recovered
+51,Ayaan Joshi,48,Female,+91-7465342967,13,150,15,2024-07-03,Discharged
+52,Aadhya Nair,4,Female,+91-8297896903,3,57,9,2024-11-22,Recovered
+53,Rakesh Singh,18,Male,+91-8008458444,10,10,15,2024-10-26,Recovered
+54,Seeta Kumar,50,Female,+91-7663670797,18,95,7,2025-06-27,Under Treatment
+55,Rakesh Singh,63,Female,+91-8909954149,2,72,10,2025-06-25,Recovered
+56,Kavya Tiwari,13,Female,+91-7524671997,12,140,1,2025-08-31,Recovered
+57,Jitesh Gupta,85,Male,+91-7540838949,2,6,13,2025-08-29,Recovered
+58,Nita Patel,9,Male,+91-9559721644,8,56,6,2025-03-16,Recovered
+59,Myra Kumar,17,Female,+91-7063824611,4,45,10,2023-01-03,Recovered
+60,Kavya Iyer,42,Male,+91-9259520140,9,45,1,2024-01-02,Under Treatment
+61,Arjun Nair,58,Female,+91-9641863774,19,132,2,2023-04-27,Recovered
+62,Geeta Shah,59,Male,+91-7463692519,16,16,15,2023-02-14,Recovered
+63,Ritesh Gupta,11,Female,+91-9514122177,3,38,2,2024-05-17,Recovered
+64,Rajesh Mishra,77,Female,+91-7491404673,17,117,9,2024-07-15,Recovered
+65,Rita Patel,56,Female,+91-8786661942,14,59,6,2025-05-23,Recovered
+66,Reyansh Mehta,55,Female,+91-9036965074,12,66,15,2025-01-17,Recovered
+67,Sai Gupta,12,Female,+91-9518848328,12,25,14,2023-03-10,Recovered
+68,Rita Rao,43,Male,+91-8816499958,12,106,15,2025-09-06,Discharged
+69,Vihaan Shah,77,Female,+91-9820660931,4,91,9,2025-06-07,Recovered
+70,Aadhya Singh,45,Female,+91-9409329326,9,30,9,2024-05-08,Under Treatment
+71,Kanta Menon,83,Male,+91-8327079104,1,69,3,2025-09-24,Under Treatment
+72,Suresh Tiwari,1,Male,+91-9719453060,19,37,10,2025-08-01,Recovered
+73,Vivaan Gupta,68,Male,+91-8338472296,14,97,7,2025-09-22,Recovered
+74,Rajesh Iyer,77,Male,+91-9894673596,5,14,2,2025-01-08,Recovered
+75,Myra Joshi,85,Female,+91-9200510647,20,125,7,2023-03-25,Recovered
+76,Ramesh Pandey,15,Female,+91-8697643337,17,125,10,2023-04-27,Recovered
+77,Mamta Verma,1,Male,+91-8243165953,7,78,12,2025-10-05,Under Treatment
+78,Ayaan Sharma,64,Female,+91-9148610411,5,45,7,2023-12-02,Under Treatment
+79,Ramesh Gupta,51,Male,+91-8344585158,1,112,7,2024-07-26,Recovered
+80,Mukesh Iyer,52,Female,+91-7738189691,4,75,7,2024-08-12,Referred
+81,Kanta Joshi,47,Male,+91-9250402001,4,112,4,2025-03-31,Recovered
+82,Naresh Shah,44,Male,+91-9278930366,6,86,1,2023-03-22,Recovered
+83,Ananya Tiwari,45,Male,+91-9587283948,4,61,2,2024-06-06,Recovered
+84,Arjun Yadav,81,Female,+91-9424473755,19,119,12,2023-06-06,Recovered
+85,Kanta Mehta,81,Female,+91-8300603858,15,39,1,2024-10-20,Recovered
+86,Myra Iyer,8,Female,+91-7244340918,3,130,5,2025-03-26,Recovered
+87,Anika Gupta,83,Male,+91-7176191212,13,130,7,2024-01-13,Recovered
+88,Nita Patel,42,Female,+91-8475054001,5,129,15,2024-04-05,Recovered
+89,Sai Reddy,83,Male,+91-9250857309,8,11,10,2025-10-02,Referred
+90,Kanta Yadav,47,Female,+91-9567900251,13,73,7,2024-06-19,Recovered
+91,Suresh Gupta,43,Male,+91-9819921250,13,143,4,2023-02-23,Under Treatment
+92,Mamta Kumar,43,Male,+91-9817733555,5,150,15,2025-09-14,Recovered
+93,Naresh Kumar,77,Male,+91-7548870021,18,80,7,2024-12-16,Under Treatment
+94,Geeta Gupta,83,Female,+91-7919950484,12,131,1,2024-11-17,Recovered
+95,Meera Patel,29,Male,+91-9180510715,3,40,5,2023-12-16,Under Treatment
+96,Seeta Reddy,5,Female,+91-9975749366,20,34,7,2025-02-28,Recovered
+97,Kanta Yadav,57,Male,+91-8907818922,12,106,10,2025-02-28,Recovered
+98,Anika Joshi,30,Male,+91-9913305623,16,80,15,2024-09-17,Recovered
+99,Nita Joshi,60,Female,+91-7857695227,17,98,8,2025-08-27,Referred
+100,Mamta Kumar,33,Male,+91-9215813941,12,124,9,2025-03-31,Recovered
+101,Ayaan Shah,11,Male,+91-8878930355,15,70,15,2025-05-21,Recovered
+102,Aadhya Joshi,45,Male,+91-8658570832,2,107,7,2023-04-04,Recovered
+103,Mahesh Agarwal,4,Female,+91-8232137626,11,26,14,2023-03-25,Recovered
+104,Sunita Kumar,61,Female,+91-7642181881,3,2,1,2025-07-28,Recovered
+105,Mamta Reddy,55,Male,+91-8803136972,8,74,5,2024-07-15,Recovered
+106,Kanta Joshi,9,Male,+91-9469810046,20,128,9,2024-10-16,Recovered
+107,Ishaan Shah,55,Male,+91-9869961166,8,91,9,2023-09-05,Recovered
+108,Geeta Tiwari,9,Male,+91-8603321558,16,100,1,2023-03-29,Recovered
+109,Vivaan Tiwari,9,Female,+91-8428156550,4,62,12,2023-09-17,Under Treatment
+110,Aditya Tiwari,70,Female,+91-7782878018,15,45,15,2023-05-17,Recovered
+111,Krishna Gupta,59,Male,+91-7179984654,7,76,1,2025-04-10,Recovered
+112,Priya Reddy,51,Female,+91-8533192415,2,65,12,2023-11-20,Recovered
+113,Vihaan Mehta,35,Male,+91-8660626647,14,95,15,2025-06-01,Under Treatment
+114,Saanvi Nair,64,Female,+91-7338988898,9,133,14,2023-12-14,Under Treatment
+115,Mamta Yadav,70,Female,+91-8316389690,4,83,1,2024-03-16,Recovered
+116,Mamta Pandey,22,Female,+91-8514230707,15,90,1,2024-04-01,Discharged
+117,Mukesh Jain,82,Male,+91-9918046336,13,20,7,2024-09-21,Under Treatment
+118,Vivaan Kumar,78,Female,+91-8573368806,5,9,1,2023-06-13,Under Treatment
+119,Dinesh Iyer,5,Male,+91-9464975279,12,116,7,2024-01-06,Under Treatment
+120,Geeta Tiwari,51,Female,+91-7799070274,8,72,15,2023-05-21,Recovered
+121,Geeta Mishra,72,Male,+91-9627992499,9,68,10,2024-05-26,Recovered
+122,Meera Patel,16,Male,+91-7377058351,15,19,3,2023-10-20,Under Treatment
+123,Rajesh Tiwari,9,Female,+91-9738900744,6,77,10,2025-04-09,Discharged
+124,Mahesh Reddy,29,Male,+91-8550038771,5,52,4,2023-06-28,Recovered
+125,Nita Tiwari,60,Male,+91-9055850987,3,23,5,2024-07-21,Referred
+126,Rakesh Pandey,74,Male,+91-9921045865,11,33,10,2024-06-22,Recovered
+127,Ramesh Kumar,71,Male,+91-7533267960,14,34,8,2024-06-13,Discharged
+128,Ishaan Shah,22,Male,+91-8219978197,8,83,7,2024-06-14,Discharged
+129,Sai Jain,26,Female,+91-9753020051,10,33,9,2025-05-16,Recovered
+130,Anita Iyer,20,Male,+91-7348849508,19,87,1,2023-06-22,Discharged
+131,Nita Jain,84,Male,+91-9693648923,14,147,9,2023-02-16,Recovered
+132,Anika Shah,62,Male,+91-7678950361,10,104,7,2024-07-12,Recovered
+133,Rakesh Nair,60,Male,+91-8371453454,20,88,2,2024-03-26,Discharged
+134,Ramesh Mishra,17,Female,+91-7526227599,18,132,2,2025-01-21,Recovered
+135,Ritesh Agarwal,19,Male,+91-8795875043,10,13,15,2023-10-01,Discharged
+136,Aditi Mehta,74,Female,+91-9142156616,6,49,8,2023-09-12,Recovered
+137,Priya Nair,3,Male,+91-9505443885,17,101,7,2025-06-19,Recovered
+138,Vihaan Verma,37,Female,+91-8850820685,10,121,9,2023-12-28,Under Treatment
+139,Sara Tiwari,52,Female,+91-8557027753,13,12,1,2023-05-18,Recovered
+140,Anika Gupta,50,Female,+91-9624410325,9,141,15,2024-07-20,Recovered
+141,Krishna Singh,51,Female,+91-7854947088,18,87,15,2023-05-02,Under Treatment
+142,Kavita Mishra,65,Male,+91-9034715642,2,12,2,2024-09-08,Recovered
+143,Jitesh Kumar,78,Male,+91-9647849438,20,84,5,2024-06-15,Recovered
+144,Priya Iyer,44,Female,+91-8422663210,10,145,7,2025-01-27,Recovered
+145,Ayaan Pandey,75,Female,+91-9484528348,20,7,7,2024-11-20,Referred
+146,Aadhya Verma,75,Female,+91-8632905061,17,44,9,2024-08-14,Recovered
+147,Kavya Verma,74,Male,+91-8773650170,1,49,7,2023-06-01,Recovered
+148,Diya Pandey,65,Female,+91-9844242456,5,16,8,2024-12-08,Recovered
+149,Geeta Mishra,41,Male,+91-9923781318,18,118,6,2024-05-04,Recovered
+150,Sara Menon,62,Male,+91-8278244804,9,64,9,2024-10-20,Recovered
+151,Anika Patel,63,Female,+91-8174491176,12,123,9,2025-02-28,Discharged
+152,Ayaan Iyer,70,Female,+91-8247484671,12,102,15,2023-10-22,Under Treatment
+153,Anika Gupta,45,Female,+91-8164506150,16,66,3,2023-02-13,Under Treatment
+154,Rita Jain,18,Male,+91-7969252345,8,62,1,2025-08-13,Discharged
+155,Aadhya Verma,13,Female,+91-7022254113,16,85,2,2024-10-15,Under Treatment
+156,Rita Yadav,53,Female,+91-8225849566,7,123,12,2025-09-14,Recovered
+157,Vihaan Gupta,84,Male,+91-7755006725,2,137,15,2024-10-23,Recovered
+158,Aditya Mishra,64,Male,+91-7460852958,2,75,1,2025-08-14,Recovered
+159,Suresh Shah,59,Female,+91-7483814153,17,35,7,2025-08-08,Recovered
+160,Aditi Joshi,83,Female,+91-9438601776,1,48,11,2023-12-05,Under Treatment
+161,Ananya Yadav,79,Female,+91-7409675904,17,110,6,2024-11-21,Recovered
+162,Krishna Nair,42,Male,+91-8146731886,9,2,7,2023-07-09,Recovered
+163,Suresh Shah,75,Male,+91-7507771858,12,67,10,2025-09-03,Recovered
+164,Priya Yadav,52,Female,+91-7573673552,10,31,7,2024-04-21,Recovered
+165,Ishaan Joshi,78,Female,+91-9852263888,18,107,15,2024-05-04,Under Treatment
+166,Diya Agarwal,77,Male,+91-9423086220,15,135,9,2025-04-25,Recovered
+167,Vihaan Rao,65,Male,+91-9234849897,18,147,2,2023-04-25,Recovered
+168,Ayaan Patel,75,Female,+91-7566696611,17,24,7,2024-03-28,Recovered
+169,Rakesh Joshi,73,Male,+91-7093503397,15,144,10,2024-06-09,Recovered
+170,Sara Sharma,28,Male,+91-7258795967,14,12,7,2024-02-10,Recovered
+171,Arjun Nair,5,Female,+91-9774036963,6,105,12,2025-08-15,Under Treatment
+172,Rakesh Tiwari,49,Female,+91-9316277000,13,97,1,2025-09-13,Referred
+173,Ramesh Singh,23,Female,+91-7014917670,5,136,11,2023-05-17,Recovered
+174,Vivaan Shah,60,Female,+91-8486744752,13,137,15,2025-02-13,Recovered
+175,Myra Patel,15,Male,+91-7067198189,20,108,12,2023-06-08,Discharged
+176,Diya Gupta,13,Male,+91-8051125170,20,115,10,2023-09-04,Discharged
+177,Aditya Mishra,57,Male,+91-7601877719,7,139,12,2025-01-28,Under Treatment
+178,Anika Agarwal,74,Female,+91-8017495081,20,148,12,2024-05-30,Under Treatment
+179,Ishaan Reddy,29,Female,+91-7752191321,9,77,1,2023-11-06,Discharged
+180,Mukesh Rao,64,Male,+91-8788100692,13,89,13,2024-10-03,Recovered
+181,Ishaan Shah,49,Male,+91-7619986018,16,138,4,2024-02-23,Recovered
+182,Jitesh Verma,72,Female,+91-8095197958,18,107,9,2025-04-05,Recovered
+183,Suresh Gupta,58,Female,+91-8153033730,18,24,11,2023-07-28,Recovered
+184,Mamta Menon,6,Male,+91-9058982440,19,49,11,2024-01-22,Recovered
+185,Suresh Shah,2,Male,+91-8041929790,4,49,12,2023-08-02,Under Treatment
+186,Mamta Patel,51,Male,+91-9292009846,11,142,12,2024-12-13,Recovered
+187,Ramesh Shah,34,Female,+91-9016446001,16,132,7,2024-10-26,Under Treatment
+188,Rajesh Patel,48,Female,+91-7626733282,2,106,9,2025-02-18,Recovered
+189,Sara Rao,75,Female,+91-9447227327,5,76,3,2023-01-17,Recovered
+190,Kavya Nair,71,Female,+91-9107091983,16,66,15,2025-05-03,Recovered
+191,Aditi Tiwari,22,Male,+91-9756550636,16,140,3,2024-04-16,Discharged
+192,Vihaan Reddy,5,Male,+91-7993998848,1,13,7,2025-09-07,Under Treatment
+193,Ishaan Sharma,28,Female,+91-9647930485,2,96,9,2023-03-11,Recovered
+194,Sunita Nair,3,Male,+91-8180002487,18,137,7,2025-07-23,Recovered
+195,Anika Sharma,65,Female,+91-8034953269,4,46,15,2024-07-02,Recovered
+196,Kanta Reddy,33,Female,+91-8971380304,13,69,1,2023-07-16,Referred
+197,Kavya Agarwal,39,Male,+91-9044426338,3,9,7,2024-08-01,Recovered
+198,Aarav Yadav,11,Female,+91-7409575959,11,112,9,2023-02-27,Discharged
+199,Geeta Verma,30,Male,+91-9939599052,16,146,4,2025-07-05,Discharged
+200,Myra Rao,73,Male,+91-7619298045,11,46,1,2025-08-05,Recovered
+201,Naresh Gupta,39,Male,+91-9907843037,8,145,9,2025-02-09,Under Treatment
+202,Seeta Mehta,50,Male,+91-7419557255,17,21,12,2025-07-07,Recovered
+203,Aadhya Gupta,44,Female,+91-8935098341,1,84,9,2024-03-23,Under Treatment
+204,Aadhya Tiwari,71,Female,+91-7368053428,6,111,10,2024-05-17,Recovered
+205,Kanta Shah,32,Male,+91-9722583581,9,22,2,2025-03-01,Under Treatment
+206,Dinesh Mehta,47,Male,+91-8158638062,1,24,15,2023-06-07,Recovered
+207,Krishna Gupta,24,Female,+91-7112794026,18,115,9,2023-04-15,Recovered
+208,Ramesh Rao,12,Female,+91-7363781647,1,99,5,2023-04-02,Recovered
+209,Rita Agarwal,74,Male,+91-9117951204,6,98,2,2025-01-12,Recovered
+210,Arjun Yadav,56,Female,+91-8081042134,10,108,8,2023-05-30,Recovered
+211,Kavya Nair,77,Male,+91-8699484121,4,118,2,2025-08-24,Recovered
+212,Kanta Mishra,43,Female,+91-9552898167,14,86,15,2023-12-07,Discharged
+213,Priya Mehta,78,Male,+91-8370685826,11,123,3,2023-05-20,Recovered
+214,Meera Iyer,32,Female,+91-7489144474,9,97,15,2023-10-26,Recovered
+215,Nita Patel,76,Male,+91-7900432998,1,141,15,2025-08-12,Recovered
+216,Anika Gupta,53,Female,+91-8817320723,10,36,4,2024-03-24,Recovered
+217,Dinesh Gupta,58,Female,+91-9970866955,13,150,9,2025-03-19,Discharged
+218,Seeta Verma,47,Male,+91-9778843173,8,28,10,2024-03-04,Recovered
+219,Aditya Iyer,83,Female,+91-7953487391,14,85,2,2024-09-19,Recovered
+220,Geeta Rao,75,Male,+91-9527974623,12,115,7,2024-06-06,Under Treatment
+221,Kavita Kumar,45,Male,+91-7368743555,4,124,5,2024-12-08,Discharged
+222,Ishaan Tiwari,40,Female,+91-7419287737,7,117,8,2023-04-29,Recovered
+223,Ritesh Mehta,9,Female,+91-7469709122,4,12,1,2024-03-24,Recovered
+224,Aditi Agarwal,67,Male,+91-8984507492,6,142,6,2024-11-24,Recovered
+225,Naresh Yadav,24,Female,+91-8930909978,1,102,11,2023-08-26,Discharged
+226,Mukesh Mishra,1,Male,+91-7268709250,9,53,12,2024-08-29,Under Treatment
+227,Reyansh Rao,24,Female,+91-9102317678,7,84,7,2024-08-14,Recovered
+228,Rajesh Menon,50,Female,+91-7741000011,12,30,7,2024-06-24,Recovered
+229,Priya Menon,76,Male,+91-7786170238,11,35,2,2025-04-13,Recovered
+230,Ishaan Reddy,50,Female,+91-9729458763,19,36,7,2024-01-18,Recovered
+231,Saanvi Rao,22,Female,+91-9660345628,5,74,3,2024-07-04,Under Treatment
+232,Ramesh Sharma,63,Male,+91-9125879326,13,50,15,2023-02-24,Recovered
+233,Meera Pandey,57,Female,+91-7947167036,3,43,9,2024-02-23,Under Treatment
+234,Aditya Jain,29,Female,+91-9127354612,15,44,9,2023-10-27,Under Treatment
+235,Kavita Singh,74,Male,+91-7178715833,18,69,15,2024-07-16,Recovered
+236,Ritesh Rao,28,Female,+91-8931585714,8,27,5,2025-02-17,Referred
+237,Ramesh Gupta,57,Male,+91-8505947987,7,61,14,2023-09-27,Recovered
+238,Kanta Pandey,22,Male,+91-9286128610,7,53,14,2025-05-31,Recovered
+239,Mamta Rao,22,Female,+91-9209395548,10,75,9,2023-10-15,Referred
+240,Reyansh Kumar,53,Male,+91-7628110811,5,71,10,2025-10-06,Recovered
+241,Rajesh Agarwal,51,Female,+91-8611352885,19,37,9,2024-12-29,Recovered
+242,Arjun Gupta,52,Female,+91-7010621799,15,95,15,2024-04-07,Recovered
+243,Sai Joshi,82,Female,+91-7909895115,18,17,7,2025-06-08,Referred
+244,Myra Mehta,37,Female,+91-8476350425,19,141,2,2024-05-21,Discharged
+245,Vihaan Verma,13,Female,+91-8960730480,4,5,15,2025-07-04,Recovered
+246,Mukesh Patel,17,Female,+91-7353993484,9,41,2,2023-01-01,Recovered
+247,Aditi Verma,51,Female,+91-7004665657,14,60,10,2024-01-16,Under Treatment
+248,Sunita Gupta,17,Male,+91-7517946362,15,133,1,2023-08-07,Recovered
+249,Mukesh Kumar,62,Male,+91-7443247229,13,59,1,2025-10-08,Under Treatment
+250,Mahesh Shah,18,Female,+91-9621301168,5,35,1,2023-11-17,Recovered
+251,Aditi Joshi,45,Male,+91-7933058809,14,39,9,2024-10-27,Recovered
+252,Reyansh Kumar,16,Female,+91-8189567020,14,90,5,2023-03-30,Recovered
+253,Sai Agarwal,71,Female,+91-7810230640,10,7,3,2024-10-22,Recovered
+254,Naresh Shah,83,Male,+91-9740542751,16,62,7,2025-02-04,Recovered
+255,Arjun Reddy,2,Female,+91-8807595119,5,82,7,2024-08-31,Under Treatment
+256,Seeta Yadav,61,Male,+91-7171055058,19,5,1,2024-01-10,Recovered
+257,Vihaan Mishra,65,Female,+91-9751086697,14,129,7,2025-08-02,Recovered
+258,Seeta Menon,20,Female,+91-7667339697,10,22,1,2024-07-03,Discharged
+259,Rajesh Mishra,76,Male,+91-7248704157,14,80,11,2024-07-03,Under Treatment
+260,Sai Pandey,15,Female,+91-7754393408,10,15,10,2023-09-08,Recovered
+261,Aarav Kumar,2,Male,+91-8113457241,12,128,8,2023-05-03,Under Treatment
+262,Mahesh Kumar,35,Male,+91-7274328104,11,8,14,2023-06-20,Recovered
+263,Nita Gupta,64,Female,+91-7716750131,12,131,1,2023-09-27,Discharged
+264,Aditi Jain,14,Male,+91-7052776893,17,59,1,2024-01-12,Discharged
+265,Aditya Nair,47,Female,+91-9374536171,6,39,15,2023-09-08,Discharged
+266,Rakesh Agarwal,42,Male,+91-8601198885,11,107,4,2025-04-02,Recovered
+267,Kavita Verma,23,Male,+91-8997564262,2,133,15,2023-05-03,Recovered
+268,Anika Shah,42,Male,+91-9421531503,15,142,1,2025-06-05,Recovered
+269,Priya Menon,32,Female,+91-7839332926,19,95,15,2025-03-14,Referred
+270,Seeta Agarwal,20,Male,+91-9978391464,1,105,4,2025-01-20,Recovered
+271,Aarav Mehta,1,Female,+91-8803095297,4,79,3,2025-06-17,Referred
+272,Vihaan Kumar,36,Male,+91-8599840853,8,12,15,2024-05-18,Recovered
+273,Sai Iyer,13,Male,+91-9845174979,3,101,9,2024-04-14,Recovered
+274,Krishna Agarwal,38,Female,+91-8366047498,13,81,10,2025-09-14,Under Treatment
+275,Myra Agarwal,10,Male,+91-8930874468,19,35,2,2024-04-08,Recovered
+276,Rajesh Pandey,16,Female,+91-7515024824,15,54,5,2024-04-22,Recovered
+277,Aditi Shah,78,Male,+91-8527903519,11,56,2,2023-04-03,Under Treatment
+278,Kavita Verma,39,Female,+91-9387803202,1,45,15,2024-02-10,Discharged
+279,Rita Agarwal,13,Female,+91-7954720281,5,27,2,2025-02-05,Recovered
+280,Ananya Mishra,48,Male,+91-7093631055,19,150,4,2023-05-14,Under Treatment
+281,Ananya Joshi,17,Male,+91-7721508131,4,85,1,2023-03-08,Recovered
+282,Nita Pandey,51,Female,+91-7922198636,13,8,10,2025-08-04,Recovered
+283,Saanvi Jain,36,Female,+91-9780039555,2,39,9,2025-07-19,Recovered
+284,Meera Pandey,71,Female,+91-7856664739,3,16,4,2023-10-30,Recovered
+285,Geeta Agarwal,81,Male,+91-8477615282,12,98,7,2024-10-20,Under Treatment
+286,Nita Reddy,42,Female,+91-7125857393,6,70,1,2025-07-23,Recovered
+287,Myra Verma,61,Female,+91-9821211202,8,150,15,2025-07-06,Recovered
+288,Myra Rao,8,Male,+91-7746087503,13,148,7,2023-09-04,Under Treatment
+289,Kavya Iyer,41,Female,+91-9418534256,12,8,15,2023-06-30,Recovered
+290,Ananya Nair,70,Female,+91-9584122005,16,45,1,2025-08-29,Recovered
+291,Vivaan Reddy,62,Male,+91-7762184337,20,85,3,2023-08-13,Recovered
+292,Rajesh Verma,3,Male,+91-7311520864,4,37,15,2025-07-29,Discharged
+293,Naresh Iyer,13,Female,+91-8876335418,11,78,2,2024-01-18,Recovered
+294,Meera Mehta,23,Female,+91-9957078297,19,58,14,2025-03-21,Recovered
+295,Krishna Yadav,1,Female,+91-9625862062,2,146,3,2023-10-29,Recovered
+296,Nita Singh,64,Male,+91-7721070971,3,85,4,2023-08-15,Referred
+297,Sai Mehta,58,Male,+91-8102337464,7,68,4,2024-10-13,Recovered
+298,Reyansh Sharma,7,Female,+91-9117771015,14,113,15,2025-03-16,Discharged
+299,Dinesh Tiwari,70,Female,+91-9951331472,16,26,14,2025-06-21,Recovered
+300,Aditi Joshi,10,Male,+91-7318688299,1,76,5,2023-08-19,Referred
+301,Aditi Mishra,21,Male,+91-9073338701,3,141,6,2023-12-17,Referred
+302,Vivaan Pandey,84,Male,+91-7815976168,6,112,1,2024-12-22,Recovered
+303,Rita Rao,34,Female,+91-9360783034,8,77,2,2024-02-24,Recovered
+304,Meera Kumar,7,Female,+91-9684745185,14,1,1,2025-05-10,Under Treatment
+305,Sunita Patel,13,Male,+91-9033970459,6,53,9,2024-09-06,Referred
+306,Ayaan Shah,51,Female,+91-7794058803,9,126,1,2025-05-14,Recovered
+307,Dinesh Tiwari,24,Female,+91-8153464986,9,12,7,2024-01-15,Recovered
+308,Vihaan Kumar,13,Male,+91-7977159856,18,89,7,2024-07-31,Under Treatment
+309,Vihaan Mishra,67,Female,+91-8283560032,16,138,9,2024-07-20,Recovered
+310,Naresh Verma,65,Male,+91-7910061300,15,31,3,2023-03-22,Referred
+311,Ananya Kumar,6,Female,+91-7635132230,14,21,3,2025-04-07,Under Treatment
+312,Mamta Jain,41,Male,+91-8186273502,13,23,9,2025-05-04,Recovered
+313,Jitesh Sharma,80,Female,+91-9502579013,14,29,2,2024-06-16,Recovered
+314,Reyansh Singh,73,Male,+91-8134458188,18,74,15,2025-02-15,Discharged
+315,Meera Iyer,78,Female,+91-9614154439,6,10,4,2024-01-28,Recovered
+316,Naresh Verma,51,Female,+91-8599620611,2,61,12,2024-11-28,Discharged
+317,Suresh Shah,40,Female,+91-8290553691,4,126,15,2023-01-21,Recovered
+318,Ritesh Mehta,35,Female,+91-8748783374,7,23,7,2025-09-24,Discharged
+319,Meera Reddy,48,Male,+91-8732526008,6,132,1,2025-01-28,Under Treatment
+320,Geeta Iyer,4,Male,+91-8960432117,7,50,15,2023-05-19,Recovered
+321,Mahesh Patel,36,Female,+91-9925621610,17,119,7,2023-02-21,Discharged
+322,Kavya Tiwari,63,Female,+91-7702285630,16,46,9,2023-02-01,Recovered
+323,Sara Gupta,37,Male,+91-7920491305,2,99,2,2025-05-07,Recovered
+324,Aadhya Agarwal,27,Female,+91-9930025537,17,105,1,2025-05-27,Under Treatment
+325,Sunita Kumar,83,Male,+91-8311939403,8,3,4,2023-01-10,Under Treatment
+326,Myra Pandey,49,Female,+91-9236122747,9,118,3,2024-12-30,Recovered
+327,Kanta Mishra,75,Male,+91-8607304606,17,2,15,2025-04-24,Referred
+328,Mamta Menon,37,Female,+91-9751333497,16,28,1,2024-07-28,Referred
+329,Myra Jain,84,Female,+91-7243845356,5,49,8,2023-11-29,Recovered
+330,Mamta Mishra,85,Female,+91-8114227340,1,36,10,2025-04-04,Referred
+331,Rakesh Mishra,50,Male,+91-7955042637,19,150,15,2025-07-17,Recovered
+332,Seeta Nair,46,Female,+91-7549515893,18,44,3,2024-12-03,Recovered
+333,Sara Rao,24,Female,+91-8318921193,8,23,7,2025-01-28,Under Treatment
+334,Suresh Tiwari,34,Female,+91-9506433915,4,119,7,2024-03-06,Discharged
+335,Kanta Gupta,61,Male,+91-8281428200,4,129,15,2024-08-17,Recovered
+336,Vihaan Kumar,18,Male,+91-8965254350,14,88,15,2024-02-28,Discharged
+337,Rajesh Yadav,11,Female,+91-8941553836,6,86,5,2023-05-27,Recovered
+338,Diya Yadav,74,Male,+91-8844300709,3,126,2,2023-10-08,Recovered
+339,Mukesh Nair,50,Male,+91-7060460757,18,10,3,2024-02-18,Recovered
+340,Rajesh Reddy,25,Male,+91-8340426053,8,2,4,2025-07-02,Discharged
+341,Reyansh Mishra,65,Female,+91-8249095871,3,43,15,2023-05-13,Recovered
+342,Geeta Menon,68,Female,+91-8542970785,5,112,7,2024-04-11,Discharged
+343,Ananya Yadav,52,Male,+91-7094116768,8,59,11,2025-02-07,Recovered
+344,Kavita Yadav,16,Female,+91-9296662600,13,10,15,2024-08-26,Recovered
+345,Vihaan Menon,7,Male,+91-8633177480,2,6,10,2024-09-30,Recovered
+346,Rita Jain,61,Male,+91-9845342687,1,53,5,2023-05-07,Recovered
+347,Myra Menon,78,Male,+91-8214216328,4,108,8,2024-06-16,Recovered
+348,Reyansh Nair,26,Male,+91-8759889613,17,68,15,2023-04-27,Recovered
+349,Aditi Verma,71,Female,+91-9884642366,16,54,6,2023-10-30,Recovered
+350,Ayaan Iyer,64,Male,+91-8099048201,17,24,1,2023-04-02,Under Treatment
+351,Aadhya Joshi,38,Female,+91-7169412921,2,119,2,2024-10-21,Recovered
+352,Anika Tiwari,41,Female,+91-7041542315,4,30,15,2025-05-22,Discharged
+353,Krishna Yadav,43,Female,+91-8600399955,20,113,4,2025-05-22,Under Treatment
+354,Suresh Yadav,15,Female,+91-9054046672,15,103,4,2025-04-14,Recovered
+355,Rakesh Yadav,15,Male,+91-9073072687,6,16,2,2025-03-30,Discharged
+356,Nita Joshi,24,Female,+91-7561160362,20,92,1,2025-04-01,Recovered
+357,Meera Singh,53,Female,+91-9911682538,3,12,4,2024-05-09,Recovered
+358,Nita Iyer,29,Female,+91-8859067602,17,133,10,2024-06-21,Recovered
+359,Kavya Nair,45,Female,+91-7050014313,18,39,15,2024-11-08,Recovered
+360,Aditi Reddy,61,Female,+91-8421182517,3,43,12,2024-10-20,Recovered
+361,Myra Verma,65,Male,+91-8971796256,13,141,7,2025-09-20,Recovered
+362,Nita Joshi,12,Female,+91-9806215682,11,115,2,2024-03-30,Recovered
+363,Reyansh Mishra,53,Male,+91-9595033294,18,143,1,2023-01-19,Recovered
+364,Kanta Shah,66,Male,+91-7957425987,11,117,7,2025-09-13,Recovered
+365,Jitesh Mehta,72,Female,+91-7952396600,15,94,2,2025-05-14,Under Treatment
+366,Suresh Tiwari,82,Female,+91-7705041929,17,141,7,2023-01-03,Recovered
+367,Krishna Pandey,14,Female,+91-7925949882,7,51,2,2024-05-19,Discharged
+368,Ananya Mehta,14,Female,+91-8964465977,19,12,2,2024-04-13,Discharged
+369,Anita Reddy,18,Female,+91-8858906417,17,2,11,2024-11-05,Recovered
+370,Anita Nair,66,Male,+91-8663894274,6,149,11,2025-05-08,Recovered
+371,Mamta Menon,42,Female,+91-8175085349,20,108,15,2024-11-04,Under Treatment
+372,Suresh Shah,58,Male,+91-9200288670,14,36,9,2024-02-12,Discharged
+373,Rita Mehta,71,Male,+91-8483024614,7,52,9,2023-11-03,Recovered
+374,Krishna Yadav,65,Female,+91-9865418497,12,30,9,2025-08-01,Recovered
+375,Rakesh Rao,37,Female,+91-7227912437,17,4,2,2024-12-28,Recovered
+376,Vihaan Patel,35,Male,+91-8267619081,9,74,2,2024-11-17,Recovered
+377,Seeta Verma,46,Female,+91-7963392891,20,27,15,2023-07-28,Under Treatment
+378,Rita Mishra,31,Female,+91-9942691532,13,13,7,2025-01-30,Referred
+379,Rita Verma,2,Female,+91-8902944754,20,52,15,2023-11-17,Discharged
+380,Aadhya Tiwari,76,Male,+91-7319841893,10,50,7,2025-04-29,Referred
+381,Saanvi Reddy,16,Female,+91-7691184145,14,11,4,2023-07-11,Recovered
+382,Sara Sharma,43,Female,+91-7218422454,2,40,2,2024-08-21,Recovered
+383,Kanta Shah,63,Female,+91-9235986982,11,19,8,2025-03-03,Referred
+384,Kavita Yadav,54,Female,+91-8425428846,12,24,3,2023-03-11,Recovered
+385,Mahesh Shah,28,Female,+91-8032286260,1,144,2,2023-12-06,Recovered
+386,Kanta Menon,32,Male,+91-8657324532,13,83,15,2025-07-15,Discharged
+387,Seeta Shah,4,Female,+91-9798292304,17,132,7,2023-09-20,Recovered
+388,Rajesh Reddy,11,Male,+91-7905299540,18,43,9,2023-07-17,Recovered
+389,Diya Pandey,14,Male,+91-9946534590,14,138,10,2024-11-17,Discharged
+390,Vivaan Joshi,43,Male,+91-9396953414,3,23,1,2023-06-07,Under Treatment
+391,Nita Agarwal,34,Female,+91-7072546169,15,100,9,2023-03-14,Recovered
+392,Ayaan Rao,1,Male,+91-9159668272,2,150,10,2024-02-03,Recovered
+393,Anika Shah,78,Male,+91-7132367258,15,73,7,2023-04-19,Under Treatment
+394,Aditi Rao,29,Male,+91-8280142912,18,101,5,2024-04-30,Recovered
+395,Mahesh Sharma,71,Male,+91-9307050488,2,32,1,2024-11-24,Recovered
+396,Sai Shah,27,Female,+91-7611840071,14,55,15,2024-07-14,Discharged
+397,Saanvi Agarwal,79,Female,+91-7233595980,4,50,3,2023-06-14,Under Treatment
+398,Rita Joshi,83,Male,+91-9493639344,3,75,4,2025-05-21,Recovered
+399,Suresh Tiwari,17,Male,+91-8364880195,10,26,9,2024-05-13,Discharged
+400,Ritesh Mehta,79,Female,+91-8358640560,5,150,9,2024-05-12,Recovered
+401,Mukesh Yadav,1,Female,+91-8188330817,8,64,10,2025-09-08,Recovered
+402,Mahesh Kumar,43,Female,+91-9369412470,15,119,7,2025-05-10,Recovered
+403,Saanvi Menon,11,Female,+91-9691307645,18,36,3,2023-04-22,Under Treatment
+404,Arjun Sharma,65,Male,+91-7157437641,19,149,7,2023-03-20,Recovered
+405,Sara Rao,70,Female,+91-9532315957,12,39,7,2024-07-18,Discharged
+406,Anika Kumar,60,Male,+91-9637264426,12,102,8,2025-01-20,Recovered
+407,Aditi Reddy,18,Female,+91-7627920145,6,41,9,2024-12-01,Recovered
+408,Sunita Tiwari,6,Male,+91-7183860832,8,125,1,2025-01-23,Recovered
+409,Diya Reddy,47,Female,+91-9785392585,15,121,15,2024-11-15,Recovered
+410,Reyansh Reddy,82,Female,+91-9807514105,19,68,9,2023-11-28,Recovered
+411,Mahesh Iyer,84,Male,+91-9217799930,9,133,7,2024-01-23,Discharged
+412,Ramesh Tiwari,63,Female,+91-7987802843,17,2,15,2024-02-20,Recovered
+413,Kavita Jain,28,Male,+91-7508224423,6,48,7,2023-03-20,Under Treatment
+414,Aadhya Pandey,43,Male,+91-9779957226,16,124,7,2024-11-07,Recovered
+415,Rakesh Sharma,32,Male,+91-9201784149,19,33,9,2025-05-03,Recovered
+416,Nita Kumar,8,Male,+91-9420663750,6,67,8,2023-02-10,Recovered
+417,Vivaan Shah,11,Male,+91-7732578761,20,115,15,2024-10-14,Discharged
+418,Rakesh Menon,19,Male,+91-8947639426,9,131,3,2023-08-13,Recovered
+419,Anita Gupta,30,Female,+91-9166207663,5,99,2,2024-09-02,Recovered
+420,Rakesh Kumar,78,Male,+91-9282474254,16,46,15,2024-12-01,Recovered
+421,Ayaan Gupta,62,Male,+91-9788429082,1,139,15,2024-05-30,Under Treatment
+422,Geeta Pandey,48,Male,+91-8637398296,14,136,4,2024-03-17,Under Treatment
+423,Anita Iyer,13,Female,+91-7359993773,9,35,7,2023-12-25,Recovered
+424,Mamta Rao,53,Female,+91-9482435875,1,49,10,2023-10-18,Under Treatment
+425,Ayaan Reddy,1,Female,+91-8829963525,11,53,7,2024-06-19,Recovered
+426,Anita Jain,34,Female,+91-8707052548,12,145,9,2024-10-29,Referred
+427,Diya Pandey,71,Female,+91-8317064971,12,46,9,2025-02-12,Recovered
+428,Ramesh Mishra,18,Male,+91-7430693397,15,59,13,2024-08-14,Discharged
+429,Kavita Mishra,44,Male,+91-7391222487,13,42,15,2023-08-08,Recovered
+430,Ishaan Nair,77,Female,+91-9615759047,3,23,4,2025-04-23,Recovered
+431,Dinesh Mishra,79,Female,+91-7866326003,6,15,10,2023-02-08,Recovered
+432,Geeta Shah,25,Male,+91-9894912687,17,131,10,2025-05-20,Recovered
+433,Mahesh Agarwal,84,Male,+91-8516671766,3,41,15,2023-02-06,Under Treatment
+434,Naresh Mishra,76,Male,+91-7387259395,1,133,11,2024-11-16,Recovered
+435,Anika Rao,75,Female,+91-8953175066,9,89,4,2024-07-16,Referred
+436,Naresh Iyer,1,Female,+91-9161095131,14,45,8,2025-08-10,Recovered
+437,Suresh Singh,66,Female,+91-8619547472,19,138,4,2023-10-29,Recovered
+438,Sunita Agarwal,44,Female,+91-8107327477,19,118,15,2024-07-30,Recovered
+439,Dinesh Agarwal,30,Female,+91-8131078331,12,106,8,2023-03-11,Recovered
+440,Anika Gupta,52,Female,+91-8518433834,18,20,15,2023-09-12,Recovered
+441,Nita Jain,24,Male,+91-8139907416,7,128,4,2023-08-12,Recovered
+442,Aadhya Patel,32,Female,+91-9849384717,4,40,2,2023-07-31,Recovered
+443,Kanta Sharma,70,Male,+91-9467541927,12,124,9,2024-05-19,Recovered
+444,Myra Nair,24,Female,+91-9258016513,8,102,12,2025-06-08,Recovered
+445,Mukesh Nair,70,Male,+91-7750761833,12,129,7,2025-03-29,Recovered
+446,Ayaan Reddy,59,Female,+91-7432708635,1,3,10,2024-04-13,Recovered
+447,Mahesh Menon,34,Male,+91-9633175934,9,141,4,2023-11-30,Recovered
+448,Mahesh Yadav,64,Female,+91-8720532107,14,54,10,2023-12-18,Recovered
+449,Ritesh Yadav,74,Male,+91-8012775490,8,148,14,2023-10-14,Under Treatment
+450,Mukesh Mishra,26,Male,+91-9145756342,16,39,14,2024-07-22,Recovered
+451,Geeta Rao,41,Female,+91-8711123163,9,77,9,2023-05-18,Recovered
+452,Aditi Verma,28,Female,+91-8550320086,4,122,7,2023-04-12,Recovered
+453,Rita Rao,33,Female,+91-9600929253,14,6,2,2024-01-04,Discharged
+454,Nita Iyer,84,Male,+91-8919550221,12,73,6,2023-07-23,Recovered
+455,Sai Mishra,79,Female,+91-8449071761,5,119,15,2025-06-29,Recovered
+456,Kanta Iyer,52,Male,+91-9804669917,6,21,7,2024-03-07,Recovered
+457,Myra Menon,83,Female,+91-9520801229,15,70,13,2023-10-26,Discharged
+458,Ritesh Pandey,22,Male,+91-7343875431,5,6,11,2024-06-17,Recovered
+459,Aditi Mishra,14,Male,+91-8705155784,16,17,9,2023-08-04,Recovered
+460,Sai Singh,34,Male,+91-8220523522,13,22,5,2024-06-20,Recovered
+461,Krishna Kumar,68,Male,+91-8396729008,2,8,10,2024-03-29,Discharged
+462,Sunita Joshi,70,Female,+91-9316222488,15,141,2,2025-06-03,Discharged
+463,Anita Menon,59,Female,+91-9317856944,18,135,5,2023-07-01,Recovered
+464,Sai Joshi,40,Female,+91-9247626139,9,106,2,2023-08-21,Recovered
+465,Krishna Tiwari,37,Female,+91-9048987473,1,137,10,2025-04-14,Recovered
+466,Aarav Pandey,38,Male,+91-9407562635,18,2,7,2023-11-03,Recovered
+467,Naresh Agarwal,21,Female,+91-8028910147,8,97,4,2024-03-23,Recovered
+468,Kanta Jain,37,Female,+91-8243802345,7,106,15,2024-06-13,Recovered
+469,Jitesh Menon,58,Female,+91-9297681898,7,126,5,2023-04-24,Recovered
+470,Saanvi Singh,37,Female,+91-7647181551,15,33,11,2023-01-23,Recovered
+471,Meera Patel,44,Female,+91-7136309890,16,80,15,2023-01-16,Recovered
+472,Sai Kumar,8,Female,+91-8074083133,3,101,9,2023-12-05,Recovered
+473,Dinesh Sharma,16,Male,+91-7855471045,15,99,4,2025-04-16,Referred
+474,Reyansh Reddy,27,Female,+91-7181187132,10,100,15,2024-04-16,Recovered
+475,Rita Reddy,16,Female,+91-9863432302,10,124,3,2025-02-01,Discharged
+476,Ayaan Agarwal,82,Female,+91-7513891087,1,84,3,2023-08-12,Recovered
+477,Kavya Sharma,6,Female,+91-9147136659,12,40,12,2024-02-10,Recovered
+478,Kanta Mehta,81,Male,+91-7461243650,12,16,10,2023-04-04,Under Treatment
+479,Meera Agarwal,41,Female,+91-7578670284,7,113,1,2023-05-09,Recovered
+480,Aditya Nair,57,Female,+91-8493208421,16,139,3,2023-09-14,Recovered
+481,Jitesh Jain,77,Male,+91-8131076509,17,18,2,2023-11-28,Recovered
+482,Mahesh Joshi,1,Female,+91-9663727197,1,48,9,2024-07-08,Recovered
+483,Rajesh Gupta,85,Female,+91-7661989794,17,49,10,2023-09-02,Under Treatment
+484,Anika Mehta,53,Female,+91-7557376230,4,29,8,2024-09-19,Recovered
+485,Aditya Patel,14,Female,+91-8669019208,4,50,1,2023-07-02,Recovered
+486,Meera Reddy,80,Female,+91-7056204397,12,13,3,2024-11-04,Under Treatment
+487,Diya Nair,11,Female,+91-8786505393,12,16,9,2025-08-10,Discharged
+488,Mahesh Verma,79,Female,+91-7334729865,2,136,11,2025-04-21,Under Treatment
+489,Diya Reddy,13,Male,+91-9821263164,18,60,7,2025-08-25,Recovered
+490,Nita Yadav,72,Female,+91-9857194152,19,28,7,2023-09-12,Recovered
+491,Reyansh Yadav,24,Female,+91-9576618444,11,130,10,2024-03-13,Recovered
+492,Ramesh Mehta,71,Female,+91-8389211119,14,96,12,2024-03-29,Recovered
+493,Kavya Iyer,70,Male,+91-8943058119,18,97,15,2024-09-15,Recovered
+494,Naresh Sharma,5,Female,+91-7028212913,17,5,2,2024-04-03,Discharged
+495,Aadhya Patel,41,Male,+91-9455054143,18,71,8,2023-11-04,Recovered
+496,Reyansh Verma,59,Female,+91-8073127233,5,40,4,2023-06-08,Discharged
+497,Sara Shah,12,Female,+91-9072464202,7,146,11,2023-08-27,Under Treatment
+498,Meera Iyer,13,Female,+91-8436192596,19,10,7,2023-06-27,Under Treatment
+499,Mukesh Pandey,16,Male,+91-8371454094,13,3,1,2023-12-23,Recovered
+500,Nita Kumar,42,Male,+91-8913907148,2,40,10,2024-07-06,Referred
+501,Mamta Iyer,65,Male,+91-7567747634,14,57,5,2025-02-09,Recovered
+502,Sai Nair,74,Male,+91-8866125107,13,141,4,2023-12-11,Recovered
+503,Krishna Kumar,62,Male,+91-9645686265,13,125,10,2025-03-03,Recovered
+504,Geeta Agarwal,32,Male,+91-7384806111,14,69,5,2025-01-23,Discharged
+505,Rakesh Pandey,47,Female,+91-8309186996,11,49,7,2023-04-26,Recovered
+506,Ramesh Menon,57,Male,+91-9943595471,2,113,15,2023-06-23,Recovered
+507,Ishaan Gupta,15,Male,+91-8235598059,20,63,15,2024-01-18,Discharged
+508,Suresh Singh,40,Female,+91-7909997553,1,121,6,2023-01-15,Under Treatment
+509,Seeta Reddy,34,Female,+91-9262584884,1,37,7,2023-07-28,Discharged
+510,Sara Yadav,8,Female,+91-7035795037,20,52,4,2023-02-14,Recovered
+511,Dinesh Jain,85,Female,+91-8660104622,1,28,5,2023-03-10,Discharged
+512,Dinesh Reddy,13,Female,+91-9150278891,20,125,9,2023-08-25,Recovered
+513,Jitesh Rao,3,Male,+91-7674332429,17,64,5,2025-09-16,Recovered
+514,Ramesh Tiwari,46,Female,+91-8106724433,17,61,4,2023-01-19,Recovered
+515,Dinesh Sharma,72,Female,+91-7589530134,5,58,6,2025-06-18,Recovered
+516,Dinesh Reddy,79,Male,+91-8341673745,8,107,9,2023-03-31,Recovered
+517,Mamta Mehta,58,Male,+91-7868915819,5,53,9,2025-07-20,Recovered
+518,Krishna Shah,68,Male,+91-7678810634,5,111,10,2025-06-02,Recovered
+519,Arjun Rao,69,Male,+91-7126630005,11,48,15,2023-11-22,Recovered
+520,Rajesh Pandey,53,Female,+91-7564985269,9,114,2,2025-02-22,Recovered
+521,Vivaan Menon,79,Female,+91-9952265565,20,146,4,2023-07-09,Recovered
+522,Ramesh Gupta,62,Male,+91-7790172950,20,129,7,2023-01-27,Recovered
+523,Dinesh Nair,61,Male,+91-7064485730,7,42,4,2025-05-22,Recovered
+524,Myra Pandey,29,Male,+91-8886715571,3,53,3,2025-08-05,Referred
+525,Kanta Nair,42,Female,+91-8633694617,14,64,7,2025-06-06,Recovered
+526,Rajesh Mishra,79,Male,+91-7182174975,4,134,7,2025-01-07,Under Treatment
+527,Kavya Reddy,69,Female,+91-7211722336,18,11,7,2025-06-17,Under Treatment
+528,Anika Joshi,51,Female,+91-7234276135,15,74,2,2023-07-14,Recovered
+529,Geeta Kumar,60,Female,+91-9989787464,17,24,2,2024-12-07,Under Treatment
+530,Krishna Mishra,53,Female,+91-7867291356,1,116,3,2024-07-13,Recovered
+531,Jitesh Gupta,33,Female,+91-9723320307,4,42,1,2025-06-22,Under Treatment
+532,Sai Reddy,50,Male,+91-8439643578,18,97,7,2024-01-07,Under Treatment
+533,Ishaan Yadav,19,Male,+91-8916664525,14,14,5,2024-08-02,Under Treatment
+534,Saanvi Singh,17,Male,+91-9137294302,20,1,12,2023-10-23,Recovered
+535,Meera Rao,1,Female,+91-8761586711,7,61,9,2025-05-25,Recovered
+536,Sai Menon,77,Male,+91-7891796718,18,63,4,2024-03-28,Recovered
+537,Saanvi Kumar,8,Female,+91-9591091338,5,10,15,2023-02-20,Recovered
+538,Suresh Gupta,7,Male,+91-9838649569,6,107,2,2023-11-02,Recovered
+539,Mamta Iyer,72,Male,+91-8285460026,19,117,7,2024-12-09,Recovered
+540,Mahesh Mishra,9,Female,+91-9983367767,3,141,5,2023-11-27,Recovered
+541,Myra Mehta,68,Female,+91-7469449533,7,135,10,2025-05-30,Recovered
+542,Geeta Gupta,62,Female,+91-9470219008,20,110,15,2024-08-08,Recovered
+543,Ramesh Kumar,79,Female,+91-9617377805,16,134,8,2024-09-30,Recovered
+544,Anika Patel,1,Male,+91-7890479160,15,7,9,2023-08-27,Recovered
+545,Kanta Pandey,53,Male,+91-7048521386,12,86,9,2025-03-29,Recovered
+546,Ananya Shah,33,Male,+91-7026333597,10,79,8,2024-10-17,Recovered
+547,Suresh Mehta,51,Male,+91-9888249353,7,45,6,2023-04-27,Recovered
+548,Sunita Verma,83,Male,+91-9306258033,5,124,9,2024-05-05,Discharged
+549,Suresh Joshi,53,Male,+91-9384467937,10,134,9,2025-07-06,Recovered
+550,Vivaan Patel,74,Female,+91-7133887735,3,91,15,2024-07-02,Recovered
+551,Dinesh Rao,22,Female,+91-8324058623,20,48,2,2023-12-14,Under Treatment
+552,Rajesh Verma,35,Female,+91-8299780396,16,23,15,2024-12-23,Recovered
+553,Geeta Shah,23,Male,+91-8905995222,2,96,13,2023-08-10,Discharged
+554,Vivaan Nair,65,Male,+91-9248964968,11,49,15,2024-06-02,Under Treatment
+555,Rajesh Kumar,13,Male,+91-9243454164,2,53,7,2023-11-14,Under Treatment
+556,Aarav Shah,6,Male,+91-9830315936,15,86,15,2023-04-29,Recovered
+557,Priya Sharma,74,Female,+91-9286107192,11,54,3,2025-02-02,Recovered
+558,Ritesh Singh,35,Male,+91-9403574352,9,41,2,2023-11-23,Referred
+559,Reyansh Patel,70,Female,+91-8216625499,11,141,4,2024-06-10,Discharged
+560,Kavya Yadav,10,Female,+91-9021793892,18,87,7,2024-08-10,Recovered
+561,Vihaan Singh,50,Male,+91-9545868593,14,23,7,2025-07-13,Under Treatment
+562,Ritesh Menon,46,Female,+91-9291300350,7,86,10,2024-10-06,Recovered
+563,Jitesh Iyer,17,Male,+91-8998863011,4,120,7,2023-03-22,Recovered
+564,Aadhya Agarwal,19,Female,+91-8418747769,13,94,3,2024-04-26,Discharged
+565,Rajesh Joshi,63,Male,+91-7733587041,16,17,2,2025-03-18,Recovered
+566,Ramesh Menon,74,Male,+91-7459481183,4,131,7,2023-10-17,Under Treatment
+567,Rita Gupta,39,Female,+91-9353423112,19,103,7,2023-11-30,Recovered
+568,Sunita Mishra,9,Female,+91-9436153527,19,54,7,2023-06-12,Referred
+569,Suresh Rao,31,Male,+91-9560124760,19,20,15,2025-03-17,Recovered
+570,Rajesh Rao,13,Female,+91-7467054653,10,46,15,2024-04-19,Recovered
+571,Mamta Mishra,42,Female,+91-9494379098,3,16,3,2024-12-02,Recovered
+572,Aarav Kumar,85,Male,+91-8920536604,18,116,5,2025-07-13,Recovered
+573,Diya Mehta,39,Female,+91-9626332786,12,112,15,2023-07-20,Recovered
+574,Kavita Mishra,17,Female,+91-7003622015,12,16,15,2025-10-07,Referred
+575,Rita Tiwari,15,Female,+91-9685274976,8,8,7,2024-12-21,Recovered
+576,Dinesh Mishra,49,Female,+91-7808428103,7,140,10,2023-11-22,Recovered
+577,Dinesh Tiwari,54,Male,+91-7067464491,5,74,2,2024-07-22,Recovered
+578,Meera Pandey,18,Male,+91-9986679532,14,36,15,2023-05-28,Discharged
+579,Mukesh Menon,24,Female,+91-8526032931,14,131,9,2024-09-10,Recovered
+580,Saanvi Pandey,78,Male,+91-9154908810,16,148,15,2023-08-20,Recovered
+581,Rakesh Rao,74,Female,+91-7486037259,2,9,9,2023-10-03,Under Treatment
+582,Sunita Gupta,19,Female,+91-7379874179,17,120,1,2024-08-17,Discharged
+583,Sunita Gupta,82,Female,+91-8950064497,11,14,9,2023-09-09,Recovered
+584,Sunita Iyer,43,Female,+91-9566829299,10,91,5,2024-06-08,Recovered
+585,Priya Iyer,34,Male,+91-8253070489,19,122,3,2025-02-06,Recovered
+586,Kanta Sharma,37,Female,+91-8193351499,5,22,8,2025-04-08,Discharged
+587,Krishna Menon,36,Female,+91-9541633324,1,66,12,2023-09-16,Recovered
+588,Ishaan Joshi,48,Male,+91-7142122736,8,67,8,2025-01-26,Under Treatment
+589,Sai Kumar,77,Male,+91-8890580203,14,127,12,2023-12-18,Recovered
+590,Aditi Patel,74,Female,+91-7719838233,9,14,12,2025-01-13,Recovered
+591,Naresh Nair,39,Female,+91-9038346724,8,137,7,2024-04-20,Under Treatment
+592,Ishaan Reddy,56,Male,+91-9277421089,15,74,7,2023-09-26,Recovered
+593,Aditya Singh,69,Female,+91-8438674062,20,111,15,2024-11-30,Discharged
+594,Myra Singh,33,Female,+91-7837199429,8,119,11,2023-10-04,Recovered
+595,Suresh Yadav,41,Male,+91-7446278368,3,3,1,2024-06-16,Recovered
+596,Ritesh Tiwari,29,Female,+91-7244305931,7,65,1,2024-12-02,Recovered
+597,Mamta Patel,77,Male,+91-9819193463,3,31,15,2025-08-19,Recovered
+598,Nita Yadav,15,Male,+91-9743541394,10,65,7,2025-02-21,Discharged
+599,Myra Pandey,42,Female,+91-8668983193,3,42,4,2024-04-09,Recovered
+600,Vihaan Jain,34,Male,+91-9621226653,3,113,8,2023-12-07,Discharged
+601,Saanvi Nair,14,Male,+91-8896578985,14,139,3,2024-02-07,Recovered
+602,Sara Singh,5,Male,+91-7080594152,19,19,11,2025-01-02,Under Treatment
+603,Meera Kumar,84,Male,+91-8680751126,13,10,4,2025-07-07,Under Treatment
+604,Aarav Reddy,63,Female,+91-7301075867,13,112,15,2024-08-11,Under Treatment
+605,Aadhya Sharma,50,Female,+91-8432112664,19,32,9,2024-07-07,Referred
+606,Priya Mishra,8,Male,+91-8974135984,18,94,15,2024-11-29,Recovered
+607,Anika Patel,23,Male,+91-7458565144,7,99,5,2025-02-17,Recovered
+608,Ramesh Nair,11,Female,+91-9546681221,5,49,1,2024-10-07,Recovered
+609,Meera Mishra,9,Female,+91-7070516000,18,128,15,2023-09-02,Under Treatment
+610,Suresh Verma,44,Male,+91-9246781759,4,104,3,2023-02-07,Recovered
+611,Seeta Kumar,75,Male,+91-7081874986,2,19,11,2024-04-14,Recovered
+612,Kanta Verma,32,Male,+91-7417866985,6,4,9,2024-04-27,Discharged
+613,Kanta Yadav,76,Male,+91-7947351792,4,28,8,2024-04-12,Under Treatment
+614,Ananya Pandey,44,Female,+91-7589825310,4,84,15,2023-03-06,Recovered
+615,Diya Verma,76,Male,+91-8783074271,3,86,2,2023-11-26,Recovered
+616,Mahesh Rao,22,Female,+91-9715255193,19,63,1,2023-06-22,Recovered
+617,Dinesh Yadav,3,Female,+91-9799269793,1,21,1,2024-09-19,Discharged
+618,Anika Pandey,61,Male,+91-8769661076,5,53,10,2024-08-30,Recovered
+619,Saanvi Menon,5,Male,+91-8293643136,20,128,15,2023-09-02,Recovered
+620,Rakesh Sharma,72,Male,+91-9658245206,4,50,15,2023-12-23,Referred
+621,Seeta Reddy,29,Female,+91-7640883910,9,54,1,2024-01-06,Recovered
+622,Sunita Nair,23,Male,+91-8866900511,2,12,10,2024-12-02,Recovered
+623,Suresh Menon,59,Male,+91-7124834191,2,27,15,2023-09-15,Recovered
+624,Kavita Singh,10,Male,+91-9907059529,19,114,9,2024-05-11,Recovered
+625,Rajesh Agarwal,15,Female,+91-7858803763,4,59,4,2025-07-08,Recovered
+626,Aadhya Gupta,61,Female,+91-8954170921,14,14,2,2024-01-20,Discharged
+627,Dinesh Tiwari,18,Female,+91-7546370398,12,50,15,2023-07-02,Recovered
+628,Nita Verma,36,Male,+91-8475647712,15,29,7,2023-02-02,Recovered
+629,Anika Menon,21,Male,+91-9240979855,18,148,15,2023-08-14,Recovered
+630,Diya Iyer,61,Female,+91-8059371626,1,72,11,2024-05-15,Under Treatment
+631,Rajesh Pandey,75,Male,+91-7189941491,19,39,15,2023-09-11,Recovered
+632,Sunita Reddy,5,Female,+91-7420903379,13,136,7,2023-02-11,Under Treatment
+633,Meera Agarwal,11,Male,+91-9781593455,7,105,2,2024-04-08,Recovered
+634,Vivaan Nair,40,Male,+91-8953526348,19,118,12,2023-04-03,Recovered
+635,Krishna Mishra,24,Female,+91-9966751401,1,119,15,2024-04-19,Recovered
+636,Geeta Verma,38,Female,+91-9940614579,20,70,9,2023-12-07,Under Treatment
+637,Kanta Mehta,8,Female,+91-7175553937,4,14,7,2023-03-24,Recovered
+638,Mahesh Yadav,83,Male,+91-9317709657,7,144,2,2024-01-10,Recovered
+639,Sunita Iyer,27,Male,+91-8816466752,12,83,15,2023-04-27,Recovered
+640,Vihaan Gupta,48,Female,+91-9019338363,16,116,8,2023-10-11,Under Treatment
+641,Seeta Rao,38,Female,+91-7374988236,3,95,3,2024-12-27,Discharged
+642,Naresh Yadav,37,Male,+91-9131715682,6,28,4,2023-03-24,Recovered
+643,Diya Reddy,81,Male,+91-7567053223,14,76,15,2023-06-04,Recovered
+644,Ramesh Pandey,57,Male,+91-7997841438,7,75,1,2024-04-30,Discharged
+645,Geeta Mehta,53,Female,+91-9355655182,16,84,9,2025-05-04,Recovered
+646,Jitesh Shah,73,Male,+91-8597308268,6,79,14,2024-03-31,Recovered
+647,Anika Verma,19,Female,+91-7690587281,15,73,15,2025-09-21,Recovered
+648,Seeta Shah,24,Male,+91-8359897631,6,40,4,2024-12-29,Recovered
+649,Krishna Joshi,34,Female,+91-8361263098,7,48,9,2024-08-11,Recovered
+650,Ramesh Kumar,48,Female,+91-7107052949,6,139,9,2025-09-28,Recovered
+651,Meera Kumar,59,Female,+91-9179305198,1,40,15,2024-02-19,Recovered
+652,Anika Nair,38,Male,+91-9057208724,15,145,6,2023-12-06,Recovered
+653,Aditya Kumar,71,Male,+91-8915438137,1,79,7,2025-07-10,Under Treatment
+654,Sai Mehta,8,Male,+91-8193688100,17,150,3,2024-01-01,Discharged
+655,Vivaan Gupta,69,Female,+91-9590603471,17,23,7,2023-07-20,Recovered
+656,Kavita Verma,47,Female,+91-8222564030,14,38,7,2024-09-11,Recovered
+657,Ramesh Shah,58,Male,+91-8900541784,15,56,12,2023-12-20,Recovered
+658,Aditi Pandey,54,Male,+91-9256150810,5,23,3,2023-10-23,Recovered
+659,Suresh Gupta,76,Female,+91-8780324145,1,23,7,2025-10-07,Discharged
+660,Rita Joshi,73,Male,+91-9107049214,6,52,15,2023-06-29,Recovered
+661,Priya Iyer,39,Female,+91-7661527911,15,144,4,2023-02-13,Under Treatment
+662,Priya Nair,16,Female,+91-8051194393,6,107,8,2023-09-26,Recovered
+663,Ayaan Jain,64,Male,+91-8107721600,19,93,7,2023-01-30,Recovered
+664,Sunita Singh,48,Male,+91-8980168756,6,67,9,2024-10-05,Recovered
+665,Krishna Tiwari,21,Male,+91-8528941040,12,70,7,2025-06-18,Discharged
+666,Anika Shah,68,Male,+91-7405911554,7,132,12,2023-02-19,Recovered
+667,Aditi Rao,42,Female,+91-7411601358,9,78,10,2024-09-05,Recovered
+668,Anita Tiwari,19,Male,+91-8769502913,17,36,4,2024-07-01,Under Treatment
+669,Aditi Singh,28,Male,+91-9399405857,8,129,15,2023-12-15,Under Treatment
+670,Geeta Rao,71,Male,+91-7563637820,15,107,15,2024-09-20,Recovered
+671,Vivaan Nair,45,Female,+91-9566881372,5,93,15,2025-08-03,Discharged
+672,Suresh Yadav,39,Male,+91-9955140035,8,31,2,2024-06-19,Recovered
+673,Priya Kumar,27,Male,+91-7333870589,14,21,10,2023-08-21,Under Treatment
+674,Sunita Pandey,6,Male,+91-7254542263,2,28,14,2023-01-20,Recovered
+675,Ayaan Jain,6,Male,+91-9584676841,1,78,12,2024-04-25,Under Treatment
+676,Anita Patel,24,Female,+91-8191319381,3,8,2,2023-07-30,Under Treatment
+677,Anita Tiwari,46,Male,+91-7425655666,20,129,4,2025-08-29,Recovered
+678,Anita Sharma,68,Male,+91-7018592584,10,50,3,2025-04-19,Under Treatment
+679,Reyansh Patel,65,Female,+91-7460955243,19,94,3,2025-09-23,Recovered
+680,Ramesh Mishra,55,Male,+91-8349823507,8,132,7,2023-07-05,Under Treatment
+681,Jitesh Singh,67,Male,+91-7174412453,12,127,10,2023-05-07,Recovered
+682,Rajesh Nair,15,Female,+91-8906775938,15,73,9,2023-03-26,Recovered
+683,Rita Pandey,38,Female,+91-9916845891,3,49,15,2023-08-20,Under Treatment
+684,Saanvi Sharma,63,Male,+91-7512036736,15,102,8,2024-01-12,Recovered
+685,Naresh Mishra,76,Male,+91-7860125163,3,44,7,2023-05-27,Recovered
+686,Naresh Singh,30,Female,+91-9549707221,9,128,12,2024-09-01,Under Treatment
+687,Naresh Tiwari,61,Female,+91-7464013969,17,125,4,2023-10-07,Under Treatment
+688,Sara Nair,64,Male,+91-7293039905,1,35,2,2023-05-06,Recovered
+689,Vivaan Yadav,49,Female,+91-7328639113,10,40,9,2024-05-25,Recovered
+690,Geeta Nair,60,Male,+91-8475817955,16,76,8,2024-11-07,Recovered
+691,Seeta Rao,3,Male,+91-8616353231,4,111,7,2025-04-08,Recovered
+692,Jitesh Verma,5,Male,+91-8849761315,10,143,15,2024-03-29,Recovered
+693,Priya Mishra,63,Male,+91-9457624231,16,146,10,2023-05-18,Recovered
+694,Sunita Rao,21,Male,+91-9649735743,9,101,8,2024-04-26,Referred
+695,Ramesh Shah,42,Male,+91-8498414375,19,8,1,2024-11-23,Under Treatment
+696,Anita Sharma,81,Female,+91-8769224170,4,98,7,2025-04-08,Referred
+697,Vihaan Agarwal,32,Male,+91-8309589038,19,80,1,2023-12-26,Recovered
+698,Suresh Yadav,3,Female,+91-9210876606,15,10,10,2023-04-28,Recovered
+699,Rakesh Jain,3,Female,+91-9459034771,11,6,7,2025-07-12,Recovered
+700,Meera Singh,27,Female,+91-7715658458,17,128,14,2023-04-11,Recovered
+701,Priya Tiwari,56,Male,+91-8234182744,3,128,15,2024-09-21,Recovered
+702,Vihaan Shah,74,Female,+91-9483321097,20,58,12,2023-09-29,Recovered
+703,Anita Mehta,35,Male,+91-7329259035,17,146,7,2023-04-08,Recovered
+704,Priya Reddy,39,Female,+91-9684199399,11,139,3,2024-10-29,Recovered
+705,Jitesh Rao,24,Male,+91-9007018111,6,133,9,2024-06-11,Recovered
+706,Seeta Menon,56,Male,+91-7646275116,7,134,7,2023-10-02,Recovered
+707,Priya Pandey,53,Female,+91-8232847163,7,17,15,2025-02-03,Recovered
+708,Aditi Jain,77,Male,+91-8054786446,8,104,2,2024-10-23,Recovered
+709,Priya Joshi,63,Female,+91-7125163384,2,109,3,2025-03-27,Recovered
+710,Myra Rao,23,Male,+91-8348210721,1,125,1,2023-09-22,Discharged
+711,Priya Gupta,53,Female,+91-7603701279,13,24,15,2024-09-08,Under Treatment
+712,Ayaan Iyer,65,Male,+91-8081507361,19,134,15,2023-08-30,Discharged
+713,Sai Agarwal,77,Male,+91-8013346322,11,81,15,2024-05-23,Under Treatment
+714,Mukesh Patel,19,Male,+91-8092235611,7,45,15,2025-08-15,Recovered
+715,Anita Verma,63,Female,+91-8058050956,11,29,9,2025-06-02,Recovered
+716,Myra Kumar,47,Female,+91-9601954488,10,95,1,2025-09-13,Referred
+717,Vihaan Agarwal,33,Female,+91-9297423915,12,80,15,2023-02-05,Recovered
+718,Kavya Joshi,50,Male,+91-8011294963,9,101,5,2025-06-06,Discharged
+719,Diya Yadav,57,Female,+91-9111800452,2,105,4,2023-11-01,Recovered
+720,Rakesh Mehta,55,Male,+91-9586068261,9,42,8,2024-04-27,Recovered
+721,Rita Mehta,59,Male,+91-7584511650,6,14,9,2025-01-16,Under Treatment
+722,Naresh Patel,81,Female,+91-9217774604,19,81,1,2023-01-04,Recovered
+723,Krishna Menon,53,Female,+91-7745086724,16,116,15,2024-12-31,Recovered
+724,Anita Mehta,37,Male,+91-8620577172,14,22,7,2024-12-04,Recovered
+725,Nita Agarwal,3,Male,+91-8986099771,20,143,9,2025-08-25,Discharged
+726,Sara Yadav,7,Female,+91-8580205025,20,110,4,2023-07-23,Recovered
+727,Nita Singh,2,Female,+91-7818380955,16,117,2,2023-06-24,Under Treatment
+728,Myra Shah,64,Female,+91-8215335058,14,34,15,2025-08-26,Recovered
+729,Ananya Pandey,24,Female,+91-9652916423,1,38,5,2025-01-14,Recovered
+730,Kavya Tiwari,75,Female,+91-9976513517,1,22,7,2024-04-06,Discharged
+731,Diya Mishra,55,Female,+91-8008636315,4,19,9,2024-02-12,Recovered
+732,Ramesh Menon,77,Male,+91-8695209898,9,2,8,2024-04-27,Recovered
+733,Mahesh Kumar,72,Male,+91-8456752978,6,149,4,2024-11-18,Recovered
+734,Jitesh Kumar,12,Female,+91-7189675018,14,136,2,2025-06-17,Recovered
+735,Krishna Nair,36,Female,+91-8132831715,10,111,15,2025-09-29,Recovered
+736,Rajesh Pandey,22,Female,+91-9734400325,5,126,9,2024-06-13,Discharged
+737,Ritesh Verma,25,Male,+91-7702463180,8,14,3,2025-03-28,Recovered
+738,Jitesh Pandey,15,Female,+91-9083916040,15,11,7,2024-12-23,Under Treatment
+739,Meera Singh,19,Male,+91-7722821534,3,90,3,2024-04-13,Recovered
+740,Kavita Jain,73,Male,+91-8788505931,1,150,8,2025-02-06,Recovered
+741,Arjun Agarwal,64,Male,+91-7523947112,1,85,4,2025-07-31,Referred
+742,Mahesh Iyer,14,Female,+91-9832699830,1,40,1,2024-02-08,Under Treatment
+743,Jitesh Jain,77,Male,+91-8395501310,2,85,10,2024-05-06,Referred
+744,Nita Kumar,28,Male,+91-9350018062,11,73,14,2025-08-28,Under Treatment
+745,Mamta Mishra,12,Female,+91-8713336599,6,66,4,2025-09-01,Under Treatment
+746,Vivaan Patel,21,Female,+91-7662003357,10,104,10,2023-04-02,Referred
+747,Priya Nair,56,Female,+91-9201828849,12,34,10,2023-05-04,Under Treatment
+748,Meera Joshi,50,Female,+91-8814779777,19,69,9,2023-07-24,Recovered
+749,Mahesh Menon,24,Female,+91-8990824177,3,110,1,2025-04-10,Recovered
+750,Aadhya Kumar,64,Male,+91-9051325189,15,75,7,2024-11-23,Discharged
+751,Ishaan Kumar,39,Male,+91-7328704671,14,134,5,2023-11-04,Recovered
+752,Aditya Reddy,14,Female,+91-8088260245,4,106,7,2025-07-28,Under Treatment
+753,Sara Iyer,11,Male,+91-8687738937,15,30,3,2023-12-30,Recovered
+754,Sai Pandey,39,Female,+91-7803982387,15,117,9,2023-02-16,Recovered
+755,Saanvi Gupta,78,Female,+91-7501129341,14,28,9,2023-08-05,Recovered
+756,Aditi Nair,59,Female,+91-8549318330,10,125,9,2023-01-14,Referred
+757,Naresh Shah,12,Male,+91-9989436561,1,35,3,2024-12-08,Under Treatment
+758,Ananya Sharma,27,Female,+91-9313194377,8,38,7,2025-09-20,Recovered
+759,Sai Shah,60,Male,+91-7654648523,14,122,1,2023-07-15,Recovered
+760,Ritesh Nair,61,Male,+91-8682482133,19,116,4,2025-01-26,Recovered
+761,Suresh Sharma,14,Female,+91-9380719795,16,107,11,2023-02-22,Recovered
+762,Aditya Nair,52,Female,+91-9095520970,19,132,11,2023-10-25,Discharged
+763,Vihaan Reddy,3,Female,+91-9784428542,11,148,9,2023-08-26,Recovered
+764,Sunita Singh,64,Female,+91-7825498296,14,115,1,2024-03-03,Recovered
+765,Ramesh Joshi,30,Male,+91-9012051673,20,87,15,2024-04-25,Under Treatment
+766,Anika Mishra,54,Female,+91-7370191370,6,121,9,2023-05-15,Recovered
+767,Sunita Kumar,23,Male,+91-9120533071,20,41,8,2024-11-14,Under Treatment
+768,Kavya Patel,72,Male,+91-7681205304,12,5,15,2023-11-07,Recovered
+769,Kavita Verma,9,Female,+91-7962483440,4,111,9,2023-06-28,Recovered
+770,Sara Mehta,46,Male,+91-9213572221,9,143,15,2024-05-13,Discharged
+771,Reyansh Verma,57,Female,+91-7437519881,4,29,13,2024-09-10,Recovered
+772,Rita Verma,65,Male,+91-7674449642,4,43,15,2025-04-23,Discharged
+773,Anika Joshi,65,Female,+91-7591728242,5,26,10,2025-01-15,Recovered
+774,Ananya Joshi,54,Male,+91-7366076664,16,63,6,2023-05-06,Recovered
+775,Mahesh Pandey,47,Male,+91-8841780103,17,39,7,2023-09-30,Recovered
+776,Rakesh Joshi,67,Female,+91-9221995720,15,8,2,2024-02-28,Recovered
+777,Arjun Gupta,44,Female,+91-7159316365,6,103,7,2025-08-24,Recovered
+778,Ishaan Iyer,8,Female,+91-8307057438,13,108,15,2024-11-07,Under Treatment
+779,Rajesh Tiwari,2,Female,+91-8916367361,20,136,15,2025-01-08,Under Treatment
+780,Diya Rao,80,Female,+91-7361983810,13,89,12,2024-10-21,Discharged
+781,Seeta Mehta,50,Male,+91-9369902176,18,134,4,2023-02-07,Recovered
+782,Geeta Mehta,82,Male,+91-8111065867,1,6,15,2023-11-16,Recovered
+783,Priya Pandey,65,Male,+91-7531772868,12,16,4,2023-09-05,Recovered
+784,Ayaan Joshi,39,Male,+91-9497926443,11,117,15,2023-02-18,Under Treatment
+785,Seeta Menon,30,Female,+91-9460010103,10,77,10,2024-08-02,Under Treatment
+786,Krishna Mishra,67,Male,+91-8551632248,11,27,8,2024-11-19,Recovered
+787,Reyansh Kumar,55,Female,+91-9045491387,3,21,1,2024-04-10,Discharged
+788,Ritesh Gupta,48,Female,+91-9509565608,17,144,13,2023-08-08,Discharged
+789,Mukesh Joshi,63,Female,+91-8965861527,5,42,8,2024-05-25,Recovered
+790,Kavita Reddy,16,Male,+91-9401001356,16,117,1,2023-05-13,Recovered
+791,Ayaan Menon,53,Male,+91-7658437876,12,31,9,2024-01-14,Recovered
+792,Mahesh Shah,48,Female,+91-9532416852,16,76,1,2023-05-01,Recovered
+793,Vihaan Shah,37,Male,+91-7290187466,16,47,1,2024-03-07,Recovered
+794,Aditya Pandey,62,Female,+91-9041086767,15,145,15,2025-06-10,Under Treatment
+795,Mamta Kumar,18,Female,+91-7383604911,15,116,2,2025-05-04,Under Treatment
+796,Kanta Menon,53,Female,+91-9879534353,13,60,6,2025-03-30,Recovered
+797,Ritesh Jain,83,Male,+91-8326492387,1,43,9,2025-06-30,Under Treatment
+798,Ayaan Rao,11,Male,+91-9240915480,19,139,12,2024-07-28,Referred
+799,Sunita Reddy,3,Male,+91-7883925729,6,137,15,2023-07-13,Recovered
+800,Anita Joshi,11,Female,+91-7099914907,19,103,1,2023-09-09,Discharged
+801,Mukesh Yadav,54,Male,+91-7426634688,11,136,7,2023-12-15,Recovered
+802,Aditi Shah,19,Male,+91-9914601601,3,66,2,2024-07-08,Referred
+803,Vihaan Menon,42,Male,+91-7611863421,2,7,5,2023-06-23,Recovered
+804,Rajesh Jain,49,Male,+91-8015721607,7,14,4,2024-02-27,Recovered
+805,Kavita Reddy,50,Male,+91-7281140892,2,69,5,2024-05-19,Recovered
+806,Vivaan Pandey,82,Male,+91-7435979641,9,5,9,2024-05-10,Recovered
+807,Rita Kumar,39,Female,+91-7611461750,3,115,15,2023-09-10,Recovered
+808,Seeta Yadav,32,Female,+91-9666014714,15,143,1,2024-01-18,Under Treatment
+809,Aditi Sharma,8,Female,+91-8509328461,20,70,4,2023-10-24,Recovered
+810,Diya Iyer,66,Female,+91-8291231895,6,12,11,2025-05-12,Recovered
+811,Naresh Singh,18,Female,+91-8367105004,7,111,9,2023-04-02,Referred
+812,Suresh Jain,58,Female,+91-9574891590,11,63,6,2025-06-24,Recovered
+813,Vivaan Kumar,83,Male,+91-8774521705,1,122,15,2023-12-03,Recovered
+814,Meera Mishra,69,Male,+91-9884556210,18,20,1,2024-07-23,Under Treatment
+815,Ayaan Tiwari,49,Female,+91-7036212487,6,100,15,2024-03-31,Under Treatment
+816,Jitesh Tiwari,25,Female,+91-9922958662,8,3,12,2023-05-08,Under Treatment
+817,Ramesh Patel,12,Female,+91-7158037796,8,57,15,2025-08-01,Referred
+818,Meera Menon,27,Male,+91-9148882262,13,51,2,2023-10-15,Recovered
+819,Aditi Rao,25,Male,+91-8115078625,19,17,2,2024-05-20,Recovered
+820,Nita Agarwal,67,Female,+91-9288966376,1,50,15,2025-08-13,Recovered
+821,Sara Rao,59,Male,+91-8747518666,2,110,15,2024-09-21,Recovered
+822,Ayaan Reddy,60,Female,+91-7964427223,17,93,12,2023-10-08,Discharged
+823,Myra Pandey,69,Female,+91-9455946550,1,81,7,2023-02-18,Recovered
+824,Vivaan Agarwal,55,Male,+91-9688626717,7,64,2,2025-04-07,Recovered
+825,Reyansh Sharma,62,Female,+91-8075500493,19,7,14,2024-10-02,Discharged
+826,Reyansh Nair,31,Female,+91-7313149647,11,14,8,2023-09-11,Recovered
+827,Mamta Menon,57,Male,+91-7143209999,19,115,2,2025-03-05,Referred
+828,Rajesh Gupta,17,Male,+91-7282567012,2,114,5,2024-01-22,Recovered
+829,Vihaan Rao,7,Female,+91-8001208333,13,98,2,2023-04-15,Under Treatment
+830,Mamta Menon,2,Female,+91-9659574996,15,99,14,2025-06-04,Discharged
+831,Suresh Sharma,59,Female,+91-7290101287,4,50,2,2023-04-14,Recovered
+832,Ananya Iyer,17,Female,+91-7798534963,14,91,7,2024-08-30,Recovered
+833,Krishna Verma,8,Male,+91-8536497234,19,80,7,2023-09-06,Referred
+834,Anita Rao,19,Male,+91-7034711242,10,121,9,2023-11-15,Recovered
+835,Anita Kumar,8,Male,+91-7839267208,18,130,15,2024-06-14,Recovered
+836,Ananya Patel,9,Female,+91-9575959464,16,49,10,2025-09-26,Referred
+837,Suresh Iyer,73,Female,+91-7181213895,14,77,6,2024-12-10,Recovered
+838,Aadhya Sharma,82,Male,+91-8423846528,15,59,9,2024-05-22,Recovered
+839,Dinesh Patel,52,Male,+91-9382382306,12,2,1,2025-04-06,Recovered
+840,Ishaan Shah,57,Male,+91-7849651876,12,150,1,2023-04-28,Recovered
+841,Saanvi Agarwal,34,Male,+91-7756246771,18,87,4,2023-10-18,Recovered
+842,Sara Singh,3,Male,+91-8959379885,4,98,6,2025-05-13,Recovered
+843,Mahesh Tiwari,85,Male,+91-7280794323,20,135,15,2023-09-03,Discharged
+844,Ishaan Kumar,25,Male,+91-8844860928,13,137,10,2023-05-02,Recovered
+845,Kavya Verma,79,Male,+91-7228745556,10,138,14,2025-09-27,Recovered
+846,Myra Kumar,66,Female,+91-9640917193,3,54,13,2024-10-06,Under Treatment
+847,Aditi Reddy,50,Female,+91-8605796870,17,128,7,2023-03-08,Recovered
+848,Sunita Nair,61,Female,+91-9790600319,13,149,9,2024-06-22,Under Treatment
+849,Diya Agarwal,26,Female,+91-8619559006,13,61,3,2023-02-07,Recovered
+850,Aditi Tiwari,33,Male,+91-7988605176,3,35,5,2024-08-08,Recovered
+851,Aditya Joshi,66,Female,+91-9136931179,15,110,7,2024-08-20,Recovered
+852,Myra Mishra,4,Male,+91-7353984828,8,114,4,2023-11-21,Recovered
+853,Kavita Reddy,70,Male,+91-7164417306,8,71,2,2023-10-29,Recovered
+854,Ananya Mehta,26,Female,+91-8178816289,10,65,12,2024-07-13,Under Treatment
+855,Mamta Kumar,70,Female,+91-8734355645,10,3,4,2023-07-15,Recovered
+856,Naresh Iyer,84,Male,+91-8707272205,17,121,15,2025-08-26,Referred
+857,Aadhya Patel,61,Male,+91-8981702791,19,133,13,2023-08-22,Under Treatment
+858,Sai Mehta,25,Female,+91-7129296004,7,107,7,2023-12-15,Discharged
+859,Krishna Iyer,17,Female,+91-8459525419,16,3,14,2024-01-19,Under Treatment
+860,Rakesh Pandey,52,Female,+91-7597579155,19,84,1,2023-08-19,Under Treatment
+861,Suresh Iyer,81,Female,+91-8659720707,7,98,15,2023-06-07,Recovered
+862,Sunita Singh,43,Female,+91-7762941246,3,78,3,2023-07-12,Recovered
+863,Mamta Nair,4,Male,+91-7884300678,3,51,15,2023-02-02,Recovered
+864,Anika Reddy,9,Female,+91-8764635577,12,15,8,2023-08-27,Recovered
+865,Aditi Singh,17,Female,+91-7886823531,3,123,7,2024-02-05,Discharged
+866,Diya Shah,56,Female,+91-7871761712,20,41,9,2023-05-14,Recovered
+867,Jitesh Jain,26,Male,+91-8060170258,15,37,1,2024-05-29,Recovered
+868,Suresh Iyer,63,Female,+91-9775833648,19,119,1,2024-06-22,Recovered
+869,Jitesh Tiwari,39,Female,+91-8855754938,14,45,4,2025-06-21,Discharged
+870,Dinesh Yadav,73,Male,+91-8175860156,2,101,4,2024-04-13,Discharged
+871,Seeta Shah,9,Male,+91-8583692176,14,127,15,2025-06-22,Recovered
+872,Reyansh Reddy,42,Female,+91-8984994253,6,116,4,2023-03-20,Recovered
+873,Arjun Joshi,49,Female,+91-7492558512,7,103,7,2023-01-28,Recovered
+874,Krishna Mehta,60,Female,+91-8880008770,3,119,1,2024-12-27,Recovered
+875,Sunita Jain,21,Male,+91-9296320705,20,5,2,2023-05-24,Recovered
+876,Naresh Yadav,10,Male,+91-7147939476,5,70,7,2025-01-29,Recovered
+877,Seeta Patel,57,Male,+91-7225121807,4,134,7,2025-07-03,Recovered
+878,Aarav Verma,49,Male,+91-7068884600,12,64,15,2024-09-04,Recovered
+879,Vivaan Sharma,44,Male,+91-9852325403,8,17,15,2024-03-07,Recovered
+880,Aditi Verma,54,Male,+91-7889570659,11,84,9,2023-06-21,Recovered
+881,Seeta Mishra,55,Male,+91-7064401215,7,60,2,2025-08-14,Recovered
+882,Rajesh Sharma,50,Male,+91-9791492498,8,118,1,2024-02-16,Under Treatment
+883,Mahesh Verma,9,Male,+91-7437286028,10,106,12,2024-09-30,Recovered
+884,Seeta Iyer,22,Female,+91-8668875855,20,25,6,2024-12-30,Recovered
+885,Krishna Mehta,23,Female,+91-9512714416,3,124,6,2024-11-25,Recovered
+886,Dinesh Reddy,82,Male,+91-7091110776,19,129,10,2024-04-04,Recovered
+887,Ayaan Shah,31,Female,+91-9142013950,20,63,1,2024-09-23,Recovered
+888,Ananya Kumar,49,Male,+91-8905789525,8,10,15,2023-10-31,Recovered
+889,Suresh Kumar,36,Female,+91-8238905224,17,11,14,2025-01-26,Recovered
+890,Vivaan Agarwal,43,Female,+91-9856179077,7,63,9,2025-02-07,Discharged
+891,Kavya Agarwal,78,Female,+91-7277527388,11,134,3,2025-10-09,Recovered
+892,Meera Gupta,25,Male,+91-9357280339,7,37,2,2025-06-09,Recovered
+893,Diya Agarwal,65,Male,+91-8051944701,15,110,5,2025-05-01,Under Treatment
+894,Saanvi Menon,32,Female,+91-8167633175,19,74,7,2024-03-10,Recovered
+895,Sunita Gupta,47,Female,+91-9617328226,6,97,7,2025-06-02,Recovered
+896,Mukesh Kumar,62,Male,+91-8289484702,14,98,15,2025-01-22,Under Treatment
+897,Seeta Kumar,71,Male,+91-8611243610,13,66,7,2024-09-01,Recovered
+898,Mamta Nair,10,Female,+91-7017955333,16,35,3,2024-07-29,Discharged
+899,Kavita Tiwari,63,Female,+91-9102606026,13,107,15,2023-01-14,Recovered
+900,Anita Gupta,53,Male,+91-8873885378,13,32,15,2023-11-12,Recovered
+901,Sara Tiwari,66,Female,+91-8059962775,2,95,10,2025-09-07,Discharged
+902,Sunita Verma,47,Male,+91-7632938114,9,38,9,2023-09-06,Discharged
+903,Kavya Menon,75,Male,+91-8650760936,4,4,12,2023-09-18,Recovered
+904,Anita Gupta,67,Male,+91-8298023144,6,109,15,2024-02-12,Recovered
+905,Seeta Mishra,76,Female,+91-8479155865,3,106,2,2024-05-27,Recovered
+906,Ishaan Jain,27,Female,+91-7006779966,1,79,15,2025-04-13,Under Treatment
+907,Arjun Pandey,68,Female,+91-7576951818,14,74,3,2023-04-10,Recovered
+908,Meera Yadav,65,Male,+91-7253326043,19,116,14,2023-07-22,Recovered
+909,Saanvi Patel,34,Female,+91-7342780495,20,113,2,2025-02-06,Recovered
+910,Sai Mishra,16,Female,+91-9083893876,11,17,1,2023-10-28,Recovered
+911,Reyansh Sharma,8,Female,+91-7906531700,19,2,14,2024-11-19,Recovered
+912,Aarav Mishra,78,Female,+91-8445472104,16,125,12,2024-06-18,Recovered
+913,Suresh Mehta,31,Female,+91-8418435511,13,103,9,2024-01-15,Referred
+914,Reyansh Sharma,59,Female,+91-8200303872,1,36,9,2025-04-05,Discharged
+915,Kavya Tiwari,58,Female,+91-9740503763,14,132,10,2025-08-31,Recovered
+916,Rajesh Sharma,82,Female,+91-9081066896,11,12,10,2025-09-07,Recovered
+917,Kanta Gupta,45,Female,+91-7837849121,4,122,11,2024-02-14,Recovered
+918,Ishaan Reddy,74,Male,+91-9890779955,16,33,14,2024-12-30,Recovered
+919,Jitesh Yadav,58,Male,+91-9833583621,18,124,4,2024-07-15,Recovered
+920,Sai Singh,56,Male,+91-7946507856,11,42,15,2024-12-17,Under Treatment
+921,Sara Nair,16,Male,+91-7961240373,16,137,1,2025-01-06,Recovered
+922,Nita Menon,9,Female,+91-8876738587,13,97,10,2025-08-12,Under Treatment
+923,Aadhya Agarwal,34,Male,+91-9543481704,3,75,2,2025-04-07,Recovered
+924,Ananya Singh,74,Female,+91-7007209072,11,33,15,2025-08-17,Recovered
+925,Vihaan Iyer,69,Male,+91-9917580604,14,100,5,2023-11-15,Recovered
+926,Krishna Reddy,85,Male,+91-8356892801,13,28,1,2025-08-14,Discharged
+927,Anika Agarwal,64,Female,+91-7147505760,20,38,4,2023-05-29,Under Treatment
+928,Rajesh Shah,65,Male,+91-9126118445,19,71,7,2024-09-05,Under Treatment
+929,Dinesh Verma,43,Male,+91-7768886028,8,54,10,2023-10-26,Recovered
+930,Meera Mishra,39,Male,+91-9033330361,18,6,7,2025-05-27,Recovered
+931,Ramesh Mishra,51,Male,+91-9353685178,10,136,4,2025-10-11,Discharged
+932,Reyansh Kumar,42,Male,+91-8897876196,15,78,10,2024-02-08,Recovered
+933,Sunita Shah,19,Male,+91-9472535778,7,56,11,2024-12-13,Recovered
+934,Ishaan Mishra,55,Male,+91-7225366046,4,15,7,2023-04-15,Recovered
+935,Kavita Mehta,76,Female,+91-8703576439,13,39,4,2023-05-01,Recovered
+936,Priya Menon,23,Female,+91-8182043876,15,23,15,2024-05-15,Recovered
+937,Ritesh Tiwari,2,Male,+91-9189353138,3,30,2,2024-10-09,Recovered
+938,Vivaan Iyer,74,Female,+91-9079586549,4,71,14,2023-08-19,Recovered
+939,Mukesh Shah,74,Male,+91-9308592457,11,26,1,2024-10-22,Discharged
+940,Naresh Sharma,51,Female,+91-9799033030,17,17,15,2023-07-09,Recovered
+941,Diya Singh,24,Male,+91-7168118608,18,2,7,2023-05-08,Recovered
+942,Nita Patel,84,Male,+91-7363398580,18,23,4,2023-05-12,Under Treatment
+943,Ayaan Reddy,39,Female,+91-7000367517,6,140,7,2025-09-30,Discharged
+944,Priya Verma,67,Female,+91-8344050083,15,137,2,2023-09-12,Recovered
+945,Ramesh Menon,69,Male,+91-8287241339,2,26,4,2024-06-19,Recovered
+946,Diya Kumar,78,Male,+91-7319372311,9,92,2,2025-05-26,Recovered
+947,Sara Jain,49,Male,+91-8826835815,15,103,1,2024-07-17,Recovered
+948,Ishaan Rao,27,Male,+91-9782155716,7,69,11,2025-08-20,Recovered
+949,Kavita Menon,21,Female,+91-7111281996,11,40,15,2025-04-20,Recovered
+950,Mamta Agarwal,10,Female,+91-7283293302,18,32,2,2025-09-14,Recovered
+951,Sai Tiwari,43,Female,+91-7954451581,8,38,4,2023-12-04,Recovered
+952,Reyansh Singh,23,Female,+91-8211166718,4,126,9,2024-01-23,Under Treatment
+953,Myra Menon,13,Male,+91-8482506257,11,44,15,2024-07-18,Recovered
+954,Seeta Rao,77,Female,+91-9205746669,19,123,2,2025-04-05,Recovered
+955,Ishaan Kumar,19,Female,+91-8589785135,9,146,1,2024-12-31,Under Treatment
+956,Kavya Menon,54,Female,+91-9157058203,15,47,15,2024-12-25,Under Treatment
+957,Myra Pandey,67,Male,+91-8343194801,3,79,15,2023-10-21,Recovered
+958,Sai Gupta,10,Male,+91-8227720103,6,24,9,2025-05-15,Recovered
+959,Meera Sharma,55,Male,+91-9286680716,16,123,8,2024-07-21,Referred
+960,Ayaan Mishra,2,Male,+91-8048943719,14,2,10,2024-12-15,Under Treatment
+961,Geeta Menon,6,Female,+91-8576471745,17,44,15,2025-01-26,Recovered
+962,Krishna Reddy,46,Male,+91-7486334209,16,109,7,2025-05-09,Recovered
+963,Kavya Rao,16,Female,+91-9710882225,16,77,5,2023-12-13,Recovered
+964,Naresh Patel,40,Male,+91-7025302093,20,119,15,2024-08-05,Recovered
+965,Jitesh Mehta,39,Female,+91-8726869296,1,28,7,2024-09-22,Under Treatment
+966,Aarav Singh,56,Female,+91-8764024904,3,51,9,2023-12-30,Discharged
+967,Meera Sharma,20,Female,+91-8839712603,16,58,7,2023-05-07,Recovered
+968,Saanvi Rao,35,Male,+91-8863844675,15,113,2,2025-07-02,Recovered
+969,Ramesh Patel,15,Male,+91-8422551191,2,73,2,2023-01-06,Recovered
+970,Aditya Yadav,26,Female,+91-9928035895,4,69,7,2025-07-11,Recovered
+971,Krishna Mehta,52,Female,+91-7541696649,4,34,15,2025-01-01,Under Treatment
+972,Ramesh Reddy,2,Male,+91-7034483818,11,14,7,2023-06-09,Recovered
+973,Sunita Shah,37,Female,+91-9195758393,14,22,4,2024-03-20,Recovered
+974,Kavya Jain,15,Female,+91-7442660341,14,64,3,2023-07-11,Under Treatment
+975,Kavita Menon,24,Male,+91-8176226755,8,39,2,2024-12-18,Recovered
+976,Ananya Kumar,55,Male,+91-9254734062,3,52,15,2025-10-11,Recovered
+977,Aadhya Agarwal,44,Female,+91-8306915575,2,123,8,2023-11-10,Recovered
+978,Myra Tiwari,36,Female,+91-7175617484,8,108,5,2023-04-23,Recovered
+979,Vihaan Mehta,28,Female,+91-7793881766,9,121,15,2023-01-01,Recovered
+980,Meera Tiwari,43,Female,+91-7559668981,4,29,10,2023-09-16,Recovered
+981,Mahesh Tiwari,76,Female,+91-7456836428,9,61,3,2023-12-06,Recovered
+982,Mamta Singh,6,Male,+91-9347539024,15,50,15,2023-05-14,Recovered
+983,Suresh Shah,61,Male,+91-9364360938,5,137,1,2024-09-25,Recovered
+984,Sara Rao,45,Female,+91-8799609152,4,115,15,2024-12-29,Recovered
+985,Kavita Sharma,22,Female,+91-9979862624,10,34,1,2024-06-20,Recovered
+986,Naresh Nair,69,Male,+91-8676097686,15,43,12,2023-07-14,Recovered
+987,Mamta Jain,27,Male,+91-7038059076,6,1,9,2024-02-15,Recovered
+988,Kavita Joshi,65,Female,+91-7511545211,8,78,5,2025-06-19,Recovered
+989,Aadhya Verma,69,Male,+91-8192955079,2,75,10,2023-06-25,Discharged
+990,Krishna Jain,7,Male,+91-9717352279,18,54,2,2025-08-07,Recovered
+991,Mahesh Mehta,11,Female,+91-7245944558,14,35,15,2024-09-11,Recovered
+992,Aarav Tiwari,29,Female,+91-9505087861,9,46,15,2024-10-02,Recovered
+993,Dinesh Jain,81,Male,+91-9704973218,8,114,6,2023-04-19,Recovered
+994,Naresh Kumar,58,Male,+91-9130137051,12,112,2,2025-04-07,Recovered
+995,Jitesh Yadav,23,Male,+91-8211370833,16,146,15,2023-07-05,Recovered
+996,Priya Yadav,23,Female,+91-8954313872,3,49,2,2023-01-22,Recovered
+997,Naresh Singh,68,Male,+91-7472598927,20,4,2,2025-07-19,Recovered
+998,Aarav Verma,17,Male,+91-7057968740,9,22,2,2025-04-26,Recovered
+999,Aarav Singh,70,Female,+91-8908366487,7,22,2,2025-03-22,Under Treatment
+1000,Aditi Shah,43,Female,+91-9695031229,8,40,1,2025-04-15,Recovered
+1001,Ayaan Sharma,6,Male,+91-8783634101,10,140,2,2024-07-10,Discharged
+1002,Aarav Agarwal,4,Male,+91-7970166059,13,110,2,2023-05-26,Recovered
+1003,Dinesh Singh,63,Male,+91-8534625773,8,29,2,2025-08-01,Referred
+1004,Kanta Mehta,16,Female,+91-9278396996,2,22,9,2023-03-20,Recovered
+1005,Mamta Yadav,55,Male,+91-7446344020,20,78,15,2023-12-09,Recovered
+1006,Meera Tiwari,34,Male,+91-7634711065,5,1,13,2023-10-05,Recovered
+1007,Ritesh Nair,9,Male,+91-7388466980,14,148,15,2024-02-04,Recovered
+1008,Krishna Yadav,50,Female,+91-8777877424,16,82,7,2023-11-27,Recovered
+1009,Suresh Kumar,84,Male,+91-9115706932,14,99,9,2024-09-08,Recovered
+1010,Seeta Agarwal,50,Male,+91-7942032301,14,149,8,2024-06-29,Under Treatment
+1011,Sai Agarwal,47,Male,+91-7573776170,1,53,7,2024-12-20,Recovered
+1012,Ayaan Verma,45,Female,+91-9368676116,10,36,7,2025-08-01,Under Treatment
+1013,Rakesh Agarwal,27,Male,+91-7614509229,5,15,2,2025-09-22,Recovered
+1014,Vivaan Pandey,48,Male,+91-7679348721,19,28,1,2024-01-22,Under Treatment
+1015,Ishaan Tiwari,19,Male,+91-8788831866,3,63,1,2023-01-31,Under Treatment
+1016,Saanvi Nair,18,Female,+91-9769597436,14,121,11,2023-06-03,Recovered
+1017,Aarav Shah,15,Male,+91-7688692817,2,16,9,2024-12-12,Recovered
+1018,Naresh Pandey,59,Female,+91-7673453613,17,147,5,2023-01-12,Recovered
+1019,Sai Reddy,49,Male,+91-7788958738,13,55,9,2023-10-06,Recovered
+1020,Rita Menon,10,Female,+91-8634106492,11,123,10,2025-04-22,Recovered
+1021,Vihaan Tiwari,83,Female,+91-9590682033,9,50,2,2023-06-18,Recovered
+1022,Suresh Sharma,31,Female,+91-7047145896,18,42,2,2025-03-08,Recovered
+1023,Priya Patel,71,Male,+91-9425783849,8,9,4,2025-02-13,Referred
+1024,Nita Nair,6,Male,+91-8531796415,3,81,15,2023-02-15,Recovered
+1025,Anika Mishra,65,Male,+91-9897756110,13,81,11,2025-02-08,Referred
+1026,Suresh Pandey,65,Male,+91-9048497671,5,129,1,2023-04-10,Under Treatment
+1027,Aditya Shah,21,Male,+91-7994585896,3,119,15,2024-08-23,Recovered
+1028,Diya Kumar,21,Female,+91-8850707619,5,115,6,2025-06-24,Recovered
+1029,Dinesh Agarwal,27,Male,+91-7064174343,19,40,9,2023-02-10,Recovered
+1030,Priya Rao,12,Female,+91-7693519046,15,25,5,2023-05-27,Discharged
+1031,Myra Iyer,47,Female,+91-8107861448,3,23,3,2023-03-11,Under Treatment
+1032,Sunita Jain,57,Male,+91-8231045296,19,32,8,2025-10-06,Recovered
+1033,Rakesh Menon,17,Female,+91-8604956698,17,94,15,2024-02-15,Referred
+1034,Rakesh Reddy,58,Female,+91-8051480085,20,11,15,2023-03-27,Recovered
+1035,Rita Sharma,20,Male,+91-7313441038,13,75,2,2024-12-17,Recovered
+1036,Dinesh Joshi,12,Female,+91-8996528430,15,120,10,2023-08-17,Discharged
+1037,Sai Yadav,14,Female,+91-8470697907,7,111,7,2023-04-22,Recovered
+1038,Meera Patel,61,Male,+91-9018495252,15,72,1,2024-09-10,Recovered
+1039,Diya Mehta,73,Male,+91-8847307234,2,98,15,2023-05-30,Recovered
+1040,Sunita Patel,7,Male,+91-7359021850,14,6,4,2025-09-29,Recovered
+1041,Arjun Jain,52,Male,+91-9876100778,15,77,15,2023-05-26,Recovered
+1042,Sara Yadav,7,Male,+91-7853003298,11,110,15,2025-07-03,Recovered
+1043,Rakesh Nair,61,Male,+91-7042655516,12,112,15,2023-12-24,Recovered
+1044,Mamta Patel,10,Male,+91-7633450049,11,83,1,2024-07-28,Discharged
+1045,Rajesh Singh,53,Female,+91-7539951272,1,134,15,2024-05-26,Discharged
+1046,Ritesh Iyer,13,Male,+91-7713398481,7,56,7,2024-10-11,Recovered
+1047,Dinesh Patel,45,Male,+91-8562485301,19,49,15,2024-09-07,Recovered
+1048,Priya Shah,65,Male,+91-9329878086,15,128,7,2023-01-17,Recovered
+1049,Geeta Mehta,15,Male,+91-7698607094,14,118,7,2024-03-12,Recovered
+1050,Mukesh Mishra,37,Female,+91-7426168391,20,73,15,2024-07-09,Discharged
+1051,Reyansh Gupta,84,Male,+91-9339613607,4,106,8,2023-03-31,Under Treatment
+1052,Ritesh Reddy,75,Male,+91-9369052035,14,75,3,2023-04-13,Under Treatment
+1053,Ayaan Patel,61,Male,+91-8699984810,15,90,7,2024-01-26,Under Treatment
+1054,Mahesh Agarwal,65,Female,+91-8781193901,9,69,5,2023-01-08,Discharged
+1055,Kavya Sharma,54,Male,+91-9228930169,1,4,2,2024-11-20,Recovered
+1056,Mamta Mehta,43,Male,+91-7827470134,14,147,4,2025-04-19,Referred
+1057,Naresh Verma,74,Female,+91-8366336239,13,33,15,2024-09-23,Recovered
+1058,Aditi Pandey,30,Male,+91-8683679470,17,33,2,2024-06-13,Recovered
+1059,Sara Rao,21,Female,+91-9701079704,3,53,2,2025-05-13,Recovered
+1060,Anita Kumar,4,Male,+91-8948653543,13,147,1,2025-02-27,Under Treatment
+1061,Ramesh Yadav,31,Male,+91-8623957015,7,77,9,2024-10-11,Recovered
+1062,Sara Verma,36,Male,+91-7444182209,1,37,9,2025-02-27,Recovered
+1063,Jitesh Menon,16,Male,+91-7332350718,10,37,4,2023-04-24,Recovered
+1064,Mahesh Patel,51,Male,+91-9687286994,1,126,7,2024-05-21,Recovered
+1065,Diya Pandey,49,Female,+91-7767412175,6,116,3,2023-03-20,Recovered
+1066,Nita Menon,5,Male,+91-9347125656,12,88,8,2024-11-06,Recovered
+1067,Aditi Reddy,33,Male,+91-9197926822,20,50,1,2023-01-06,Recovered
+1068,Ishaan Patel,47,Male,+91-9970406775,1,56,6,2025-02-18,Recovered
+1069,Krishna Jain,36,Female,+91-8264098539,3,52,7,2025-08-20,Recovered
+1070,Meera Pandey,66,Female,+91-8207241269,9,50,3,2024-04-23,Recovered
+1071,Naresh Singh,75,Female,+91-8916232890,7,43,15,2025-09-11,Recovered
+1072,Mamta Jain,41,Male,+91-9717419214,14,99,3,2024-03-09,Recovered
+1073,Arjun Joshi,22,Male,+91-9770674659,9,131,9,2025-04-19,Recovered
+1074,Geeta Tiwari,51,Male,+91-7798498372,6,30,14,2025-08-31,Recovered
+1075,Kavya Gupta,28,Female,+91-8368329940,5,96,13,2024-01-02,Recovered
+1076,Aarav Mehta,28,Female,+91-8656100244,11,146,15,2024-12-05,Recovered
+1077,Mamta Patel,68,Male,+91-9883404698,18,27,4,2023-10-18,Recovered
+1078,Nita Pandey,56,Female,+91-9141689608,7,82,3,2023-03-18,Under Treatment
+1079,Myra Pandey,16,Male,+91-8015424386,6,116,9,2023-02-17,Recovered
+1080,Vivaan Shah,3,Male,+91-7158948981,10,119,2,2024-08-13,Referred
+1081,Seeta Reddy,6,Female,+91-8782750165,3,5,7,2025-07-06,Under Treatment
+1082,Priya Jain,41,Female,+91-9629897176,3,103,9,2025-01-10,Recovered
+1083,Naresh Shah,59,Female,+91-7962134345,12,32,15,2023-02-18,Recovered
+1084,Aarav Kumar,14,Female,+91-8584325528,8,112,3,2023-02-18,Recovered
+1085,Seeta Sharma,7,Female,+91-8132699410,4,12,1,2025-04-15,Recovered
+1086,Kanta Mishra,35,Male,+91-7635661517,19,36,7,2023-12-04,Recovered
+1087,Anita Pandey,82,Female,+91-9840128614,17,32,8,2025-02-10,Recovered
+1088,Myra Mehta,62,Male,+91-8516165099,9,24,12,2024-05-16,Under Treatment
+1089,Kavya Patel,10,Male,+91-9010690600,2,127,3,2024-07-25,Recovered
+1090,Dinesh Patel,63,Male,+91-9207301012,7,88,14,2025-04-18,Under Treatment
+1091,Rajesh Shah,59,Male,+91-8561838173,4,130,15,2025-05-29,Recovered
+1092,Ritesh Menon,66,Male,+91-9947490028,7,103,1,2024-01-30,Recovered
+1093,Nita Singh,19,Female,+91-7803286744,4,28,4,2023-11-11,Discharged
+1094,Vivaan Nair,85,Female,+91-8522251663,9,91,2,2023-10-01,Recovered
+1095,Diya Kumar,51,Female,+91-7420102358,11,131,1,2024-03-17,Recovered
+1096,Dinesh Pandey,25,Female,+91-9608969880,13,49,3,2023-02-20,Recovered
+1097,Geeta Pandey,14,Male,+91-7153278605,4,64,3,2024-05-20,Recovered
+1098,Myra Agarwal,9,Male,+91-8737569388,8,71,15,2024-08-12,Recovered
+1099,Naresh Singh,29,Female,+91-9735461301,7,127,3,2024-02-06,Recovered
+1100,Mamta Shah,1,Male,+91-8311357402,17,48,15,2023-10-22,Recovered
+1101,Kavya Yadav,41,Male,+91-7054695674,6,43,6,2025-05-23,Recovered
+1102,Sunita Pandey,43,Male,+91-7041806661,9,46,15,2024-11-13,Recovered
+1103,Ramesh Nair,75,Male,+91-7074692994,8,126,7,2024-08-31,Recovered
+1104,Anika Agarwal,68,Male,+91-8441723238,4,38,2,2024-08-03,Under Treatment
+1105,Meera Tiwari,70,Female,+91-8514518762,9,125,7,2024-04-08,Recovered
+1106,Suresh Reddy,85,Female,+91-7089022992,9,29,10,2023-11-05,Under Treatment
+1107,Rakesh Agarwal,85,Male,+91-9988464377,16,92,1,2023-06-01,Recovered
+1108,Mukesh Tiwari,27,Male,+91-9692479387,13,50,9,2025-09-23,Referred
+1109,Seeta Joshi,68,Male,+91-8792265280,12,68,15,2024-11-26,Recovered
+1110,Myra Shah,25,Male,+91-7528114607,17,149,10,2025-08-25,Under Treatment
+1111,Jitesh Iyer,45,Female,+91-9002818294,1,29,8,2024-03-19,Recovered
+1112,Ishaan Reddy,38,Male,+91-7066968840,16,78,5,2024-11-28,Under Treatment
+1113,Aditya Patel,37,Male,+91-9835766393,16,14,5,2024-04-09,Recovered
+1114,Aarav Verma,33,Male,+91-9408399111,10,90,13,2025-05-04,Recovered
+1115,Sai Jain,19,Male,+91-7138026023,19,111,15,2023-06-08,Recovered
+1116,Ramesh Agarwal,82,Female,+91-8122107065,13,109,15,2024-04-29,Recovered
+1117,Priya Menon,40,Male,+91-9483210174,14,145,10,2025-07-31,Recovered
+1118,Ananya Jain,18,Female,+91-9433808024,7,142,5,2023-05-23,Recovered
+1119,Jitesh Rao,24,Female,+91-8345443425,4,112,2,2025-08-07,Recovered
+1120,Ramesh Joshi,46,Female,+91-9400496327,14,120,15,2024-05-30,Recovered
+1121,Rakesh Gupta,18,Female,+91-9333324937,19,63,8,2023-01-28,Recovered
+1122,Nita Shah,7,Female,+91-9224828614,13,33,10,2025-07-10,Recovered
+1123,Vihaan Gupta,8,Female,+91-9428560903,11,28,9,2024-04-16,Under Treatment
+1124,Suresh Verma,16,Male,+91-9127317293,17,53,2,2024-05-08,Under Treatment
+1125,Aadhya Kumar,39,Female,+91-7288372981,16,2,9,2023-05-20,Recovered
+1126,Ishaan Menon,16,Male,+91-9172413817,7,64,2,2023-01-01,Recovered
+1127,Naresh Verma,16,Female,+91-9348141293,16,104,15,2024-03-30,Under Treatment
+1128,Kanta Joshi,85,Male,+91-9823792255,5,111,9,2023-09-24,Recovered
+1129,Aditi Reddy,70,Male,+91-9528721268,16,122,5,2023-09-04,Recovered
+1130,Mahesh Jain,51,Female,+91-7120133063,15,28,7,2024-05-19,Recovered
+1131,Jitesh Singh,73,Female,+91-9822615775,19,3,5,2023-10-18,Recovered
+1132,Ritesh Verma,46,Male,+91-8536514512,15,120,4,2024-09-26,Referred
+1133,Kavita Patel,45,Female,+91-9817212424,3,132,3,2024-05-27,Recovered
+1134,Nita Mehta,59,Male,+91-9770829463,10,72,15,2025-01-06,Recovered
+1135,Dinesh Nair,78,Male,+91-7555863119,17,148,12,2024-05-10,Recovered
+1136,Rajesh Iyer,75,Female,+91-7126795342,20,150,15,2024-12-15,Recovered
+1137,Aditi Agarwal,13,Male,+91-8016263083,16,128,5,2025-05-22,Recovered
+1138,Saanvi Mishra,54,Male,+91-7313024503,20,16,4,2023-04-18,Recovered
+1139,Mahesh Menon,81,Male,+91-7572161102,11,45,2,2024-03-28,Recovered
+1140,Nita Rao,26,Male,+91-7864116237,16,65,7,2025-10-09,Recovered
+1141,Aditi Pandey,68,Male,+91-7413202112,19,23,1,2025-01-29,Referred
+1142,Aditya Kumar,1,Female,+91-7795876146,19,105,9,2023-07-28,Recovered
+1143,Geeta Nair,25,Male,+91-9399586659,16,147,8,2024-11-29,Recovered
+1144,Krishna Gupta,57,Female,+91-9221558385,3,97,9,2025-05-23,Recovered
+1145,Reyansh Singh,64,Male,+91-8245095872,20,14,9,2023-11-02,Recovered
+1146,Sara Mishra,46,Male,+91-9223761189,10,41,1,2025-08-02,Recovered
+1147,Kanta Reddy,40,Female,+91-9022838130,18,15,10,2025-08-12,Recovered
+1148,Sara Sharma,5,Female,+91-7255086561,9,108,3,2025-08-17,Discharged
+1149,Diya Rao,43,Male,+91-9619937385,16,61,1,2023-05-23,Discharged
+1150,Aditya Tiwari,10,Female,+91-7179276130,18,21,7,2024-12-20,Recovered
+1151,Aditya Nair,65,Male,+91-7978200864,14,90,7,2023-04-17,Under Treatment
+1152,Vihaan Sharma,26,Female,+91-8620181096,18,5,8,2023-01-22,Recovered
+1153,Krishna Pandey,55,Male,+91-8579296724,15,30,2,2024-12-13,Recovered
+1154,Ananya Mehta,56,Male,+91-8774102729,8,61,1,2023-12-27,Recovered
+1155,Seeta Iyer,6,Male,+91-7775643094,2,64,1,2025-02-04,Recovered
+1156,Aditya Mehta,45,Male,+91-7525602454,5,75,9,2023-10-17,Recovered
+1157,Arjun Gupta,33,Male,+91-8904997690,12,127,15,2024-11-03,Discharged
+1158,Priya Tiwari,71,Female,+91-9325377663,17,63,15,2024-12-31,Recovered
+1159,Reyansh Verma,45,Female,+91-9237656262,9,125,1,2024-05-30,Discharged
+1160,Priya Rao,27,Male,+91-8890977071,5,96,1,2023-08-25,Recovered
+1161,Jitesh Singh,3,Female,+91-7362895954,9,9,4,2024-10-27,Recovered
+1162,Myra Menon,50,Female,+91-7883604157,13,5,7,2023-03-03,Recovered
+1163,Saanvi Pandey,69,Male,+91-7111635207,2,79,9,2024-01-24,Recovered
+1164,Mamta Mehta,34,Male,+91-8836309789,11,8,11,2025-07-20,Recovered
+1165,Vihaan Singh,71,Female,+91-9440843025,18,74,7,2025-03-12,Recovered
+1166,Geeta Jain,21,Female,+91-9931739224,8,120,2,2025-02-26,Recovered
+1167,Myra Gupta,32,Female,+91-8553467636,19,87,7,2025-08-31,Recovered
+1168,Sara Menon,2,Male,+91-7767873125,19,79,10,2023-10-03,Under Treatment
+1169,Jitesh Sharma,57,Male,+91-9390614928,2,120,15,2024-03-30,Recovered
+1170,Rakesh Verma,75,Male,+91-8891673334,20,71,9,2023-08-12,Referred
+1171,Sara Jain,34,Female,+91-9654072061,8,33,9,2023-07-04,Recovered
+1172,Vihaan Agarwal,15,Male,+91-7180197885,17,48,15,2024-11-02,Recovered
+1173,Aadhya Verma,34,Female,+91-8008015356,12,5,9,2024-07-20,Recovered
+1174,Reyansh Gupta,65,Female,+91-9449702850,17,29,1,2023-12-25,Recovered
+1175,Rakesh Gupta,83,Female,+91-8547420645,5,73,1,2024-01-16,Recovered
+1176,Rakesh Tiwari,61,Female,+91-7644516752,6,8,7,2023-12-10,Recovered
+1177,Anita Sharma,14,Male,+91-9497465495,17,81,11,2025-07-22,Under Treatment
+1178,Ramesh Patel,49,Male,+91-7332050102,13,39,12,2024-12-30,Recovered
+1179,Aadhya Iyer,65,Female,+91-7220896634,4,138,15,2025-09-08,Recovered
+1180,Sunita Reddy,67,Female,+91-8048096551,9,82,3,2024-09-13,Recovered
+1181,Kavya Tiwari,30,Female,+91-8760617970,4,81,10,2023-12-03,Recovered
+1182,Sai Tiwari,72,Male,+91-8798948060,16,93,9,2024-01-06,Recovered
+1183,Nita Kumar,69,Male,+91-8232162499,19,105,10,2023-08-24,Recovered
+1184,Rajesh Singh,11,Female,+91-9717124135,17,108,15,2023-12-16,Recovered
+1185,Ananya Yadav,59,Male,+91-9018034482,4,43,7,2025-06-21,Under Treatment
+1186,Reyansh Kumar,5,Female,+91-9273367754,6,7,15,2025-01-30,Recovered
+1187,Dinesh Pandey,46,Male,+91-8446580602,18,103,4,2025-07-29,Recovered
+1188,Suresh Iyer,78,Male,+91-8927990801,3,12,11,2025-07-07,Recovered
+1189,Rakesh Joshi,56,Female,+91-9532132885,5,123,11,2025-07-21,Under Treatment
+1190,Kavita Gupta,20,Male,+91-9184708952,15,95,7,2025-07-27,Recovered
+1191,Anita Jain,13,Male,+91-9255689530,16,77,6,2025-01-09,Recovered
+1192,Kavita Pandey,37,Female,+91-7180107004,11,99,12,2024-08-16,Referred
+1193,Diya Pandey,67,Female,+91-7711214547,20,148,5,2025-04-13,Recovered
+1194,Anika Jain,63,Female,+91-9603481095,6,58,5,2023-05-02,Discharged
+1195,Reyansh Agarwal,36,Male,+91-7725215637,7,25,9,2025-02-10,Recovered
+1196,Mamta Verma,70,Male,+91-7872483680,16,2,15,2023-01-29,Recovered
+1197,Nita Pandey,57,Male,+91-7515140923,10,117,15,2023-10-16,Under Treatment
+1198,Mukesh Nair,34,Male,+91-8519220830,9,36,11,2024-03-31,Recovered
+1199,Sai Agarwal,10,Female,+91-9202648696,17,41,6,2025-04-02,Recovered
+1200,Arjun Mehta,5,Female,+91-9839533548,17,26,5,2024-11-19,Under Treatment
+1201,Aditya Sharma,32,Male,+91-7650400253,8,97,10,2025-05-07,Recovered
+1202,Saanvi Nair,37,Male,+91-7919935099,3,51,15,2024-05-11,Discharged
+1203,Mukesh Gupta,63,Male,+91-8633334081,2,46,7,2023-01-04,Recovered
+1204,Anita Agarwal,82,Female,+91-8288922118,17,124,10,2024-10-08,Recovered
+1205,Aadhya Shah,63,Female,+91-7414607096,20,101,7,2025-05-10,Recovered
+1206,Ayaan Shah,54,Female,+91-8996025623,8,84,10,2023-08-13,Recovered
+1207,Rajesh Singh,45,Female,+91-9581527840,16,33,15,2025-09-06,Discharged
+1208,Kavya Sharma,38,Female,+91-7261148003,7,130,15,2024-02-26,Under Treatment
+1209,Rajesh Jain,41,Female,+91-7234648513,15,101,7,2024-07-29,Recovered
+1210,Meera Agarwal,44,Male,+91-7715263006,15,79,7,2023-10-02,Recovered
+1211,Diya Singh,79,Female,+91-7090699807,20,34,9,2024-07-02,Referred
+1212,Dinesh Gupta,43,Female,+91-8555198003,3,142,10,2025-04-01,Recovered
+1213,Ananya Yadav,69,Female,+91-8423790732,10,59,14,2024-07-02,Discharged
+1214,Diya Rao,32,Male,+91-9153923191,1,10,12,2024-02-28,Recovered
+1215,Meera Verma,21,Female,+91-8062182961,1,78,4,2024-02-12,Under Treatment
+1216,Myra Singh,49,Female,+91-9166852486,9,34,15,2023-02-04,Recovered
+1217,Rakesh Sharma,2,Male,+91-9601425534,19,25,14,2025-01-09,Recovered
+1218,Priya Mehta,55,Male,+91-9817716350,9,78,7,2025-05-29,Recovered
+1219,Sunita Mishra,38,Female,+91-9075970397,8,24,15,2024-08-13,Recovered
+1220,Seeta Reddy,32,Female,+91-9347549284,16,5,11,2023-10-19,Referred
+1221,Reyansh Joshi,29,Male,+91-7467930025,8,102,7,2025-01-01,Recovered
+1222,Priya Mehta,19,Male,+91-9103724210,18,25,3,2024-10-20,Discharged
+1223,Kavya Gupta,19,Female,+91-7998278217,17,122,11,2024-08-30,Recovered
+1224,Meera Jain,53,Female,+91-9571526174,5,87,1,2023-03-02,Recovered
+1225,Aarav Jain,27,Female,+91-8382283488,16,140,5,2024-02-21,Recovered
+1226,Sunita Reddy,72,Male,+91-7058516889,14,27,10,2024-04-17,Recovered
+1227,Geeta Singh,22,Male,+91-7733245783,4,113,1,2023-06-15,Recovered
+1228,Geeta Nair,18,Female,+91-8263680962,1,103,5,2024-10-03,Recovered
+1229,Myra Reddy,42,Female,+91-7878156927,6,145,2,2025-01-07,Recovered
+1230,Kanta Tiwari,67,Female,+91-7581277647,15,121,3,2025-04-02,Recovered
+1231,Geeta Nair,2,Female,+91-7024062257,6,107,2,2023-06-18,Recovered
+1232,Ananya Patel,13,Female,+91-7671960610,4,85,1,2023-11-16,Recovered
+1233,Ramesh Rao,29,Female,+91-8830367533,7,4,4,2023-03-10,Under Treatment
+1234,Priya Tiwari,80,Female,+91-7332757422,18,66,9,2024-08-21,Recovered
+1235,Ishaan Singh,28,Female,+91-9243337877,9,46,9,2024-08-29,Recovered
+1236,Dinesh Mehta,74,Female,+91-7929617578,7,122,3,2024-08-24,Under Treatment
+1237,Kanta Kumar,19,Male,+91-7224150855,1,122,5,2023-04-04,Discharged
+1238,Kavita Joshi,55,Female,+91-9405805049,10,84,8,2023-05-21,Recovered
+1239,Dinesh Mishra,61,Female,+91-9600091572,17,80,5,2024-02-07,Recovered
+1240,Diya Yadav,82,Female,+91-8076056987,14,37,9,2025-05-12,Recovered
+1241,Ayaan Rao,56,Female,+91-9877796004,1,46,15,2024-12-02,Discharged
+1242,Mukesh Patel,79,Male,+91-7045837716,12,98,3,2023-12-21,Under Treatment
+1243,Ritesh Tiwari,68,Male,+91-8584273530,19,2,5,2023-07-20,Recovered
+1244,Sara Reddy,2,Female,+91-9987145791,9,9,10,2025-07-26,Recovered
+1245,Sara Jain,81,Male,+91-9609391341,1,147,15,2024-12-22,Discharged
+1246,Jitesh Nair,23,Female,+91-7657953558,4,140,1,2024-10-09,Recovered
+1247,Saanvi Kumar,11,Female,+91-8349635732,2,31,7,2024-12-23,Under Treatment
+1248,Seeta Jain,25,Male,+91-9520490780,11,86,15,2023-04-10,Recovered
+1249,Mahesh Reddy,2,Female,+91-9154036452,2,107,1,2025-01-09,Under Treatment
+1250,Myra Gupta,23,Female,+91-8757721882,9,12,9,2023-06-01,Recovered
+1251,Aarav Shah,36,Female,+91-7369776212,11,31,7,2023-06-27,Under Treatment
+1252,Jitesh Gupta,15,Male,+91-7086360500,3,47,3,2024-08-02,Recovered
+1253,Aditi Sharma,28,Female,+91-8321914982,3,118,15,2025-02-24,Discharged
+1254,Ananya Kumar,40,Male,+91-8355238193,10,98,3,2025-05-07,Recovered
+1255,Aadhya Patel,35,Male,+91-7396906760,10,46,4,2024-02-28,Recovered
+1256,Ramesh Iyer,47,Female,+91-7732183014,15,134,15,2024-05-16,Recovered
+1257,Anita Mishra,20,Male,+91-8239909831,12,112,10,2023-02-07,Recovered
+1258,Suresh Reddy,71,Female,+91-9008705521,17,24,12,2023-08-01,Recovered
+1259,Aditya Singh,67,Male,+91-9421371259,5,122,7,2023-09-25,Recovered
+1260,Anita Verma,42,Male,+91-8445994529,1,92,2,2024-01-22,Recovered
+1261,Reyansh Yadav,46,Female,+91-8885528054,15,42,9,2024-10-25,Under Treatment
+1262,Kanta Joshi,76,Female,+91-8602945271,16,103,15,2025-04-08,Recovered
+1263,Suresh Nair,52,Female,+91-9177379883,8,11,12,2024-09-07,Discharged
+1264,Rakesh Pandey,35,Female,+91-9563456180,6,8,8,2023-04-21,Discharged
+1265,Geeta Patel,73,Male,+91-7388259244,11,34,14,2025-09-15,Recovered
+1266,Ishaan Tiwari,59,Female,+91-7739028316,15,43,1,2023-11-13,Recovered
+1267,Priya Gupta,24,Male,+91-9940822421,14,53,1,2023-11-05,Recovered
+1268,Mahesh Sharma,62,Male,+91-7912645659,4,89,7,2024-07-22,Recovered
+1269,Sunita Mishra,60,Male,+91-7573490961,13,25,2,2025-07-23,Under Treatment
+1270,Rajesh Shah,55,Female,+91-9518693203,3,137,7,2024-02-14,Recovered
+1271,Aadhya Menon,23,Male,+91-9622363234,12,95,6,2023-01-28,Under Treatment
+1272,Naresh Gupta,83,Male,+91-8870031479,16,36,3,2024-09-05,Recovered
+1273,Suresh Mishra,84,Male,+91-9064384875,5,109,4,2023-04-06,Recovered
+1274,Sara Pandey,23,Male,+91-7354938120,17,102,15,2023-02-05,Recovered
+1275,Reyansh Mishra,2,Male,+91-8952887577,5,82,9,2023-12-21,Recovered
+1276,Meera Mishra,55,Male,+91-9592597069,14,78,4,2023-01-12,Recovered
+1277,Ritesh Reddy,48,Female,+91-7768110072,18,86,15,2025-04-06,Recovered
+1278,Mukesh Rao,50,Male,+91-9534687927,1,39,6,2025-10-01,Discharged
+1279,Ananya Reddy,79,Female,+91-9102907940,2,112,7,2023-09-22,Recovered
+1280,Mahesh Verma,77,Female,+91-7101062079,14,65,6,2024-04-16,Recovered
+1281,Myra Yadav,38,Female,+91-7152965599,1,107,7,2024-07-09,Recovered
+1282,Ayaan Tiwari,5,Female,+91-7621242610,6,64,1,2024-09-02,Recovered
+1283,Meera Pandey,36,Female,+91-9248667688,20,118,4,2024-10-10,Under Treatment
+1284,Jitesh Verma,10,Female,+91-9739392341,2,96,2,2024-08-05,Referred
+1285,Reyansh Mishra,66,Male,+91-8103196723,10,87,7,2025-04-11,Recovered
+1286,Sai Pandey,15,Male,+91-9315664373,9,147,15,2025-01-08,Recovered
+1287,Kavya Verma,48,Female,+91-7797633281,14,56,4,2025-05-24,Recovered
+1288,Kavita Verma,78,Female,+91-7080397265,10,47,4,2023-10-11,Recovered
+1289,Rakesh Kumar,36,Female,+91-7417246206,20,119,14,2025-03-11,Recovered
+1290,Aadhya Sharma,42,Male,+91-8978451553,20,17,5,2023-08-15,Under Treatment
+1291,Rakesh Menon,43,Female,+91-8487631983,18,122,1,2024-08-25,Recovered
+1292,Ritesh Kumar,60,Female,+91-8098191348,18,54,10,2025-04-22,Recovered
+1293,Aditya Iyer,11,Female,+91-9274579252,12,144,1,2024-02-17,Under Treatment
+1294,Priya Shah,41,Female,+91-9681198353,1,120,2,2024-01-14,Recovered
+1295,Nita Pandey,54,Male,+91-8611833934,18,73,12,2023-12-27,Referred
+1296,Seeta Kumar,49,Male,+91-9451331189,13,25,3,2025-08-01,Referred
+1297,Saanvi Yadav,52,Female,+91-8371827566,7,91,7,2023-10-24,Recovered
+1298,Mahesh Singh,82,Female,+91-8735020620,18,129,9,2025-02-27,Recovered
+1299,Jitesh Shah,58,Male,+91-8434754648,13,46,5,2024-05-21,Recovered
+1300,Jitesh Yadav,13,Female,+91-9733389690,14,149,15,2025-02-20,Recovered
+1301,Kanta Agarwal,18,Male,+91-8073487379,14,147,15,2023-01-30,Recovered
+1302,Nita Nair,12,Female,+91-9371068304,20,6,15,2023-06-20,Recovered
+1303,Ananya Yadav,59,Female,+91-7858071348,6,62,7,2024-06-07,Under Treatment
+1304,Krishna Shah,9,Male,+91-9590934669,19,53,7,2023-11-27,Recovered
+1305,Kavya Yadav,60,Male,+91-7299970281,6,85,4,2024-03-30,Under Treatment
+1306,Aditya Pandey,67,Female,+91-9307863942,3,99,13,2023-01-08,Referred
+1307,Mamta Rao,4,Female,+91-7171396931,2,124,5,2023-05-04,Recovered
+1308,Naresh Reddy,81,Female,+91-9490273474,4,110,2,2024-01-08,Under Treatment
+1309,Ayaan Yadav,47,Female,+91-7902308147,5,87,15,2025-02-10,Under Treatment
+1310,Reyansh Mehta,83,Male,+91-8470781057,16,118,12,2023-09-28,Under Treatment
+1311,Ritesh Mehta,58,Female,+91-7635758131,9,146,9,2023-10-30,Under Treatment
+1312,Anika Sharma,29,Female,+91-7679903838,12,145,11,2024-06-18,Recovered
+1313,Priya Nair,57,Female,+91-8650240997,5,40,2,2024-08-04,Recovered
+1314,Aadhya Sharma,28,Female,+91-9184384110,19,38,1,2023-09-21,Recovered
+1315,Geeta Mishra,62,Male,+91-9247717111,5,89,9,2025-02-02,Recovered
+1316,Dinesh Nair,83,Male,+91-7061128523,16,135,3,2024-01-19,Discharged
+1317,Arjun Mehta,29,Female,+91-7513641216,8,53,2,2024-11-15,Recovered
+1318,Ananya Tiwari,64,Female,+91-9251071078,1,146,15,2024-10-27,Under Treatment
+1319,Aadhya Patel,47,Male,+91-8165970052,4,103,15,2025-07-08,Recovered
+1320,Seeta Rao,11,Male,+91-7784624638,19,115,8,2024-07-20,Recovered
+1321,Kavya Agarwal,59,Male,+91-7816104624,20,11,4,2024-12-07,Recovered
+1322,Arjun Kumar,67,Female,+91-9496537527,7,16,4,2025-01-20,Recovered
+1323,Jitesh Singh,69,Male,+91-7358141037,3,82,3,2024-05-03,Recovered
+1324,Ananya Singh,70,Male,+91-7478991512,10,125,9,2024-05-02,Recovered
+1325,Ritesh Patel,76,Female,+91-9115722975,9,1,12,2025-01-07,Recovered
+1326,Saanvi Mehta,65,Female,+91-9285738755,10,132,15,2024-10-08,Recovered
+1327,Suresh Jain,72,Female,+91-9094142051,4,113,15,2023-09-12,Discharged
+1328,Rajesh Reddy,61,Female,+91-8308423044,6,42,1,2023-01-07,Recovered
+1329,Ritesh Mehta,82,Male,+91-9155127277,4,50,12,2023-04-07,Recovered
+1330,Rajesh Reddy,61,Male,+91-8390561934,20,77,3,2023-11-09,Recovered
+1331,Ananya Mishra,22,Male,+91-9806720883,11,41,15,2023-06-10,Referred
+1332,Rakesh Jain,30,Female,+91-8520133112,10,121,7,2024-09-01,Recovered
+1333,Rajesh Joshi,40,Female,+91-8735515159,13,145,12,2025-04-29,Recovered
+1334,Rakesh Tiwari,83,Male,+91-7895969004,9,117,1,2023-02-26,Under Treatment
+1335,Sara Shah,48,Male,+91-9405062535,14,83,14,2024-11-08,Recovered
+1336,Ananya Patel,80,Female,+91-9060221499,4,71,1,2025-01-26,Recovered
+1337,Anita Nair,6,Female,+91-8610694200,8,125,4,2025-08-22,Recovered
+1338,Reyansh Verma,82,Female,+91-7476873602,18,71,7,2023-03-02,Discharged
+1339,Krishna Gupta,42,Female,+91-9413068920,5,39,9,2024-04-28,Recovered
+1340,Ritesh Agarwal,42,Female,+91-7603303590,17,143,15,2023-04-01,Recovered
+1341,Arjun Mehta,47,Female,+91-8555653468,6,55,5,2025-03-01,Recovered
+1342,Ananya Jain,33,Male,+91-9088889690,4,36,10,2023-12-08,Recovered
+1343,Vihaan Reddy,8,Female,+91-9165572149,19,5,7,2025-03-28,Recovered
+1344,Rajesh Rao,63,Female,+91-9427974255,11,148,9,2025-06-13,Under Treatment
+1345,Rita Singh,69,Male,+91-9792476033,3,132,9,2023-04-05,Recovered
+1346,Ananya Gupta,56,Female,+91-7653716836,15,120,15,2025-10-13,Referred
+1347,Suresh Gupta,24,Female,+91-8857131704,17,117,13,2024-10-28,Under Treatment
+1348,Vivaan Mishra,74,Female,+91-7967355230,20,2,15,2025-06-29,Recovered
+1349,Mukesh Kumar,34,Male,+91-7860417440,11,150,9,2023-11-27,Recovered
+1350,Nita Tiwari,74,Male,+91-7112633332,5,49,3,2025-02-27,Recovered
+1351,Mamta Verma,17,Female,+91-9826805935,11,18,15,2024-06-30,Discharged
+1352,Ananya Shah,21,Female,+91-8526194146,8,70,15,2023-08-02,Recovered
+1353,Krishna Joshi,16,Female,+91-7895862946,15,7,15,2023-01-28,Discharged
+1354,Vihaan Joshi,57,Female,+91-7535364749,7,51,12,2024-01-25,Recovered
+1355,Saanvi Reddy,75,Male,+91-9597804132,7,42,2,2023-04-06,Recovered
+1356,Rajesh Pandey,25,Male,+91-7481003490,17,24,7,2024-01-02,Recovered
+1357,Jitesh Sharma,1,Female,+91-8547873743,13,108,15,2025-08-25,Recovered
+1358,Priya Gupta,56,Female,+91-9024482067,3,59,10,2025-08-26,Under Treatment
+1359,Myra Mehta,6,Male,+91-7668976864,6,64,9,2023-01-17,Recovered
+1360,Sunita Verma,8,Male,+91-8800618432,12,76,9,2023-05-24,Under Treatment
+1361,Saanvi Reddy,20,Male,+91-7876503615,4,94,13,2023-06-26,Recovered
+1362,Naresh Tiwari,34,Female,+91-7146985678,1,8,6,2023-11-10,Discharged
+1363,Ishaan Pandey,6,Female,+91-7956487847,6,135,2,2025-01-22,Recovered
+1364,Rakesh Gupta,15,Female,+91-7577266783,14,119,15,2023-04-05,Recovered
+1365,Mamta Sharma,40,Female,+91-8570165849,9,121,2,2025-05-27,Recovered
+1366,Kanta Singh,62,Female,+91-7612443156,7,147,2,2025-09-06,Recovered
+1367,Sai Singh,52,Female,+91-9831969851,8,27,4,2023-08-19,Recovered
+1368,Suresh Joshi,76,Female,+91-9488369016,11,34,7,2023-11-05,Recovered
+1369,Aditya Mishra,81,Male,+91-8021469208,6,51,1,2025-01-24,Recovered
+1370,Naresh Mehta,2,Female,+91-9479061501,12,124,3,2023-06-15,Discharged
+1371,Ritesh Patel,59,Female,+91-9209721603,15,140,2,2024-02-20,Recovered
+1372,Suresh Mehta,24,Female,+91-7414479000,16,88,12,2025-08-04,Recovered
+1373,Suresh Reddy,34,Male,+91-7542145861,14,94,10,2024-11-15,Referred
+1374,Aadhya Joshi,15,Male,+91-8943751120,10,141,2,2023-04-07,Recovered
+1375,Rita Gupta,65,Male,+91-7952868958,17,102,3,2024-03-22,Under Treatment
+1376,Vivaan Patel,46,Male,+91-8557596313,17,145,8,2025-03-05,Under Treatment
+1377,Aadhya Reddy,22,Female,+91-9655081209,4,41,10,2024-07-06,Recovered
+1378,Ishaan Rao,79,Female,+91-8721735754,9,52,1,2023-08-20,Referred
+1379,Dinesh Reddy,54,Female,+91-7001518755,11,120,2,2023-10-31,Discharged
+1380,Sara Rao,40,Male,+91-9065587731,2,18,12,2023-03-18,Recovered
+1381,Aditi Agarwal,51,Male,+91-8504988056,13,108,9,2025-04-22,Recovered
+1382,Aadhya Jain,18,Female,+91-8904308418,19,32,15,2023-03-14,Recovered
+1383,Myra Mehta,2,Male,+91-9570308135,10,134,8,2023-05-26,Under Treatment
+1384,Aadhya Joshi,39,Male,+91-8466203855,20,139,7,2024-04-27,Recovered
+1385,Myra Verma,49,Female,+91-9969698946,15,29,7,2025-06-15,Recovered
+1386,Meera Shah,29,Male,+91-8036343804,20,23,15,2025-06-05,Discharged
+1387,Meera Pandey,54,Male,+91-8080917884,9,27,15,2025-06-09,Under Treatment
+1388,Kavita Mehta,54,Female,+91-9085416061,3,92,1,2024-10-17,Under Treatment
+1389,Anita Nair,29,Female,+91-9095351182,4,69,15,2023-09-06,Under Treatment
+1390,Mamta Iyer,49,Female,+91-9760280020,20,11,2,2024-07-28,Under Treatment
+1391,Reyansh Iyer,13,Male,+91-9593326058,12,62,9,2025-09-03,Under Treatment
+1392,Naresh Verma,45,Female,+91-8712372256,19,118,15,2024-03-07,Recovered
+1393,Mukesh Sharma,28,Male,+91-7121867872,11,7,2,2025-04-12,Discharged
+1394,Jitesh Jain,46,Female,+91-8393770145,8,91,4,2025-01-16,Under Treatment
+1395,Sara Yadav,27,Female,+91-9146781020,12,103,13,2024-04-14,Recovered
+1396,Sai Mehta,46,Male,+91-9746424294,10,82,2,2025-05-27,Under Treatment
+1397,Rajesh Menon,64,Male,+91-8505789352,7,98,4,2024-02-20,Under Treatment
+1398,Ritesh Tiwari,21,Male,+91-9173765739,1,83,2,2023-12-12,Recovered
+1399,Rita Shah,72,Male,+91-7388875847,20,102,10,2024-12-18,Recovered
+1400,Mamta Mishra,34,Male,+91-8654593890,18,88,7,2024-12-29,Recovered
+1401,Anika Menon,73,Male,+91-9353587188,8,83,7,2023-04-17,Recovered
+1402,Myra Sharma,64,Male,+91-7927575908,8,57,15,2023-06-08,Recovered
+1403,Aarav Shah,32,Male,+91-9439909513,15,124,7,2023-05-29,Recovered
+1404,Rakesh Yadav,67,Female,+91-8563234619,13,148,12,2023-07-16,Under Treatment
+1405,Sara Pandey,48,Female,+91-9977267325,11,61,9,2025-04-02,Recovered
+1406,Rajesh Agarwal,69,Male,+91-7450145299,17,25,10,2023-05-18,Recovered
+1407,Mamta Agarwal,45,Male,+91-9657751290,9,120,9,2025-04-06,Recovered
+1408,Meera Iyer,56,Male,+91-7247157166,1,44,9,2024-03-24,Recovered
+1409,Ramesh Nair,19,Male,+91-8082383603,3,91,15,2025-07-06,Recovered
+1410,Vivaan Menon,63,Female,+91-9312391906,13,35,3,2025-08-28,Recovered
+1411,Priya Mehta,30,Female,+91-7029099868,18,37,15,2024-12-14,Recovered
+1412,Kanta Verma,46,Male,+91-7692379737,20,19,1,2025-09-21,Recovered
+1413,Ananya Agarwal,77,Male,+91-7513249015,1,47,10,2025-01-20,Recovered
+1414,Sai Singh,52,Female,+91-8474442265,13,105,10,2023-12-06,Recovered
+1415,Reyansh Shah,46,Male,+91-8724119090,9,111,8,2023-07-07,Recovered
+1416,Aadhya Tiwari,83,Male,+91-7087620605,15,87,12,2023-07-25,Recovered
+1417,Mamta Verma,72,Male,+91-9272557267,4,96,3,2025-06-19,Referred
+1418,Aarav Mehta,50,Female,+91-7740422125,19,8,9,2023-01-13,Discharged
+1419,Kanta Nair,24,Male,+91-9575770500,4,89,15,2023-07-13,Discharged
+1420,Nita Yadav,57,Male,+91-9671824490,5,130,14,2024-01-19,Recovered
+1421,Seeta Singh,40,Female,+91-7718914400,12,28,10,2023-02-09,Recovered
+1422,Reyansh Nair,25,Male,+91-8670080172,15,87,15,2025-07-10,Recovered
+1423,Ritesh Singh,71,Male,+91-9107833160,8,87,7,2025-03-13,Recovered
+1424,Naresh Verma,46,Male,+91-9849764904,19,123,2,2023-07-12,Recovered
+1425,Rajesh Reddy,73,Female,+91-7850581842,7,140,4,2024-11-01,Recovered
+1426,Mukesh Mishra,56,Female,+91-9410563241,16,22,1,2023-10-27,Recovered
+1427,Kanta Mishra,40,Female,+91-7383057407,2,74,8,2024-05-10,Recovered
+1428,Anita Iyer,70,Male,+91-8301142829,2,81,9,2023-11-11,Recovered
+1429,Ananya Tiwari,69,Male,+91-8592676628,17,112,8,2024-01-30,Recovered
+1430,Aditya Patel,13,Female,+91-7874490698,8,48,10,2024-11-28,Recovered
+1431,Diya Iyer,82,Male,+91-8247437523,13,12,3,2024-05-22,Recovered
+1432,Kavya Mehta,23,Female,+91-7669709925,12,59,15,2023-01-05,Recovered
+1433,Mamta Agarwal,80,Female,+91-8330319954,19,109,10,2023-05-26,Discharged
+1434,Myra Pandey,2,Female,+91-9096873862,13,106,4,2023-07-29,Discharged
+1435,Mamta Sharma,81,Female,+91-7302899786,15,11,2,2023-09-17,Recovered
+1436,Ayaan Singh,21,Female,+91-8101655507,6,18,9,2024-10-14,Recovered
+1437,Naresh Shah,69,Female,+91-8696109383,19,73,4,2025-09-05,Under Treatment
+1438,Ananya Gupta,72,Female,+91-9056515342,5,52,8,2025-04-22,Recovered
+1439,Ayaan Agarwal,5,Female,+91-8038316265,3,48,12,2023-04-22,Under Treatment
+1440,Kanta Tiwari,57,Male,+91-9163028380,20,114,12,2024-03-22,Recovered
+1441,Ananya Patel,41,Male,+91-8077187074,1,146,15,2025-02-24,Recovered
+1442,Saanvi Tiwari,60,Male,+91-9171512258,13,15,7,2025-08-01,Discharged
+1443,Aadhya Yadav,81,Male,+91-8055600387,15,86,1,2023-03-07,Recovered
+1444,Geeta Shah,72,Male,+91-9941033980,18,37,15,2024-09-08,Recovered
+1445,Rakesh Reddy,69,Male,+91-7445785814,11,44,7,2023-03-08,Recovered
+1446,Aadhya Sharma,49,Male,+91-7513858861,2,145,14,2024-12-01,Under Treatment
+1447,Aadhya Verma,73,Male,+91-8213192744,16,6,15,2025-05-27,Recovered
+1448,Kanta Mishra,58,Male,+91-9734595252,20,126,4,2024-12-03,Referred
+1449,Sunita Kumar,59,Female,+91-8668387671,5,58,4,2024-04-10,Under Treatment
+1450,Aditi Tiwari,3,Female,+91-9325718433,5,77,1,2023-09-21,Recovered
+1451,Aadhya Mishra,17,Female,+91-8942664419,13,54,7,2025-05-22,Recovered
+1452,Dinesh Joshi,47,Female,+91-8056592524,13,84,2,2024-03-30,Recovered
+1453,Ananya Iyer,25,Female,+91-8609825215,18,119,15,2023-08-11,Under Treatment
+1454,Priya Patel,51,Male,+91-9678324811,4,121,9,2024-10-21,Recovered
+1455,Vihaan Patel,28,Female,+91-8854497381,6,142,10,2024-02-27,Discharged
+1456,Ritesh Sharma,27,Female,+91-9419629953,6,146,4,2023-07-04,Under Treatment
+1457,Ishaan Mishra,74,Male,+91-7560729808,14,39,5,2025-02-26,Recovered
+1458,Meera Mehta,79,Male,+91-7226571165,3,25,1,2025-02-19,Recovered
+1459,Sai Mehta,46,Male,+91-9676759681,7,39,5,2023-12-06,Recovered
+1460,Rajesh Iyer,58,Female,+91-9413288685,6,87,5,2025-07-20,Recovered
+1461,Ishaan Yadav,54,Male,+91-9700170747,20,137,7,2023-06-13,Recovered
+1462,Myra Agarwal,15,Male,+91-8636164123,4,114,12,2024-04-25,Recovered
+1463,Dinesh Nair,22,Male,+91-7085283713,15,93,9,2024-04-29,Recovered
+1464,Meera Iyer,45,Female,+91-8288939172,12,22,1,2025-09-20,Recovered
+1465,Naresh Kumar,15,Male,+91-7356794525,10,83,10,2024-11-24,Discharged
+1466,Mamta Nair,3,Female,+91-8203646699,12,44,15,2023-12-30,Recovered
+1467,Geeta Sharma,63,Female,+91-8130063397,2,43,10,2025-10-02,Under Treatment
+1468,Mukesh Mehta,6,Female,+91-9680788282,3,118,6,2024-04-04,Recovered
+1469,Nita Sharma,39,Female,+91-9885805373,16,52,7,2023-01-11,Recovered
+1470,Dinesh Mehta,47,Female,+91-8123511619,11,105,2,2023-10-04,Recovered
+1471,Ananya Nair,37,Female,+91-9861404236,15,22,15,2024-07-19,Recovered
+1472,Rajesh Reddy,15,Male,+91-7278997515,4,33,4,2025-07-24,Recovered
+1473,Nita Agarwal,12,Male,+91-9651973404,1,3,11,2023-06-07,Recovered
+1474,Ishaan Iyer,81,Female,+91-7595776128,4,85,9,2023-03-14,Recovered
+1475,Sai Yadav,12,Male,+91-7214742470,14,1,14,2023-07-24,Recovered
+1476,Sai Mishra,42,Male,+91-7799142588,7,122,10,2025-01-04,Recovered
+1477,Anika Iyer,8,Female,+91-7849203102,17,48,1,2024-04-25,Recovered
+1478,Ishaan Rao,74,Male,+91-7978030819,3,32,3,2023-09-27,Under Treatment
+1479,Naresh Iyer,38,Female,+91-8480728817,10,130,3,2023-06-16,Recovered
+1480,Kavya Reddy,1,Female,+91-8478427615,6,73,1,2025-01-23,Recovered
+1481,Vihaan Menon,56,Male,+91-8367509213,1,115,15,2025-07-13,Recovered
+1482,Mahesh Menon,9,Female,+91-8591042243,15,82,7,2024-08-25,Under Treatment
+1483,Priya Nair,41,Male,+91-8759787232,19,59,3,2024-05-26,Recovered
+1484,Jitesh Mehta,52,Female,+91-8655985488,15,119,2,2024-04-21,Under Treatment
+1485,Vivaan Kumar,41,Female,+91-9842289404,13,39,7,2024-03-05,Recovered
+1486,Saanvi Kumar,76,Male,+91-8163464032,4,56,1,2025-07-16,Recovered
+1487,Ananya Sharma,64,Female,+91-8192581843,10,41,15,2023-12-12,Discharged
+1488,Ananya Nair,78,Female,+91-9859542876,14,111,15,2023-08-22,Recovered
+1489,Ramesh Singh,9,Female,+91-9122708503,20,123,5,2023-03-03,Recovered
+1490,Diya Pandey,63,Male,+91-9656352191,6,79,6,2025-04-02,Recovered
+1491,Kanta Singh,77,Male,+91-9957147234,10,136,6,2024-03-15,Recovered
+1492,Krishna Tiwari,73,Female,+91-7899606602,1,17,7,2025-06-03,Recovered
+1493,Rajesh Agarwal,41,Female,+91-9999302585,18,72,6,2025-08-25,Under Treatment
+1494,Krishna Mehta,81,Male,+91-7083310722,8,61,8,2023-07-19,Recovered
+1495,Kavita Singh,50,Male,+91-8142492761,3,83,9,2023-11-17,Recovered
+1496,Ritesh Mishra,25,Female,+91-8059077154,12,37,15,2023-03-10,Recovered
+1497,Aarav Mehta,46,Female,+91-9081760802,5,144,13,2023-08-17,Referred
+1498,Rajesh Menon,69,Male,+91-7260115890,20,49,9,2025-10-05,Recovered
+1499,Ananya Reddy,65,Female,+91-7046875345,13,64,7,2025-01-23,Under Treatment
+1500,Sara Patel,19,Female,+91-7338055471,1,7,10,2023-11-02,Under Treatment
+1501,Jitesh Kumar,58,Female,+91-7462760677,6,143,9,2024-01-13,Under Treatment
+1502,Myra Joshi,36,Male,+91-7072826421,10,117,2,2025-08-17,Recovered
+1503,Vihaan Mehta,71,Female,+91-9362778010,5,95,5,2023-05-07,Under Treatment
+1504,Mukesh Mehta,51,Male,+91-8215084555,20,84,15,2023-01-27,Recovered
+1505,Nita Iyer,6,Male,+91-7650987897,16,34,1,2023-11-28,Recovered
+1506,Geeta Yadav,31,Male,+91-7298828907,12,93,6,2023-04-15,Recovered
+1507,Naresh Rao,8,Female,+91-7890151602,5,102,9,2024-05-19,Recovered
+1508,Aditi Singh,34,Male,+91-7225413210,2,62,10,2024-04-04,Recovered
+1509,Aadhya Nair,6,Male,+91-7591301527,8,57,15,2024-10-20,Referred
+1510,Rajesh Mehta,50,Female,+91-9876090795,17,5,12,2024-05-27,Recovered
+1511,Rakesh Rao,9,Male,+91-9110826315,19,52,1,2025-01-01,Recovered
+1512,Ramesh Gupta,75,Female,+91-7031567759,6,131,7,2023-01-08,Recovered
+1513,Kanta Shah,35,Female,+91-9609701659,13,131,2,2025-07-26,Recovered
+1514,Suresh Patel,42,Female,+91-8913594504,4,101,10,2023-09-20,Recovered
+1515,Kavita Mishra,27,Male,+91-7882973081,2,29,7,2024-09-09,Recovered
+1516,Nita Shah,28,Female,+91-9434587576,15,93,1,2023-07-24,Recovered
+1517,Sara Patel,66,Male,+91-8434227096,1,80,3,2025-06-30,Recovered
+1518,Meera Mishra,42,Female,+91-9062338387,20,101,12,2023-07-31,Discharged
+1519,Mamta Shah,32,Male,+91-7048154767,1,28,15,2024-07-28,Recovered
+1520,Myra Sharma,39,Female,+91-8580761716,19,98,15,2025-08-27,Recovered
+1521,Ananya Pandey,48,Male,+91-7150292711,14,72,10,2023-08-09,Recovered
+1522,Ayaan Shah,19,Female,+91-9928431609,7,117,2,2025-07-09,Recovered
+1523,Vivaan Nair,23,Male,+91-9490123268,3,29,11,2025-03-22,Recovered
+1524,Rita Jain,35,Male,+91-7925460564,16,145,1,2024-12-12,Recovered
+1525,Naresh Mishra,4,Male,+91-7056990204,14,128,15,2023-03-08,Recovered
+1526,Aditya Gupta,36,Female,+91-8168069783,7,123,14,2024-08-13,Recovered
+1527,Ananya Agarwal,58,Male,+91-9098210172,19,12,15,2025-09-13,Recovered
+1528,Aadhya Verma,37,Female,+91-9338999447,20,23,7,2025-03-21,Under Treatment
+1529,Mahesh Tiwari,71,Male,+91-8598199910,12,83,7,2023-06-17,Recovered
+1530,Ramesh Shah,19,Female,+91-9586222693,14,139,7,2024-04-23,Recovered
+1531,Krishna Mehta,46,Female,+91-7183634467,18,116,15,2023-09-17,Recovered
+1532,Kavita Kumar,77,Female,+91-7883959179,6,139,15,2023-12-18,Recovered
+1533,Naresh Gupta,54,Male,+91-7017353821,18,129,1,2025-04-24,Recovered
+1534,Rita Yadav,30,Female,+91-8603406316,4,126,6,2023-09-18,Under Treatment
+1535,Naresh Reddy,85,Female,+91-7457098881,19,57,7,2024-07-15,Recovered
+1536,Jitesh Kumar,25,Male,+91-9984733369,4,130,8,2023-08-20,Discharged
+1537,Priya Agarwal,52,Female,+91-7820366993,18,54,9,2025-08-30,Referred
+1538,Vivaan Sharma,38,Male,+91-7287856644,6,54,15,2023-01-25,Recovered
+1539,Ritesh Singh,55,Female,+91-8665362032,1,104,10,2023-09-17,Recovered
+1540,Diya Shah,55,Female,+91-8509667949,16,11,15,2024-01-19,Recovered
+1541,Sara Nair,50,Male,+91-9941400508,19,109,9,2023-02-01,Recovered
+1542,Vivaan Mishra,5,Female,+91-8053939960,16,23,4,2024-05-17,Recovered
+1543,Reyansh Joshi,49,Female,+91-8330639173,20,62,15,2025-01-11,Recovered
+1544,Ritesh Patel,79,Female,+91-9900145275,1,25,10,2024-07-19,Recovered
+1545,Vivaan Reddy,57,Male,+91-8667212275,6,129,7,2025-03-10,Recovered
+1546,Seeta Verma,33,Male,+91-7698989552,16,133,3,2025-03-31,Recovered
+1547,Anika Menon,43,Female,+91-9070802122,5,29,15,2023-02-10,Recovered
+1548,Kavya Sharma,50,Male,+91-9933604962,2,97,5,2024-05-12,Recovered
+1549,Meera Agarwal,57,Male,+91-9599339855,6,26,2,2024-08-20,Under Treatment
+1550,Vivaan Joshi,64,Female,+91-8581786202,1,111,10,2024-07-30,Discharged
+1551,Seeta Singh,54,Female,+91-7287498895,9,9,7,2024-10-12,Under Treatment
+1552,Sai Jain,46,Female,+91-7590675140,17,103,15,2023-03-08,Discharged
+1553,Vivaan Yadav,12,Male,+91-9393879387,15,51,10,2023-05-04,Recovered
+1554,Sunita Gupta,85,Male,+91-7869504394,14,150,2,2023-09-27,Recovered
+1555,Priya Kumar,51,Male,+91-9252981443,2,96,8,2023-05-31,Recovered
+1556,Myra Iyer,68,Male,+91-9063255758,5,78,5,2024-11-12,Recovered
+1557,Diya Patel,85,Female,+91-9375256696,16,123,3,2025-03-31,Recovered
+1558,Seeta Gupta,19,Male,+91-9204970015,5,131,15,2024-10-10,Recovered
+1559,Arjun Iyer,22,Male,+91-8745438052,12,106,15,2025-10-10,Under Treatment
+1560,Mukesh Verma,42,Female,+91-8678371131,7,8,10,2023-03-03,Discharged
+1561,Mamta Agarwal,17,Female,+91-7675534486,14,131,10,2024-04-05,Under Treatment
+1562,Mamta Reddy,37,Female,+91-9412425897,14,20,9,2023-09-05,Recovered
+1563,Ishaan Verma,48,Female,+91-8466656739,9,101,7,2023-03-28,Under Treatment
+1564,Seeta Menon,42,Female,+91-9956877492,17,121,8,2023-11-07,Under Treatment
+1565,Rita Menon,77,Male,+91-8470639855,11,121,1,2024-08-26,Recovered
+1566,Geeta Menon,81,Male,+91-9553073805,9,65,15,2024-06-29,Discharged
+1567,Aadhya Mehta,42,Male,+91-8438807522,7,145,7,2024-06-09,Recovered
+1568,Rakesh Jain,34,Female,+91-9956364196,20,49,15,2024-06-14,Recovered
+1569,Ananya Tiwari,70,Female,+91-8251815955,15,53,9,2023-10-30,Recovered
+1570,Kavya Patel,77,Female,+91-8162821567,16,47,7,2024-10-15,Recovered
+1571,Nita Joshi,69,Female,+91-8617321553,9,38,9,2025-08-12,Recovered
+1572,Rita Mishra,1,Male,+91-9364998768,9,49,15,2025-04-12,Recovered
+1573,Myra Reddy,73,Female,+91-9102642438,9,51,1,2024-08-20,Recovered
+1574,Reyansh Nair,56,Female,+91-7234084952,4,81,2,2024-09-01,Recovered
+1575,Arjun Jain,14,Female,+91-7880007635,4,33,15,2023-02-12,Recovered
+1576,Nita Verma,2,Male,+91-8033713891,20,87,11,2023-02-10,Recovered
+1577,Aadhya Menon,78,Female,+91-9378167416,12,142,15,2023-08-25,Recovered
+1578,Rajesh Agarwal,22,Female,+91-7391605448,18,53,9,2024-08-21,Referred
+1579,Kanta Jain,63,Male,+91-8973565873,8,25,15,2024-08-07,Recovered
+1580,Aditi Yadav,29,Female,+91-9489524412,1,28,4,2024-09-16,Recovered
+1581,Mamta Mishra,58,Male,+91-8907537018,4,60,15,2025-05-31,Recovered
+1582,Ishaan Mishra,79,Female,+91-9891849411,18,6,12,2024-03-29,Recovered
+1583,Mukesh Reddy,44,Female,+91-8899189317,16,6,8,2024-05-18,Recovered
+1584,Diya Tiwari,19,Male,+91-8349529340,6,97,14,2024-09-13,Recovered
+1585,Naresh Jain,32,Female,+91-7104264542,13,60,9,2023-12-28,Recovered
+1586,Nita Agarwal,83,Male,+91-8636257705,1,116,7,2024-12-03,Recovered
+1587,Meera Pandey,58,Female,+91-8574512452,14,23,4,2023-01-21,Recovered
+1588,Sara Nair,21,Male,+91-7840577604,19,57,10,2025-07-22,Recovered
+1589,Aditya Mishra,47,Male,+91-9643337430,3,59,10,2025-05-16,Recovered
+1590,Rita Verma,33,Male,+91-8872149503,9,135,7,2024-12-13,Recovered
+1591,Saanvi Agarwal,53,Female,+91-9666936960,17,43,1,2023-10-13,Discharged
+1592,Nita Yadav,37,Female,+91-7839172205,6,109,4,2023-02-23,Under Treatment
+1593,Arjun Gupta,13,Female,+91-8584544804,18,46,2,2024-09-09,Recovered
+1594,Saanvi Kumar,69,Male,+91-8169680444,1,63,6,2025-01-10,Recovered
+1595,Vivaan Reddy,65,Male,+91-7568185470,5,101,3,2024-06-09,Recovered
+1596,Mamta Tiwari,74,Female,+91-8066074462,8,119,7,2023-09-05,Under Treatment
+1597,Mamta Verma,9,Female,+91-9104347223,1,35,5,2023-06-15,Recovered
+1598,Naresh Rao,70,Female,+91-8520141341,15,135,15,2024-11-24,Discharged
+1599,Mamta Iyer,52,Female,+91-7542195985,14,135,3,2025-03-16,Discharged
+1600,Aditya Patel,10,Female,+91-8614668129,4,77,9,2025-04-04,Recovered
+1601,Mahesh Sharma,41,Female,+91-7632091062,1,51,3,2023-11-03,Under Treatment
+1602,Anita Kumar,84,Female,+91-8885602491,8,102,2,2024-04-05,Discharged
+1603,Meera Mishra,60,Female,+91-7220530480,7,96,7,2023-09-16,Recovered
+1604,Ishaan Singh,38,Female,+91-9806469135,12,14,7,2023-09-09,Recovered
+1605,Mukesh Gupta,77,Female,+91-9059258639,17,91,9,2025-06-12,Recovered
+1606,Ramesh Mehta,25,Female,+91-9412011166,6,130,1,2023-03-11,Recovered
+1607,Vihaan Sharma,66,Male,+91-9632497296,12,134,1,2023-10-04,Recovered
+1608,Ramesh Menon,42,Female,+91-8882904390,2,95,14,2024-04-16,Recovered
+1609,Meera Pandey,66,Male,+91-7658547357,19,141,8,2025-02-15,Referred
+1610,Dinesh Mehta,85,Female,+91-7400246291,5,69,2,2025-08-13,Discharged
+1611,Dinesh Jain,51,Male,+91-7835342988,2,11,5,2024-09-23,Referred
+1612,Nita Patel,54,Male,+91-7904588768,18,110,9,2024-03-04,Referred
+1613,Arjun Yadav,5,Female,+91-7711263457,3,124,3,2023-01-01,Discharged
+1614,Meera Singh,11,Female,+91-9014023104,20,88,11,2025-08-05,Recovered
+1615,Sara Iyer,72,Female,+91-9533084030,17,84,2,2025-09-05,Recovered
+1616,Myra Menon,32,Male,+91-9185429801,14,6,8,2024-06-16,Recovered
+1617,Meera Mishra,7,Female,+91-7940394051,4,66,15,2023-11-04,Recovered
+1618,Kavya Joshi,20,Male,+91-8800843409,17,139,7,2025-06-20,Under Treatment
+1619,Suresh Shah,11,Male,+91-7284844796,20,42,7,2024-08-03,Discharged
+1620,Rajesh Verma,56,Female,+91-8433599297,5,111,7,2025-03-04,Referred
+1621,Mahesh Singh,40,Male,+91-7919245712,16,125,15,2025-08-18,Recovered
+1622,Mukesh Agarwal,37,Male,+91-8618548311,11,43,2,2024-02-20,Recovered
+1623,Sai Singh,11,Male,+91-7396490094,5,3,9,2025-05-23,Recovered
+1624,Ishaan Verma,1,Female,+91-8575252215,2,46,2,2025-08-14,Referred
+1625,Ramesh Iyer,12,Male,+91-9503379686,10,43,6,2024-11-26,Recovered
+1626,Aditya Menon,1,Male,+91-8148174867,13,44,15,2023-03-26,Recovered
+1627,Anika Menon,68,Male,+91-8116615149,5,73,1,2024-08-30,Recovered
+1628,Kavita Singh,64,Male,+91-7699248669,2,73,7,2023-06-11,Recovered
+1629,Sunita Joshi,46,Female,+91-8328545459,13,76,7,2024-12-12,Discharged
+1630,Rajesh Patel,31,Female,+91-7505595570,5,39,1,2024-11-13,Recovered
+1631,Reyansh Joshi,17,Male,+91-9487947015,10,19,12,2023-06-01,Recovered
+1632,Sunita Pandey,53,Male,+91-9032499983,19,142,5,2023-09-02,Under Treatment
+1633,Aditya Tiwari,21,Female,+91-8083113277,12,50,1,2024-11-02,Recovered
+1634,Saanvi Nair,60,Female,+91-8813972560,15,83,2,2024-02-03,Recovered
+1635,Rajesh Iyer,24,Male,+91-8436908247,9,43,7,2024-11-05,Recovered
+1636,Aditya Kumar,31,Female,+91-7039621669,7,72,11,2023-06-01,Recovered
+1637,Mahesh Mehta,79,Female,+91-9152108884,1,87,2,2024-10-08,Under Treatment
+1638,Diya Kumar,43,Female,+91-9630511914,13,136,15,2023-07-26,Referred
+1639,Kanta Patel,56,Male,+91-8960379288,19,117,9,2025-08-06,Recovered
+1640,Anika Mehta,3,Female,+91-8990902344,16,17,15,2023-02-15,Recovered
+1641,Mamta Iyer,30,Female,+91-7166260194,15,58,4,2025-07-25,Discharged
+1642,Aadhya Iyer,33,Female,+91-8929513766,1,68,9,2025-04-16,Recovered
+1643,Naresh Sharma,56,Male,+91-8789949373,9,20,9,2023-09-02,Discharged
+1644,Kavita Shah,77,Male,+91-8235048496,19,128,3,2023-01-17,Recovered
+1645,Ayaan Agarwal,50,Female,+91-8844690554,18,46,10,2025-03-09,Recovered
+1646,Suresh Agarwal,62,Male,+91-7725946657,5,26,15,2023-03-23,Under Treatment
+1647,Anika Jain,54,Male,+91-8240294249,7,110,11,2024-11-04,Recovered
+1648,Seeta Rao,82,Male,+91-7014294591,5,20,15,2023-11-13,Discharged
+1649,Kavya Gupta,35,Male,+91-9296054684,15,30,6,2025-09-03,Recovered
+1650,Kavita Singh,62,Female,+91-8665934826,12,22,14,2024-04-21,Recovered
+1651,Ananya Rao,33,Male,+91-9242345343,3,23,2,2025-04-05,Recovered
+1652,Seeta Patel,62,Female,+91-8857150544,11,8,15,2025-04-14,Under Treatment
+1653,Kavita Mishra,28,Male,+91-9995115611,20,49,9,2023-04-17,Under Treatment
+1654,Aadhya Nair,72,Female,+91-7180236719,11,100,10,2023-03-10,Recovered
+1655,Ritesh Patel,1,Female,+91-7031945116,12,5,10,2023-02-07,Recovered
+1656,Rajesh Joshi,11,Male,+91-9546423865,20,25,8,2025-09-19,Under Treatment
+1657,Sunita Nair,71,Female,+91-9740533996,20,31,14,2023-05-20,Under Treatment
+1658,Kavya Shah,69,Female,+91-8289371164,2,76,15,2023-11-21,Recovered
+1659,Krishna Jain,49,Male,+91-9280465838,11,72,15,2024-11-11,Referred
+1660,Arjun Nair,40,Female,+91-7793607498,1,105,1,2024-01-08,Recovered
+1661,Sai Kumar,68,Male,+91-8433596339,4,93,2,2024-12-29,Recovered
+1662,Ayaan Yadav,74,Male,+91-9363127020,3,150,4,2023-11-22,Recovered
+1663,Seeta Gupta,71,Female,+91-7174965932,10,142,2,2025-02-11,Recovered
+1664,Rakesh Gupta,85,Female,+91-9526747565,2,69,2,2023-11-16,Recovered
+1665,Reyansh Nair,6,Female,+91-9537697958,13,93,9,2023-01-05,Recovered
+1666,Rita Agarwal,11,Female,+91-7446134587,6,44,10,2025-08-20,Recovered
+1667,Vivaan Nair,28,Male,+91-9926638837,17,44,4,2024-10-07,Recovered
+1668,Myra Iyer,25,Female,+91-9864237616,8,141,1,2024-06-19,Recovered
+1669,Ananya Reddy,38,Female,+91-9483915724,13,35,15,2024-02-02,Recovered
+1670,Myra Agarwal,79,Male,+91-7492249293,9,108,10,2023-10-22,Recovered
+1671,Anita Patel,33,Male,+91-9882025167,6,148,14,2024-02-20,Recovered
+1672,Krishna Verma,30,Male,+91-7936885578,3,12,10,2023-09-12,Recovered
+1673,Ayaan Iyer,1,Male,+91-8920170392,1,29,7,2023-10-11,Recovered
+1674,Ishaan Singh,48,Female,+91-8904439041,13,106,10,2023-05-28,Recovered
+1675,Ananya Kumar,27,Female,+91-9844572111,7,91,15,2024-11-10,Discharged
+1676,Meera Nair,36,Female,+91-7263730745,9,13,1,2023-09-06,Recovered
+1677,Vihaan Joshi,68,Female,+91-8217392054,14,53,2,2025-03-11,Recovered
+1678,Saanvi Pandey,2,Female,+91-9767032760,3,136,9,2023-10-14,Recovered
+1679,Ritesh Patel,36,Female,+91-7573321170,9,100,2,2023-08-18,Recovered
+1680,Kavya Nair,50,Male,+91-8149658775,17,142,10,2023-01-18,Recovered
+1681,Mahesh Reddy,33,Male,+91-7087185982,17,70,14,2025-01-08,Under Treatment
+1682,Nita Singh,31,Female,+91-9387822437,8,65,12,2023-03-06,Recovered
+1683,Kanta Iyer,68,Male,+91-8406072100,17,128,1,2025-05-26,Referred
+1684,Rita Pandey,73,Female,+91-8315711918,16,1,3,2025-02-25,Recovered
+1685,Mukesh Jain,35,Male,+91-8631750474,20,103,9,2025-01-08,Recovered
+1686,Kanta Patel,32,Female,+91-9287009909,11,12,7,2024-04-28,Under Treatment
+1687,Meera Agarwal,56,Male,+91-8764094677,4,20,9,2023-12-08,Recovered
+1688,Aditya Patel,60,Female,+91-9356081869,3,137,2,2025-06-06,Referred
+1689,Krishna Agarwal,28,Male,+91-9523291662,4,95,1,2024-03-27,Recovered
+1690,Ayaan Jain,83,Female,+91-7510152364,3,54,6,2024-02-23,Recovered
+1691,Sara Menon,69,Male,+91-9823069195,16,12,10,2023-04-06,Recovered
+1692,Aarav Nair,28,Female,+91-9472504416,4,85,1,2025-02-14,Recovered
+1693,Aarav Pandey,45,Female,+91-7418807308,18,116,10,2023-10-12,Recovered
+1694,Nita Sharma,36,Male,+91-7770480897,6,45,4,2025-10-01,Recovered
+1695,Diya Patel,17,Female,+91-7577737703,2,118,10,2023-07-20,Recovered
+1696,Ayaan Patel,47,Female,+91-7683195586,5,111,10,2023-02-02,Under Treatment
+1697,Dinesh Sharma,22,Female,+91-8805418091,18,9,3,2024-04-30,Under Treatment
+1698,Sai Yadav,28,Male,+91-7713777096,14,40,2,2023-04-22,Recovered
+1699,Geeta Rao,68,Female,+91-9836897282,6,116,15,2023-09-30,Recovered
+1700,Diya Joshi,55,Male,+91-7086018524,9,114,5,2024-08-03,Recovered
+1701,Naresh Shah,49,Female,+91-7231035712,19,24,2,2023-07-20,Recovered
+1702,Seeta Singh,72,Female,+91-7226910410,19,102,10,2023-08-24,Under Treatment
+1703,Saanvi Rao,30,Male,+91-7318570313,2,62,8,2024-06-14,Recovered
+1704,Seeta Rao,11,Female,+91-9357539470,18,135,2,2023-09-05,Recovered
+1705,Saanvi Verma,55,Female,+91-9732670325,5,53,14,2023-05-20,Recovered
+1706,Geeta Kumar,80,Female,+91-8382302650,14,19,11,2023-04-02,Recovered
+1707,Aditi Jain,44,Male,+91-9967322210,1,9,13,2024-04-16,Under Treatment
+1708,Vivaan Gupta,42,Male,+91-7422026052,3,150,1,2023-01-25,Recovered
+1709,Seeta Tiwari,8,Male,+91-9164749811,12,39,5,2024-03-25,Recovered
+1710,Anika Shah,34,Male,+91-9475554753,18,22,14,2024-10-23,Recovered
+1711,Sunita Shah,63,Male,+91-9669987720,6,39,15,2024-07-06,Recovered
+1712,Aditya Mehta,49,Female,+91-9573594440,17,11,7,2025-03-18,Recovered
+1713,Aarav Jain,32,Female,+91-8181456656,11,89,1,2023-02-20,Under Treatment
+1714,Ishaan Mishra,49,Male,+91-7978585744,14,61,2,2024-06-26,Recovered
+1715,Rajesh Tiwari,85,Male,+91-8612010864,10,94,15,2025-10-11,Under Treatment
+1716,Aditya Rao,6,Female,+91-9638006730,14,14,3,2025-01-17,Recovered
+1717,Jitesh Menon,46,Male,+91-7201805907,6,135,2,2024-07-25,Recovered
+1718,Ayaan Mishra,33,Male,+91-8110943231,17,143,11,2025-08-08,Recovered
+1719,Saanvi Rao,61,Female,+91-7806096647,17,64,3,2025-09-12,Under Treatment
+1720,Arjun Mishra,35,Male,+91-9911571417,3,40,2,2024-06-25,Recovered
+1721,Aditi Reddy,74,Female,+91-8803026030,10,105,2,2023-10-30,Recovered
+1722,Krishna Tiwari,68,Female,+91-7352910060,4,55,5,2025-02-13,Under Treatment
+1723,Aditya Mishra,38,Female,+91-8248168573,12,41,15,2024-04-18,Recovered
+1724,Aditya Yadav,52,Male,+91-7823225194,11,95,9,2025-06-06,Recovered
+1725,Vivaan Gupta,61,Female,+91-9203232954,14,79,14,2025-09-09,Discharged
+1726,Geeta Reddy,3,Male,+91-9228001003,12,28,4,2024-08-12,Recovered
+1727,Myra Mehta,18,Female,+91-7247061229,11,16,1,2023-07-02,Recovered
+1728,Anika Agarwal,27,Male,+91-9521667873,12,54,3,2025-10-13,Recovered
+1729,Ayaan Mishra,29,Male,+91-9260060815,3,27,2,2023-11-19,Recovered
+1730,Ayaan Rao,7,Male,+91-9115619543,19,62,1,2024-04-22,Recovered
+1731,Krishna Mishra,83,Female,+91-7330027931,2,58,15,2023-08-10,Discharged
+1732,Sai Menon,65,Female,+91-8748899928,13,84,2,2025-09-06,Referred
+1733,Rita Reddy,2,Male,+91-7126264409,7,48,15,2025-03-08,Referred
+1734,Reyansh Mehta,54,Male,+91-7056350841,5,141,15,2024-08-23,Recovered
+1735,Dinesh Mehta,61,Female,+91-8784605736,10,68,15,2023-09-08,Recovered
+1736,Aarav Menon,28,Female,+91-7248872076,20,95,14,2025-07-27,Recovered
+1737,Priya Menon,10,Male,+91-7969992961,19,135,4,2023-03-20,Recovered
+1738,Naresh Reddy,62,Female,+91-7836255608,19,7,2,2023-08-25,Referred
+1739,Aditi Patel,78,Male,+91-8796451594,8,19,7,2023-06-24,Recovered
+1740,Sai Jain,5,Female,+91-7184054087,17,34,9,2023-03-20,Discharged
+1741,Mahesh Sharma,44,Male,+91-7199107810,13,127,7,2025-04-29,Referred
+1742,Reyansh Singh,17,Female,+91-7237887314,2,5,15,2024-06-15,Discharged
+1743,Diya Tiwari,50,Female,+91-7312155693,1,23,7,2024-06-16,Recovered
+1744,Diya Singh,23,Male,+91-9186463999,11,66,7,2023-11-25,Under Treatment
+1745,Saanvi Pandey,74,Male,+91-7612444274,16,125,7,2024-07-17,Recovered
+1746,Diya Reddy,34,Female,+91-7021298791,4,11,4,2024-09-28,Discharged
+1747,Geeta Joshi,25,Female,+91-9363469876,8,77,7,2025-03-23,Recovered
+1748,Geeta Kumar,53,Male,+91-7533164924,8,55,10,2025-01-24,Recovered
+1749,Reyansh Tiwari,58,Male,+91-7278485353,17,13,7,2023-02-24,Recovered
+1750,Anika Shah,74,Male,+91-7711251051,15,5,15,2025-04-02,Recovered
+1751,Mamta Iyer,80,Female,+91-9373822279,13,147,15,2024-02-17,Recovered
+1752,Mamta Menon,59,Male,+91-9487986875,10,134,2,2024-10-19,Under Treatment
+1753,Nita Agarwal,19,Female,+91-8329693075,4,145,5,2024-01-29,Under Treatment
+1754,Kanta Patel,23,Male,+91-7957897586,6,28,15,2024-08-06,Under Treatment
+1755,Ishaan Pandey,52,Male,+91-9031423129,20,105,10,2023-10-29,Referred
+1756,Naresh Singh,59,Female,+91-9412309843,15,8,3,2023-06-08,Recovered
+1757,Aadhya Reddy,78,Male,+91-9234278606,20,84,15,2025-08-23,Recovered
+1758,Rita Sharma,37,Male,+91-7611845025,14,89,15,2023-05-22,Recovered
+1759,Nita Menon,56,Female,+91-8744748547,18,8,14,2025-07-12,Under Treatment
+1760,Ramesh Rao,19,Female,+91-8624769438,3,69,13,2024-08-27,Recovered
+1761,Rakesh Gupta,28,Male,+91-9944934815,16,144,14,2023-12-19,Recovered
+1762,Ishaan Patel,68,Female,+91-8082033414,11,147,15,2025-06-22,Under Treatment
+1763,Ananya Jain,52,Male,+91-9186272595,19,62,14,2025-05-13,Recovered
+1764,Aditya Sharma,22,Female,+91-8865081597,1,58,1,2023-10-06,Discharged
+1765,Naresh Mishra,9,Male,+91-9870391293,13,30,8,2024-09-06,Recovered
+1766,Kanta Mehta,4,Male,+91-8199357068,13,17,9,2023-07-17,Recovered
+1767,Anika Menon,10,Female,+91-9703841849,15,14,7,2023-03-24,Recovered
+1768,Ananya Iyer,57,Female,+91-8201732826,2,37,11,2024-06-18,Recovered
+1769,Vivaan Nair,57,Female,+91-8928548049,13,73,2,2023-10-04,Under Treatment
+1770,Krishna Mishra,53,Male,+91-9113528086,12,36,1,2025-06-25,Under Treatment
+1771,Sunita Mishra,7,Male,+91-7097646391,20,145,1,2025-01-12,Under Treatment
+1772,Geeta Rao,34,Male,+91-7569794696,7,50,3,2024-02-11,Recovered
+1773,Rajesh Tiwari,22,Male,+91-7339950222,13,89,2,2025-09-04,Recovered
+1774,Aarav Patel,22,Male,+91-7940044090,20,21,2,2024-04-20,Recovered
+1775,Mukesh Agarwal,66,Female,+91-8481614367,15,34,8,2025-02-07,Recovered
+1776,Ayaan Patel,28,Female,+91-7211244545,18,20,5,2024-01-21,Recovered
+1777,Aditi Iyer,42,Male,+91-7405944165,13,37,5,2025-01-13,Recovered
+1778,Myra Shah,7,Male,+91-8710941345,7,116,10,2024-03-17,Under Treatment
+1779,Seeta Singh,19,Female,+91-7060187600,17,128,3,2024-04-26,Recovered
+1780,Aditi Gupta,63,Male,+91-8803318166,7,27,4,2025-05-03,Discharged
+1781,Nita Rao,44,Female,+91-7994838086,8,113,12,2023-06-25,Discharged
+1782,Seeta Agarwal,15,Male,+91-9458548197,11,140,7,2025-06-14,Recovered
+1783,Ritesh Sharma,64,Female,+91-8729408673,4,104,7,2025-02-07,Under Treatment
+1784,Meera Agarwal,52,Male,+91-7616883914,12,4,12,2025-05-31,Recovered
+1785,Aditi Yadav,29,Female,+91-9832767805,6,84,1,2023-03-28,Recovered
+1786,Aarav Mehta,70,Female,+91-7312940652,9,27,7,2024-01-10,Recovered
+1787,Saanvi Gupta,74,Male,+91-9551945721,19,84,7,2024-06-19,Recovered
+1788,Aditya Rao,76,Female,+91-9348170777,14,61,9,2025-09-04,Recovered
+1789,Vivaan Yadav,17,Male,+91-7986979482,2,85,15,2025-06-07,Recovered
+1790,Seeta Pandey,77,Female,+91-9601022046,10,130,10,2024-11-09,Recovered
+1791,Kanta Reddy,71,Male,+91-9179845811,10,22,7,2023-12-12,Recovered
+1792,Aditya Joshi,12,Female,+91-8677168351,8,46,15,2024-04-13,Recovered
+1793,Ananya Rao,85,Male,+91-7334972470,20,7,7,2024-05-04,Recovered
+1794,Kanta Gupta,81,Female,+91-7643888959,20,127,9,2025-09-13,Recovered
+1795,Kanta Iyer,56,Female,+91-9121315081,5,40,5,2025-05-27,Recovered
+1796,Aditya Rao,41,Male,+91-8583472482,6,103,10,2025-02-06,Under Treatment
+1797,Myra Sharma,85,Female,+91-8961234307,13,100,11,2023-02-23,Recovered
+1798,Aditya Sharma,16,Male,+91-8608591135,18,72,3,2024-08-05,Under Treatment
+1799,Sara Yadav,68,Female,+91-9625888978,19,118,7,2023-10-02,Recovered
+1800,Saanvi Agarwal,82,Male,+91-7954329496,19,137,15,2023-10-29,Under Treatment
+1801,Ananya Rao,74,Male,+91-9922851897,13,88,2,2025-06-06,Recovered
+1802,Rajesh Yadav,69,Female,+91-7720177224,6,124,15,2025-07-26,Recovered
+1803,Nita Yadav,52,Male,+91-8589360763,11,57,9,2025-09-18,Under Treatment
+1804,Aadhya Reddy,14,Female,+91-9228808810,12,95,1,2023-04-15,Recovered
+1805,Dinesh Rao,42,Male,+91-8124023059,16,83,12,2023-09-27,Recovered
+1806,Aarav Patel,40,Male,+91-9066812756,19,132,1,2023-08-18,Under Treatment
+1807,Sunita Yadav,7,Male,+91-7161879668,11,134,9,2024-09-05,Recovered
+1808,Mahesh Patel,51,Female,+91-8407744889,11,23,5,2023-03-30,Recovered
+1809,Reyansh Patel,23,Female,+91-9252816770,14,55,7,2023-07-27,Under Treatment
+1810,Kavya Pandey,58,Female,+91-7642898595,1,12,15,2023-04-10,Recovered
+1811,Reyansh Shah,12,Male,+91-7524044856,6,91,7,2024-12-14,Recovered
+1812,Anita Reddy,61,Male,+91-8009359976,16,34,1,2024-12-13,Recovered
+1813,Kavita Reddy,72,Female,+91-9394043064,6,103,15,2025-05-14,Discharged
+1814,Mukesh Pandey,8,Female,+91-9314621865,17,150,7,2025-04-08,Under Treatment
+1815,Myra Shah,22,Male,+91-9874685014,11,127,8,2024-03-28,Referred
+1816,Seeta Mehta,76,Female,+91-8237090718,11,94,14,2023-10-14,Under Treatment
+1817,Kavita Kumar,39,Male,+91-7026875971,14,22,15,2023-07-02,Recovered
+1818,Aditya Verma,20,Female,+91-7312450981,8,96,9,2025-06-22,Discharged
+1819,Kavya Kumar,83,Male,+91-8459987262,11,84,1,2025-09-08,Recovered
+1820,Aditya Reddy,27,Female,+91-8221329640,6,143,10,2024-05-07,Recovered
+1821,Geeta Reddy,79,Female,+91-7618786169,19,99,9,2025-05-21,Under Treatment
+1822,Aadhya Pandey,58,Female,+91-8573221189,14,75,2,2024-05-26,Recovered
+1823,Kavita Yadav,48,Female,+91-7742487799,3,54,8,2025-05-16,Under Treatment
+1824,Seeta Singh,18,Male,+91-9770889099,5,17,3,2024-12-25,Recovered
+1825,Priya Menon,12,Male,+91-8783991973,1,97,15,2023-01-08,Recovered
+1826,Meera Yadav,27,Female,+91-8735275710,1,89,9,2023-09-26,Under Treatment
+1827,Sai Joshi,23,Male,+91-8559878003,16,90,7,2024-06-15,Recovered
+1828,Myra Nair,18,Female,+91-9656916250,19,40,15,2024-07-29,Recovered
+1829,Kavita Joshi,49,Male,+91-8887794959,13,27,1,2023-04-03,Discharged
+1830,Ayaan Nair,23,Male,+91-7933167221,7,118,3,2025-09-10,Under Treatment
+1831,Nita Iyer,24,Male,+91-9434707917,6,84,3,2025-08-06,Recovered
+1832,Kanta Patel,53,Male,+91-9513314947,14,26,14,2025-07-20,Recovered
+1833,Priya Agarwal,71,Male,+91-8050210461,6,61,6,2023-03-19,Recovered
+1834,Nita Rao,27,Female,+91-9768563802,10,143,4,2025-03-19,Recovered
+1835,Meera Agarwal,21,Female,+91-8121149354,8,75,15,2024-04-19,Recovered
+1836,Sara Iyer,64,Male,+91-9500812543,15,47,9,2025-06-05,Under Treatment
+1837,Aarav Yadav,74,Male,+91-9863542818,3,113,2,2024-03-25,Recovered
+1838,Mamta Joshi,68,Female,+91-8403925038,7,29,8,2025-07-11,Discharged
+1839,Anita Rao,67,Male,+91-7423296554,5,34,1,2023-05-22,Recovered
+1840,Mahesh Mishra,7,Male,+91-9380313898,2,45,15,2023-05-18,Recovered
+1841,Mamta Joshi,67,Female,+91-8598556286,7,90,10,2024-05-15,Under Treatment
+1842,Kavita Tiwari,24,Male,+91-7173678976,13,137,15,2024-11-14,Under Treatment
+1843,Vivaan Jain,39,Male,+91-9464676951,3,100,14,2023-07-26,Discharged
+1844,Ayaan Joshi,9,Female,+91-7401876836,7,42,15,2023-11-25,Recovered
+1845,Ishaan Iyer,22,Female,+91-9807855040,3,7,5,2023-01-24,Recovered
+1846,Kavita Patel,8,Male,+91-7903734580,19,2,7,2025-06-07,Recovered
+1847,Anita Nair,12,Male,+91-7651921884,13,38,1,2024-12-04,Recovered
+1848,Diya Yadav,16,Female,+91-7494633827,15,105,12,2023-04-29,Recovered
+1849,Sai Singh,15,Female,+91-7519505449,4,104,2,2024-09-12,Recovered
+1850,Aditya Joshi,18,Female,+91-9675653010,15,136,15,2024-09-24,Recovered
+1851,Diya Verma,38,Male,+91-9836126778,13,111,6,2025-02-03,Recovered
+1852,Jitesh Shah,67,Male,+91-7097536258,10,39,3,2023-07-03,Recovered
+1853,Rita Mishra,81,Male,+91-7578249720,1,87,9,2025-03-19,Recovered
+1854,Mamta Shah,49,Male,+91-8503132592,19,5,3,2023-06-03,Under Treatment
+1855,Dinesh Gupta,84,Male,+91-9983114982,19,55,9,2025-01-08,Recovered
+1856,Meera Sharma,13,Male,+91-8541962282,4,117,2,2024-08-20,Recovered
+1857,Rajesh Rao,47,Female,+91-7321903521,5,79,3,2024-07-16,Recovered
+1858,Ishaan Sharma,19,Female,+91-9058622934,14,14,2,2025-06-28,Recovered
+1859,Rita Nair,36,Male,+91-7366676785,20,43,9,2023-08-25,Recovered
+1860,Mukesh Iyer,3,Female,+91-9792133618,5,59,2,2024-03-17,Recovered
+1861,Reyansh Mehta,41,Female,+91-8226023307,1,41,3,2025-08-25,Under Treatment
+1862,Kavya Verma,16,Male,+91-9748086209,13,93,15,2023-02-03,Recovered
+1863,Mahesh Pandey,40,Male,+91-8494786597,15,95,9,2024-04-07,Under Treatment
+1864,Anika Pandey,23,Male,+91-8078464379,16,65,15,2024-01-16,Recovered
+1865,Mukesh Sharma,15,Male,+91-9208399276,2,143,12,2024-04-17,Under Treatment
+1866,Aditya Patel,4,Female,+91-7386464110,8,142,2,2023-05-06,Recovered
+1867,Aditi Pandey,67,Male,+91-9878463345,1,140,8,2024-05-15,Under Treatment
+1868,Ritesh Singh,19,Male,+91-7839604919,11,28,10,2024-01-11,Recovered
+1869,Aditya Pandey,58,Male,+91-7342341434,2,64,7,2024-06-04,Recovered
+1870,Vihaan Shah,47,Female,+91-7490510425,10,126,3,2025-09-19,Recovered
+1871,Ananya Sharma,3,Female,+91-8526145850,12,47,9,2024-12-21,Recovered
+1872,Mukesh Pandey,77,Female,+91-8433499913,1,128,3,2024-04-02,Recovered
+1873,Ananya Menon,52,Male,+91-8876079729,9,113,15,2023-07-23,Discharged
+1874,Ishaan Gupta,46,Male,+91-9040124062,8,135,15,2025-04-22,Recovered
+1875,Aditya Verma,35,Female,+91-9692247183,14,107,2,2023-01-20,Referred
+1876,Vivaan Gupta,15,Male,+91-8083691671,19,115,8,2024-08-26,Recovered
+1877,Vivaan Jain,75,Male,+91-9710444644,18,140,1,2023-02-08,Under Treatment
+1878,Myra Iyer,1,Female,+91-8097457284,3,64,5,2024-12-14,Recovered
+1879,Mamta Reddy,5,Female,+91-9116664796,13,128,13,2024-09-17,Recovered
+1880,Aadhya Gupta,26,Female,+91-9390329730,4,113,14,2024-10-16,Recovered
+1881,Anika Singh,53,Female,+91-7210900809,5,26,3,2025-02-06,Recovered
+1882,Sunita Iyer,35,Male,+91-7905960716,6,60,12,2024-05-11,Recovered
+1883,Kavita Iyer,77,Female,+91-8915847380,19,150,15,2025-01-24,Referred
+1884,Aarav Gupta,34,Male,+91-9214361643,5,111,1,2025-04-06,Recovered
+1885,Seeta Yadav,14,Male,+91-9831516687,2,106,15,2024-04-16,Recovered
+1886,Sara Singh,70,Male,+91-9454842110,12,61,10,2023-01-29,Under Treatment
+1887,Mamta Reddy,75,Female,+91-7096263779,4,38,1,2024-06-09,Recovered
+1888,Seeta Reddy,81,Female,+91-9347707105,1,131,15,2025-01-18,Discharged
+1889,Naresh Jain,39,Male,+91-8529226803,4,42,7,2025-08-08,Discharged
+1890,Kavita Agarwal,74,Female,+91-7741204157,12,130,7,2024-06-18,Recovered
+1891,Vivaan Jain,70,Male,+91-7772363824,16,108,5,2023-03-05,Recovered
+1892,Ananya Mishra,73,Male,+91-9868968361,20,77,7,2025-05-12,Under Treatment
+1893,Aditi Reddy,64,Female,+91-9167612913,20,43,10,2023-03-28,Recovered
+1894,Jitesh Mishra,75,Female,+91-7506436721,9,13,1,2023-06-04,Recovered
+1895,Sai Iyer,55,Male,+91-9758772661,14,91,1,2023-09-22,Discharged
+1896,Saanvi Nair,37,Male,+91-8976713587,13,86,7,2023-09-12,Under Treatment
+1897,Naresh Yadav,38,Male,+91-9348481420,10,108,15,2024-08-17,Recovered
+1898,Sara Menon,55,Male,+91-8906735397,15,69,8,2023-09-12,Recovered
+1899,Ishaan Rao,44,Male,+91-9491069828,5,99,2,2023-01-12,Discharged
+1900,Kavya Pandey,36,Male,+91-7953493830,17,1,15,2025-02-17,Referred
+1901,Seeta Mishra,69,Male,+91-9059538191,14,11,2,2023-09-30,Recovered
+1902,Geeta Joshi,78,Male,+91-8288059337,1,109,9,2023-06-04,Recovered
+1903,Diya Singh,76,Male,+91-7878626049,20,92,10,2023-03-17,Recovered
+1904,Rakesh Singh,30,Male,+91-8067837855,14,122,15,2025-01-01,Recovered
+1905,Sara Mehta,72,Male,+91-7711132161,11,103,13,2023-02-14,Under Treatment
+1906,Myra Shah,64,Male,+91-9792956048,4,68,9,2024-01-04,Recovered
+1907,Ananya Shah,36,Male,+91-9079793198,14,146,7,2023-02-02,Recovered
+1908,Arjun Reddy,17,Female,+91-9348077425,19,138,12,2025-07-07,Recovered
+1909,Aarav Mishra,60,Male,+91-9220376089,9,25,1,2024-07-08,Recovered
+1910,Reyansh Agarwal,42,Male,+91-9647710620,13,101,15,2025-05-18,Recovered
+1911,Seeta Menon,32,Female,+91-9436197374,15,141,5,2024-11-10,Recovered
+1912,Sai Mehta,44,Female,+91-9573149844,2,81,2,2023-11-16,Recovered
+1913,Saanvi Verma,62,Female,+91-7486999978,13,64,15,2024-11-26,Recovered
+1914,Sunita Gupta,55,Male,+91-8696021446,20,59,9,2023-03-14,Under Treatment
+1915,Rakesh Mehta,32,Female,+91-8599395885,4,33,8,2023-08-01,Recovered
+1916,Vihaan Mishra,63,Male,+91-8293355340,1,13,9,2024-09-05,Recovered
+1917,Krishna Shah,68,Female,+91-8610804603,2,46,5,2025-04-06,Recovered
+1918,Myra Rao,79,Female,+91-8871763887,16,111,7,2024-11-29,Recovered
+1919,Aditi Sharma,40,Female,+91-9308622030,12,109,8,2023-09-26,Recovered
+1920,Vivaan Iyer,58,Female,+91-9613963144,8,82,3,2025-07-02,Recovered
+1921,Mukesh Kumar,32,Female,+91-9721004965,13,67,15,2023-01-30,Under Treatment
+1922,Rakesh Mehta,38,Male,+91-8490454518,13,28,9,2023-07-08,Recovered
+1923,Vihaan Sharma,55,Male,+91-8941008869,4,48,3,2023-08-23,Recovered
+1924,Sunita Nair,40,Female,+91-7445200444,11,35,9,2024-03-14,Recovered
+1925,Saanvi Jain,13,Male,+91-9220796601,17,96,15,2023-03-22,Recovered
+1926,Dinesh Verma,1,Male,+91-9066739785,16,28,9,2024-10-16,Referred
+1927,Meera Rao,17,Male,+91-8539165622,6,21,9,2024-12-29,Discharged
+1928,Aarav Jain,58,Male,+91-8825310322,9,105,15,2024-03-30,Recovered
+1929,Ishaan Singh,22,Male,+91-9056094496,17,53,4,2023-03-19,Under Treatment
+1930,Aadhya Pandey,45,Female,+91-9729700891,2,137,7,2023-12-17,Recovered
+1931,Mahesh Jain,66,Male,+91-7998840712,5,80,2,2023-06-22,Recovered
+1932,Rajesh Jain,47,Female,+91-8312125752,2,13,10,2024-05-30,Recovered
+1933,Mahesh Shah,84,Female,+91-7329440259,5,87,15,2024-10-30,Under Treatment
+1934,Krishna Patel,20,Female,+91-9109917504,18,74,9,2023-04-25,Under Treatment
+1935,Kanta Gupta,58,Female,+91-9755288794,7,102,4,2024-11-29,Recovered
+1936,Aditi Nair,22,Male,+91-7312570379,18,50,9,2024-11-25,Recovered
+1937,Sunita Tiwari,2,Male,+91-7179111095,20,18,13,2025-07-08,Referred
+1938,Suresh Patel,5,Female,+91-7622024417,11,59,11,2023-09-19,Recovered
+1939,Kanta Agarwal,43,Male,+91-9724594931,1,79,1,2023-10-01,Discharged
+1940,Reyansh Reddy,9,Female,+91-7287594725,16,113,8,2025-01-28,Recovered
+1941,Mukesh Tiwari,23,Female,+91-8123790065,9,66,15,2025-05-12,Referred
+1942,Mukesh Verma,69,Male,+91-9660908675,12,137,10,2023-09-26,Recovered
+1943,Ritesh Rao,14,Male,+91-9304812059,8,83,10,2023-08-11,Recovered
+1944,Kavita Reddy,85,Female,+91-8827873451,13,138,14,2024-04-12,Recovered
+1945,Anita Reddy,66,Male,+91-9485820425,10,16,15,2025-10-08,Recovered
+1946,Krishna Nair,14,Female,+91-7384578741,5,116,4,2024-12-20,Recovered
+1947,Mamta Rao,49,Female,+91-9391210418,9,45,2,2025-06-01,Recovered
+1948,Aadhya Iyer,58,Male,+91-7648316173,8,134,4,2024-10-26,Under Treatment
+1949,Ayaan Rao,64,Male,+91-7740463004,6,101,15,2025-09-26,Recovered
+1950,Kavita Verma,74,Male,+91-7064007193,5,43,2,2024-06-13,Under Treatment
+1951,Aadhya Yadav,1,Male,+91-7492264809,17,17,7,2023-07-09,Recovered
+1952,Vivaan Reddy,81,Female,+91-8269041320,4,99,1,2023-02-16,Recovered
+1953,Mahesh Mishra,12,Female,+91-8371489121,8,16,15,2023-07-13,Recovered
+1954,Kavya Gupta,76,Male,+91-9363655643,9,124,7,2024-10-27,Under Treatment
+1955,Krishna Patel,41,Female,+91-7419438537,19,105,5,2024-10-18,Recovered
+1956,Aarav Patel,3,Female,+91-8198071243,6,104,1,2023-02-05,Under Treatment
+1957,Suresh Iyer,49,Female,+91-8872226316,11,20,1,2025-08-24,Recovered
+1958,Dinesh Pandey,35,Male,+91-8593297377,1,19,15,2024-03-19,Recovered
+1959,Sai Gupta,29,Female,+91-9637618848,15,1,9,2023-11-03,Recovered
+1960,Anita Jain,80,Female,+91-9412473842,17,11,9,2025-04-17,Recovered
+1961,Ananya Pandey,54,Male,+91-9437256727,18,76,2,2025-02-17,Recovered
+1962,Kanta Mishra,21,Female,+91-9396720881,1,118,9,2024-08-01,Recovered
+1963,Geeta Iyer,16,Female,+91-7131575788,16,136,13,2024-07-22,Recovered
+1964,Anita Pandey,24,Female,+91-7100388981,3,117,9,2024-01-15,Discharged
+1965,Mamta Agarwal,17,Male,+91-8539774498,5,23,7,2024-12-10,Under Treatment
+1966,Geeta Iyer,72,Male,+91-7025101326,1,98,5,2024-04-10,Recovered
+1967,Nita Tiwari,18,Male,+91-7505855037,12,119,6,2025-02-18,Recovered
+1968,Meera Joshi,38,Male,+91-7320526074,16,36,5,2024-04-16,Recovered
+1969,Seeta Rao,19,Female,+91-7591720967,20,24,10,2023-04-09,Recovered
+1970,Myra Yadav,21,Male,+91-7229327912,11,123,8,2024-03-22,Recovered
+1971,Sara Tiwari,35,Male,+91-9087811803,18,27,7,2025-04-10,Recovered
+1972,Aditya Mehta,56,Male,+91-8576978300,19,1,2,2025-05-03,Under Treatment
+1973,Aarav Iyer,3,Male,+91-8469613841,13,17,3,2024-05-23,Under Treatment
+1974,Myra Verma,59,Male,+91-7762894962,5,55,4,2024-02-24,Discharged
+1975,Aditi Rao,79,Female,+91-9800102401,1,72,1,2024-05-30,Recovered
+1976,Geeta Yadav,21,Female,+91-7311333549,8,116,1,2025-08-26,Referred
+1977,Seeta Tiwari,1,Female,+91-9755137418,2,17,13,2024-02-03,Discharged
+1978,Vihaan Gupta,15,Female,+91-7469041791,20,1,3,2024-12-15,Recovered
+1979,Sai Mehta,24,Female,+91-8892314992,2,21,12,2025-10-01,Recovered
+1980,Nita Kumar,26,Male,+91-8348233606,15,9,1,2023-02-24,Recovered
+1981,Aarav Sharma,62,Female,+91-8405437000,17,23,9,2024-11-27,Recovered
+1982,Anika Agarwal,83,Male,+91-9461378531,17,146,7,2024-12-16,Recovered
+1983,Rakesh Tiwari,17,Female,+91-7378346991,16,72,12,2023-08-07,Recovered
+1984,Kanta Reddy,19,Female,+91-7303754004,10,52,14,2025-09-09,Recovered
+1985,Sara Mehta,6,Male,+91-9940344797,18,91,10,2023-02-06,Recovered
+1986,Arjun Joshi,38,Male,+91-8039195584,15,93,4,2023-07-07,Under Treatment
+1987,Ishaan Pandey,68,Male,+91-8843687405,9,104,15,2023-12-12,Recovered
+1988,Ananya Iyer,71,Male,+91-9350044911,10,65,15,2024-04-03,Recovered
+1989,Saanvi Mehta,30,Female,+91-8420982733,13,77,15,2023-11-07,Recovered
+1990,Vihaan Joshi,57,Female,+91-8513714920,13,13,7,2023-12-09,Recovered
+1991,Mahesh Mishra,21,Male,+91-7146090311,6,145,11,2023-03-23,Recovered
+1992,Suresh Mehta,14,Male,+91-9577360105,10,127,11,2024-07-07,Recovered
+1993,Aadhya Singh,11,Male,+91-9949259866,17,119,15,2023-04-15,Recovered
+1994,Ishaan Mehta,38,Female,+91-9722347435,2,100,10,2023-01-20,Recovered
+1995,Naresh Menon,48,Male,+91-7760752442,9,81,10,2023-01-25,Recovered
+1996,Sai Kumar,24,Female,+91-7045422189,19,81,7,2023-01-01,Referred
+1997,Rakesh Verma,11,Female,+91-7786377498,11,29,3,2023-06-11,Under Treatment
+1998,Ramesh Iyer,34,Female,+91-9114466913,2,87,7,2025-07-17,Recovered
+1999,Ritesh Patel,17,Female,+91-9533546177,2,141,15,2023-04-13,Under Treatment
+2000,Mahesh Sharma,30,Male,+91-9910005355,1,13,15,2024-11-21,Recovered

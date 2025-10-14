@@ -1,0 +1,16 @@
+disease_id,disease_name,disease_type,severity_level,is_communicable
+1,Dengue,Viral,High,1
+2,Malaria,Parasitic,Low,0
+3,Typhoid,Bacterial,Low,1
+4,Chikungunya,Viral,Low,1
+5,Hepatitis A,Viral,Medium,1
+6,Japanese Encephalitis,Viral,High,1
+7,H1N1 Influenza,Viral,Low,1
+8,Tuberculosis,Bacterial,High,1
+9,Diarrheal Disease,Bacterial/Viral,Low,0
+10,Pneumonia,Bacterial,Medium,1
+11,Measles,Viral,High,1
+12,Chickenpox,Viral,Low,1
+13,Cholera,Bacterial,High,1
+14,Zika Virus,Viral,Low,1
+15,COVID-19,Viral,High,1

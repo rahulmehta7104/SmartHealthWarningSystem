@@ -1,0 +1,52 @@
+symptom_id,symptom_name,symptom_category
+1,Body aches,General
+2,Chest pain,General
+3,Chills,General
+4,Coma,General
+5,Conjunctivitis,General
+6,Constipation,General
+7,Cough,Respiratory
+8,Cough with phlegm,Respiratory
+9,Dark urine,General
+10,Dehydration,General
+11,Diarrhea,Gastrointestinal
+12,Difficulty breathing,General
+13,Disorientation,General
+14,Dry cough,Respiratory
+15,Fatigue,Systemic
+16,Fever,Systemic
+17,Headache,Neurological
+18,High fever,Systemic
+19,Itchy rash,Dermatological
+20,Jaundice,General
+21,Joint pain,General
+22,Loss of appetite,Systemic
+23,Loss of smell,General
+24,Loss of taste,General
+25,Mild fever,Systemic
+26,Muscle cramps,General
+27,Muscle pain,General
+28,Nausea,Gastrointestinal
+29,Neck stiffness,Neurological
+30,Night sweats,General
+31,Pain behind eyes,Neurological
+32,Persistent cough,Respiratory
+33,Prolonged fever,Systemic
+34,Rash,Dermatological
+35,Red eyes,General
+36,Red rash,Dermatological
+37,Runny nose,General
+38,Severe diarrhea,Gastrointestinal
+39,Severe headache,Neurological
+40,Shock,General
+41,Skin rash,Dermatological
+42,Sore throat,General
+43,Stomach cramps,General
+44,Stomach pain,General
+45,Sudden fever,Systemic
+46,Sweating,General
+47,Tiredness,Systemic
+48,Tremors,General
+49,Vomiting,Gastrointestinal
+50,Weakness,Systemic
+51,Weight loss,General

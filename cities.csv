@@ -1,0 +1,21 @@
+city_id,city_name,state,region,population,pincode
+1,Delhi,Delhi,North,32000000,110001
+2,Mumbai,Maharashtra,West,21000000,400001
+3,Bangalore,Karnataka,South,13000000,560001
+4,Chennai,Tamil Nadu,South,11000000,600001
+5,Kolkata,West Bengal,East,15000000,700001
+6,Hyderabad,Telangana,South,10000000,500001
+7,Pune,Maharashtra,West,7000000,411001
+8,Ahmedabad,Gujarat,West,8000000,380001
+9,Surat,Gujarat,West,6500000,395001
+10,Jaipur,Rajasthan,North,4000000,302001
+11,Lucknow,Uttar Pradesh,North,3500000,226001
+12,Kanpur,Uttar Pradesh,North,3200000,208001
+13,Nagpur,Maharashtra,West,2500000,440001
+14,Indore,Madhya Pradesh,Central,2200000,452001
+15,Thane,Maharashtra,West,2000000,400601
+16,Bhopal,Madhya Pradesh,Central,1800000,462001
+17,Visakhapatnam,Andhra Pradesh,South,1700000,530001
+18,Pimpri-Chinchwad,Maharashtra,West,1600000,411018
+19,Patna,Bihar,East,1500000,800001
+20,Vadodara,Gujarat,West,1400000,390001
