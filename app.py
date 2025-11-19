@@ -1,3 +1,9 @@
+
+"""
+Smart Public Health Warning System - Phase 3 (Complete with ML)
+Includes outbreak prediction using machine learning
+"""
+
 import sqlite3
 import pandas as pd
 import os
@@ -5,9 +11,13 @@ from datetime import datetime, date, timedelta
 from flask import Flask, render_template, jsonify, request
 import json
 
+# Import ML predictor
+from ml_predictor import OutbreakPredictor
+
 class HealthWarningSystem:
     def __init__(self, db_path="health_warning_system.db"):
         self.db_path = db_path
+        self.predictor = OutbreakPredictor(db_path)
         self.init_database()
 
     def init_database(self):
@@ -177,21 +187,8 @@ class HealthWarningSystem:
 
         return results, columns
 
-    def get_disease_outbreak_summary(self, days=90):  # CHANGED: Increased from 30 to 90 days
-        """Get disease outbreak summary for last N days - FIXED VERSION"""
-
-        # ADDED: Debug query to check data first
-        debug_query = """
-        SELECT 
-            COUNT(*) as total_reports,
-            MIN(report_date) as earliest_date,
-            MAX(report_date) as latest_date
-        FROM patient_reports
-        """
-        debug_results, _ = self.execute_query(debug_query)
-        print(f"Debug - Total reports: {debug_results[0][0]}, Date range: {debug_results[0][1]} to {debug_results[0][2]}")
-
-        # FIXED: More flexible query with lower threshold
+    def get_disease_outbreak_summary(self, days=90):
+        """Get disease outbreak summary"""
         query = """
         SELECT 
             c.city_name,
@@ -211,16 +208,10 @@ class HealthWarningSystem:
 
         results, columns = self.execute_query(query)
 
-        # ADDED: Fallback query if no results
         if not results:
-            print("No outbreak data found with strict criteria, using fallback query...")
             fallback_query = """
-            SELECT 
-                c.city_name,
-                d.disease_name,
-                COUNT(pr.report_id) as case_count,
-                MIN(pr.report_date) as first_case,
-                MAX(pr.report_date) as latest_case
+            SELECT c.city_name, d.disease_name, COUNT(pr.report_id) as case_count,
+                   MIN(pr.report_date) as first_case, MAX(pr.report_date) as latest_case
             FROM patient_reports pr
             JOIN cities c ON pr.city_id = c.city_id
             JOIN diseases d ON pr.disease_id = d.disease_id
@@ -234,19 +225,11 @@ class HealthWarningSystem:
         return results, columns
 
     def get_environmental_risk_cities(self):
-        """Get cities with high environmental risk - FIXED VERSION"""
-
-        # ADDED: Debug environmental data
-        debug_query = "SELECT COUNT(*), MIN(monitoring_date), MAX(monitoring_date) FROM environmental_data"
-        debug_results, _ = self.execute_query(debug_query)
-        print(f"Debug - Environmental records: {debug_results[0][0]}, Date range: {debug_results[0][1]} to {debug_results[0][2]}")
-
+        """Get cities with high environmental risk"""
         query = """
-        SELECT 
-            c.city_name,
-            AVG(ed.air_quality_index) as avg_aqi,
-            AVG(ed.water_quality_index) as avg_water_quality,
-            COUNT(CASE WHEN ed.air_quality_index > 200 THEN 1 END) as high_pollution_days
+        SELECT c.city_name, AVG(ed.air_quality_index) as avg_aqi,
+               AVG(ed.water_quality_index) as avg_water_quality,
+               COUNT(CASE WHEN ed.air_quality_index > 200 THEN 1 END) as high_pollution_days
         FROM environmental_data ed
         JOIN cities c ON ed.city_id = c.city_id
         WHERE ed.monitoring_date >= date('now', '-90 days')
@@ -255,37 +238,16 @@ class HealthWarningSystem:
         ORDER BY avg_aqi DESC
         LIMIT 15
         """
-
         results, columns = self.execute_query(query)
-
-        # ADDED: Fallback for environmental data
-        if not results:
-            fallback_query = """
-            SELECT 
-                c.city_name,
-                AVG(ed.air_quality_index) as avg_aqi,
-                AVG(ed.water_quality_index) as avg_water_quality,
-                COUNT(*) as total_readings
-            FROM environmental_data ed
-            JOIN cities c ON ed.city_id = c.city_id
-            GROUP BY c.city_id
-            ORDER BY avg_aqi DESC
-            LIMIT 10
-            """
-            results, columns = self.execute_query(fallback_query)
-
         return results, columns
 
     def get_hospital_capacity_status(self):
-        """Get hospital capacity utilization - FIXED VERSION"""
+        """Get hospital capacity utilization"""
         query = """
-        SELECT 
-            h.hospital_name,
-            c.city_name,
-            h.bed_capacity,
-            COUNT(pr.report_id) as total_patients,
-            COUNT(CASE WHEN pr.outcome = 'Under Treatment' THEN 1 END) as current_patients,
-            ROUND((COUNT(pr.report_id) * 100.0 / h.bed_capacity), 2) as utilization_rate
+        SELECT h.hospital_name, c.city_name, h.bed_capacity,
+               COUNT(pr.report_id) as total_patients,
+               COUNT(CASE WHEN pr.outcome = 'Under Treatment' THEN 1 END) as current_patients,
+               ROUND((COUNT(pr.report_id) * 100.0 / h.bed_capacity), 2) as utilization_rate
         FROM hospitals h
         JOIN cities c ON h.city_id = c.city_id
         LEFT JOIN patient_reports pr ON h.hospital_id = pr.hospital_id 
@@ -293,20 +255,13 @@ class HealthWarningSystem:
         ORDER BY utilization_rate DESC
         LIMIT 20
         """
-
         results, columns = self.execute_query(query)
         return results, columns
 
     def get_active_alerts(self):
-        """Get active alerts - FIXED VERSION"""
+        """Get active alerts"""
         query = """
-        SELECT 
-            c.city_name,
-            a.alert_type,
-            a.severity_level,
-            a.alert_message,
-            a.alert_date,
-            a.status
+        SELECT c.city_name, a.alert_type, a.severity_level, a.alert_message, a.alert_date, a.status
         FROM alerts a
         JOIN cities c ON a.city_id = c.city_id
         WHERE a.status = 'Active' OR a.alert_date >= date('now', '-30 days')
@@ -320,38 +275,8 @@ class HealthWarningSystem:
             a.alert_date DESC
         LIMIT 15
         """
-
         results, columns = self.execute_query(query)
         return results, columns
-
-    def test_data_availability(self):
-        """Test function to check if data exists"""
-        tables = ['cities', 'hospitals', 'diseases', 'patient_reports', 
-                 'environmental_data', 'alerts']
-
-        print("\n=== DATA AVAILABILITY TEST ===")
-        for table in tables:
-            query = f"SELECT COUNT(*) FROM {table}"
-            results, _ = self.execute_query(query)
-            count = results[0][0]
-            print(f"{table:20}: {count:6} records")
-
-        # Test specific date ranges
-        query = """
-        SELECT 
-            MIN(report_date) as min_date,
-            MAX(report_date) as max_date,
-            COUNT(*) as total
-        FROM patient_reports
-        """
-        results, _ = self.execute_query(query)
-        if results and results[0][0]:
-            print(f"\nPatient Reports Date Range:")
-            print(f"  Earliest: {results[0][0]}")
-            print(f"  Latest:   {results[0][1]}")
-            print(f"  Total:    {results[0][2]}")
-
-        return True
 
 # Flask Web Application
 app = Flask(__name__)
@@ -362,12 +287,16 @@ def dashboard():
     """Main dashboard"""
     return render_template('dashboard.html')
 
+@app.route('/predictions')
+def predictions_page():
+    """ML Predictions dashboard"""
+    return render_template('predictions.html')
+
 @app.route('/api/outbreak-summary')
 def api_outbreak_summary():
     """API endpoint for outbreak summary"""
     results, columns = health_system.get_disease_outbreak_summary()
     data = [dict(zip(columns, row)) for row in results]
-    print(f"Outbreak API: Returning {len(data)} records")  # ADDED: Debug output
     return jsonify(data)
 
 @app.route('/api/environmental-risk')
@@ -391,6 +320,18 @@ def api_active_alerts():
     data = [dict(zip(columns, row)) for row in results]
     return jsonify(data)
 
+@app.route('/api/ml-predictions-overview')
+def api_ml_predictions_overview():
+    """API endpoint for ML predictions overview (all cities)"""
+    overview = health_system.predictor.get_all_cities_overview()
+    return jsonify(overview)
+
+@app.route('/api/ml-city-predictions/<int:city_id>')
+def api_ml_city_predictions(city_id):
+    """API endpoint for ML predictions for a specific city"""
+    predictions = health_system.predictor.get_city_predictions(city_id, top_n=10)
+    return jsonify(predictions)
+
 @app.route('/query')
 def query_interface():
     """SQL query interface"""
@@ -404,7 +345,6 @@ def api_execute_query():
         if not query:
             return jsonify({'error': 'No query provided'}), 400
 
-        # Basic security: only allow SELECT queries
         if not query.strip().upper().startswith('SELECT'):
             return jsonify({'error': 'Only SELECT queries are allowed'}), 400
 
@@ -415,27 +355,19 @@ def api_execute_query():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
-@app.route('/test')
-def test_data():
-    """Test endpoint to check data availability"""
-    health_system.test_data_availability()
-    return "Check console for data availability results"
-
 if __name__ == '__main__':
-    print("Smart Public Health Warning System - Phase 2 (FIXED)")
-    print("=" * 60)
+    print("Smart Public Health Warning System - Phase 3 (Complete with ML)")
+    print("=" * 70)
 
-    # Import CSV data on startup
+    # Import CSV data on startup if database doesn't exist
     if not os.path.exists("health_warning_system.db"):
         print("Importing CSV data...")
         health_system.import_csv_data()
 
-    # ADDED: Test data availability
-    health_system.test_data_availability()
-
     print("\nStarting web application...")
-    print("Access the dashboard at: http://localhost:5000")
-    print("Access SQL query interface at: http://localhost:5000/query")
-    print("Test data availability at: http://localhost:5000/test")
+    print("📊 Dashboard: http://localhost:5000")
+    print("🔮 ML Predictions: http://localhost:5000/predictions")
+    print("💻 SQL Query: http://localhost:5000/query")
+    print("=" * 70)
 
     app.run(debug=True, host='0.0.0.0', port=5000)
