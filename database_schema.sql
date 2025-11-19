@@ -1,7 +1,3 @@
-
--- Smart Public Health Warning System Database Schema
--- Phase 2 Implementation
-
 -- Create database
 CREATE DATABASE IF NOT EXISTS health_warning_system;
 USE health_warning_system;

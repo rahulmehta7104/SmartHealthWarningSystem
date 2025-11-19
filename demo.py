@@ -130,7 +130,6 @@ def run_demo():
     print("✅ Web-based query interface")
     print("✅ API endpoints for data access")
 
-    print("\n🚀 Phase 2 Complete! Ready for Phase 3 ML Integration")
     print("\n💡 Next: Run 'python app.py' to start the web interface")
     print("   - Dashboard: http://localhost:5000")
     print("   - SQL Interface: http://localhost:5000/query")

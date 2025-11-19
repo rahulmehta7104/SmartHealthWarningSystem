@@ -1,301 +1,401 @@
 alert_id,city_id,alert_type,severity_level,alert_message,alert_date,status
-1,3,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-08-21,Active
-2,16,Water Contamination,High,Water contamination detected. Boil water before consumption.,2024-11-12,Under Investigation
-3,11,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-02-12,Resolved
-4,14,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-05-19,Resolved
-5,4,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-03-01,Resolved
-6,9,Disease Outbreak,Medium,Increase in Zika Virus cases reported. Take preventive measures.,2024-01-30,Active
-7,11,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-04-30,Under Investigation
-8,6,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-02-18,Under Investigation
-9,6,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-02-10,Resolved
-10,17,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-05-02,Active
-11,19,Disease Outbreak,Critical,Increase in Pneumonia cases reported. Take preventive measures.,2024-09-28,Resolved
-12,20,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-05-02,Active
-13,8,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2025-08-03,Resolved
-14,16,Disease Outbreak,High,Increase in Japanese Encephalitis cases reported. Take preventive measures.,2025-08-21,Active
-15,11,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-01-08,Under Investigation
-16,14,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-03-27,Under Investigation
-17,7,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-10-15,Resolved
-18,12,Disease Outbreak,High,Increase in Measles cases reported. Take preventive measures.,2025-05-20,Active
-19,5,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-01-14,Resolved
-20,2,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-05-29,Resolved
-21,8,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-04-20,Active
-22,12,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2025-02-24,Resolved
-23,6,Disease Outbreak,Low,Increase in Chickenpox cases reported. Take preventive measures.,2024-09-12,Resolved
-24,19,Water Contamination,High,Water contamination detected. Boil water before consumption.,2023-01-25,Active
-25,3,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-06-17,Resolved
-26,20,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-01-17,Under Investigation
-27,6,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-11-11,Active
-28,4,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures.,2023-11-25,Resolved
-29,4,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-08-29,Resolved
-30,11,Disease Outbreak,Critical,Increase in Chikungunya cases reported. Take preventive measures.,2025-04-08,Under Investigation
-31,17,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-04-25,Resolved
-32,3,Disease Outbreak,Critical,Increase in Chikungunya cases reported. Take preventive measures.,2025-01-31,Under Investigation
-33,5,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures.,2023-06-10,Resolved
-34,3,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2025-03-16,Resolved
-35,15,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-03-21,Resolved
-36,12,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-05-21,Active
-37,10,Disease Outbreak,High,Increase in Zika Virus cases reported. Take preventive measures.,2023-12-21,Active
-38,9,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-10-08,Active
-39,6,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-01-07,Resolved
-40,17,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-09-07,Under Investigation
-41,10,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2024-10-15,Active
-42,11,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-05-30,Resolved
-43,2,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures.,2023-09-01,Resolved
-44,7,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-10-07,Resolved
-45,10,Disease Outbreak,Medium,Increase in Chikungunya cases reported. Take preventive measures.,2024-10-02,Resolved
-46,18,Disease Outbreak,Low,Increase in Malaria cases reported. Take preventive measures.,2024-06-01,Under Investigation
-47,18,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-11-11,Active
-48,2,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2025-06-11,Resolved
-49,9,Disease Outbreak,Low,Increase in Diarrheal Disease cases reported. Take preventive measures.,2024-01-20,Resolved
-50,5,Disease Outbreak,Medium,Increase in Diarrheal Disease cases reported. Take preventive measures.,2023-01-03,Resolved
-51,6,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-01-06,Active
-52,18,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-01-27,Under Investigation
-53,13,Disease Outbreak,Critical,Increase in Chikungunya cases reported. Take preventive measures.,2024-06-19,Resolved
-54,1,Disease Outbreak,Critical,Increase in Chikungunya cases reported. Take preventive measures.,2023-09-01,Resolved
-55,20,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-01-13,Resolved
-56,14,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-05-08,Active
-57,12,Disease Outbreak,High,Increase in Chickenpox cases reported. Take preventive measures.,2023-05-13,Resolved
-58,2,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-09-16,Resolved
-59,14,Water Contamination,High,Water contamination detected. Boil water before consumption.,2023-09-05,Under Investigation
-60,1,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2025-03-24,Active
-61,15,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-01-07,Resolved
-62,19,Disease Outbreak,High,Increase in Cholera cases reported. Take preventive measures.,2025-02-10,Resolved
-63,12,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2023-09-23,Resolved
-64,5,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-09-23,Resolved
-65,4,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-09-06,Resolved
-66,3,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-08-30,Resolved
-67,4,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-12-05,Under Investigation
-68,8,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-08-21,Active
-69,13,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-02-22,Resolved
-70,1,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-01-17,Resolved
-71,4,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-07-20,Under Investigation
-72,2,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-06-19,Resolved
-73,10,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-11-14,Resolved
-74,13,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-06-26,Resolved
-75,7,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-01-14,Resolved
-76,4,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-03-15,Resolved
-77,10,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures.,2023-06-28,Resolved
-78,8,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-04-26,Resolved
-79,14,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-09-26,Under Investigation
-80,13,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-11-17,Resolved
-81,16,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures.,2025-08-07,Resolved
-82,8,Disease Outbreak,High,Increase in Diarrheal Disease cases reported. Take preventive measures.,2023-01-04,Resolved
-83,20,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-07-31,Resolved
-84,3,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2025-02-22,Resolved
-85,5,Disease Outbreak,Medium,Increase in Tuberculosis cases reported. Take preventive measures.,2025-03-09,Under Investigation
-86,13,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-12-04,Active
-87,9,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-02-21,Resolved
-88,3,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-07-10,Active
-89,6,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-10-15,Resolved
-90,1,Disease Outbreak,Critical,Increase in Chickenpox cases reported. Take preventive measures.,2023-03-31,Resolved
-91,13,Disease Outbreak,Critical,Increase in Japanese Encephalitis cases reported. Take preventive measures.,2024-10-29,Resolved
-92,17,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-09-19,Under Investigation
-93,19,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-09-21,Resolved
-94,5,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-04-20,Active
-95,18,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-05-24,Under Investigation
-96,12,Disease Outbreak,Low,Increase in COVID-19 cases reported. Take preventive measures.,2024-06-13,Under Investigation
-97,14,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-03-20,Resolved
-98,11,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-02-21,Under Investigation
-99,7,Disease Outbreak,Medium,Increase in Pneumonia cases reported. Take preventive measures.,2025-04-28,Resolved
-100,12,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2025-05-02,Under Investigation
-101,14,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-04-16,Resolved
-102,7,Disease Outbreak,Low,Increase in Pneumonia cases reported. Take preventive measures.,2024-05-14,Under Investigation
-103,7,Disease Outbreak,Critical,Increase in Diarrheal Disease cases reported. Take preventive measures.,2024-06-22,Under Investigation
-104,6,Disease Outbreak,Low,Increase in Cholera cases reported. Take preventive measures.,2024-12-15,Resolved
-105,1,Disease Outbreak,Critical,Increase in Tuberculosis cases reported. Take preventive measures.,2024-05-26,Resolved
-106,6,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-04-28,Under Investigation
-107,7,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures.,2024-03-07,Resolved
-108,17,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-12-04,Resolved
-109,2,Disease Outbreak,Medium,Increase in Tuberculosis cases reported. Take preventive measures.,2023-11-14,Resolved
-110,20,Water Contamination,High,Water contamination detected. Boil water before consumption.,2024-01-01,Resolved
-111,11,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-05-30,Resolved
-112,8,Disease Outbreak,Medium,Increase in Tuberculosis cases reported. Take preventive measures.,2024-11-27,Under Investigation
-113,7,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-09-10,Under Investigation
-114,11,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-04-19,Active
-115,20,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-12-18,Resolved
-116,3,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-10-06,Under Investigation
-117,6,Disease Outbreak,Medium,Increase in Chickenpox cases reported. Take preventive measures.,2025-07-15,Active
-118,2,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-05-05,Resolved
-119,9,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2024-01-02,Under Investigation
-120,18,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2023-09-15,Active
-121,13,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures.,2023-08-11,Under Investigation
-122,16,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-09-04,Resolved
-123,20,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-02-17,Resolved
-124,19,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-07-05,Resolved
-125,2,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-07-29,Resolved
-126,7,Disease Outbreak,Critical,Increase in H1N1 Influenza cases reported. Take preventive measures.,2023-12-03,Resolved
-127,3,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-06-17,Under Investigation
-128,16,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-07-16,Active
-129,5,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-05-04,Resolved
-130,1,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-12-24,Active
-131,6,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-10-23,Active
-132,20,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-06-21,Resolved
-133,8,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-07-09,Resolved
-134,1,Disease Outbreak,High,Increase in Hepatitis A cases reported. Take preventive measures.,2023-04-07,Resolved
-135,10,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2025-02-18,Resolved
-136,1,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2023-06-11,Under Investigation
-137,12,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2023-01-08,Resolved
-138,3,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-05-01,Under Investigation
-139,14,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2025-10-10,Resolved
-140,19,Disease Outbreak,High,Increase in Tuberculosis cases reported. Take preventive measures.,2023-10-19,Resolved
-141,20,Disease Outbreak,Medium,Increase in Tuberculosis cases reported. Take preventive measures.,2024-07-06,Active
-142,10,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-04-30,Under Investigation
-143,3,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures.,2024-12-01,Under Investigation
-144,3,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-01-28,Resolved
-145,20,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-10-01,Active
-146,6,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-09-05,Resolved
-147,14,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-08-20,Resolved
-148,19,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-12-22,Resolved
-149,3,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2024-08-05,Under Investigation
-150,18,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-03-12,Under Investigation
-151,8,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2025-03-13,Resolved
-152,5,Disease Outbreak,Critical,Increase in H1N1 Influenza cases reported. Take preventive measures.,2023-10-29,Resolved
-153,17,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-02-01,Resolved
-154,7,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2025-04-05,Under Investigation
-155,9,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-08-02,Active
-156,17,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-01-26,Resolved
-157,17,Water Contamination,High,Water contamination detected. Boil water before consumption.,2024-03-21,Active
-158,8,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-01-14,Under Investigation
-159,5,Water Contamination,High,Water contamination detected. Boil water before consumption.,2024-07-21,Active
-160,9,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-07-29,Resolved
-161,12,Water Contamination,High,Water contamination detected. Boil water before consumption.,2023-06-17,Under Investigation
-162,16,Disease Outbreak,Medium,Increase in Pneumonia cases reported. Take preventive measures.,2025-05-13,Resolved
-163,20,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-06-13,Resolved
-164,11,Disease Outbreak,Critical,Increase in H1N1 Influenza cases reported. Take preventive measures.,2024-09-07,Resolved
-165,9,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures.,2024-04-13,Active
-166,19,Water Contamination,High,Water contamination detected. Boil water before consumption.,2025-03-28,Active
-167,17,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-08-30,Under Investigation
-168,10,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-01-27,Resolved
-169,14,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-03-16,Resolved
-170,14,Disease Outbreak,Critical,Increase in Chickenpox cases reported. Take preventive measures.,2024-12-18,Under Investigation
-171,1,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-06-12,Active
-172,9,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-09-28,Active
-173,7,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2025-03-28,Active
-174,13,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-05-06,Resolved
-175,11,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-01-01,Resolved
-176,17,Disease Outbreak,Low,Increase in H1N1 Influenza cases reported. Take preventive measures.,2024-03-08,Resolved
-177,10,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-09-25,Resolved
-178,7,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2025-09-19,Resolved
-179,11,Water Contamination,High,Water contamination detected. Boil water before consumption.,2023-01-20,Resolved
-180,1,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-10-23,Resolved
-181,19,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-03-20,Resolved
-182,2,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2023-05-19,Resolved
-183,14,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-03-15,Under Investigation
-184,15,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-05-08,Under Investigation
-185,11,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-02-27,Under Investigation
-186,16,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-03-14,Under Investigation
-187,10,Disease Outbreak,Critical,Increase in Cholera cases reported. Take preventive measures.,2024-06-10,Resolved
-188,17,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2024-10-24,Resolved
-189,14,Disease Outbreak,Critical,Increase in Chikungunya cases reported. Take preventive measures.,2025-05-30,Resolved
-190,12,Disease Outbreak,Low,Increase in Dengue cases reported. Take preventive measures.,2023-08-15,Resolved
-191,5,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-03-25,Active
-192,20,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-10-26,Resolved
-193,17,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2025-05-30,Under Investigation
-194,16,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-04-15,Resolved
-195,2,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-07-01,Resolved
-196,5,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-02-22,Resolved
-197,10,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2024-11-27,Resolved
-198,9,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-02-17,Resolved
-199,18,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-03-15,Resolved
-200,15,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-11-26,Resolved
-201,2,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-04-04,Under Investigation
-202,10,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2023-10-14,Resolved
-203,14,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-06-27,Resolved
-204,13,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2024-03-31,Resolved
-205,18,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-07-25,Resolved
-206,16,Water Contamination,High,Water contamination detected. Boil water before consumption.,2025-09-16,Resolved
-207,8,Water Contamination,High,Water contamination detected. Boil water before consumption.,2025-08-21,Active
-208,12,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-05-18,Resolved
-209,9,Disease Outbreak,Medium,Increase in Tuberculosis cases reported. Take preventive measures.,2025-06-18,Resolved
-210,14,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-07-24,Active
-211,5,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-01-24,Resolved
-212,3,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-11-12,Active
-213,3,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2023-03-19,Resolved
-214,7,Disease Outbreak,Low,Increase in Measles cases reported. Take preventive measures.,2023-03-02,Resolved
-215,19,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2025-05-21,Resolved
-216,12,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2024-02-12,Resolved
-217,10,Water Contamination,High,Water contamination detected. Boil water before consumption.,2025-01-09,Resolved
-218,11,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-11-01,Resolved
-219,6,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-07-24,Under Investigation
-220,14,Disease Outbreak,Low,Increase in Zika Virus cases reported. Take preventive measures.,2025-10-04,Under Investigation
-221,9,Disease Outbreak,Low,Increase in Malaria cases reported. Take preventive measures.,2024-04-22,Active
-222,8,Water Contamination,High,Water contamination detected. Boil water before consumption.,2025-04-14,Under Investigation
-223,3,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-03-22,Under Investigation
-224,3,Disease Outbreak,High,Increase in Diarrheal Disease cases reported. Take preventive measures.,2024-07-14,Resolved
-225,15,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2025-03-17,Resolved
-226,10,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2025-01-17,Resolved
-227,3,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-06-06,Resolved
-228,9,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-01-07,Resolved
-229,13,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-07-14,Resolved
-230,5,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-01-13,Under Investigation
-231,19,Disease Outbreak,Low,Increase in Hepatitis A cases reported. Take preventive measures.,2024-01-19,Resolved
-232,8,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-12-09,Resolved
-233,19,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-12-22,Resolved
-234,10,Disease Outbreak,High,Increase in Hepatitis A cases reported. Take preventive measures.,2025-05-25,Under Investigation
-235,8,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-09-30,Under Investigation
-236,3,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures.,2023-09-17,Resolved
-237,3,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-06-28,Active
-238,16,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-11-11,Resolved
-239,19,Disease Outbreak,High,Increase in Tuberculosis cases reported. Take preventive measures.,2025-05-08,Resolved
-240,17,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-12-14,Resolved
-241,10,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-04-27,Active
-242,20,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-09-26,Active
-243,6,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-07-27,Resolved
-244,12,Disease Outbreak,Critical,Increase in H1N1 Influenza cases reported. Take preventive measures.,2025-10-12,Resolved
-245,16,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2024-05-05,Resolved
-246,7,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2025-07-29,Resolved
-247,7,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-01-09,Resolved
-248,7,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-10-01,Resolved
-249,3,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-12-24,Resolved
-250,4,Water Contamination,High,Water contamination detected. Boil water before consumption.,2024-05-15,Under Investigation
-251,20,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-03-01,Under Investigation
-252,18,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-09-29,Resolved
-253,17,Disease Outbreak,Critical,Increase in Tuberculosis cases reported. Take preventive measures.,2025-05-09,Resolved
-254,20,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2023-07-02,Under Investigation
-255,4,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-08-24,Resolved
-256,19,Disease Outbreak,Low,Increase in Chikungunya cases reported. Take preventive measures.,2023-04-04,Under Investigation
-257,3,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2025-04-18,Active
-258,5,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-12-21,Under Investigation
-259,4,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-12-06,Resolved
-260,8,Disease Outbreak,Low,Increase in Typhoid cases reported. Take preventive measures.,2025-09-28,Active
-261,11,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-06-08,Resolved
-262,3,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-10-30,Active
-263,3,Water Contamination,High,Water contamination detected. Boil water before consumption.,2023-12-07,Active
-264,2,Disease Outbreak,High,Increase in Chikungunya cases reported. Take preventive measures.,2025-09-02,Active
-265,2,Water Contamination,High,Water contamination detected. Boil water before consumption.,2025-04-07,Active
-266,15,Disease Outbreak,Low,Increase in COVID-19 cases reported. Take preventive measures.,2024-06-29,Active
-267,14,Water Contamination,High,Water contamination detected. Boil water before consumption.,2024-01-05,Resolved
-268,14,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-01-29,Resolved
-269,10,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-11-30,Resolved
-270,6,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures.,2024-09-03,Under Investigation
-271,20,Water Contamination,Medium,Water contamination detected. Boil water before consumption.,2023-10-01,Active
-272,10,Disease Outbreak,Low,Increase in Dengue cases reported. Take preventive measures.,2024-12-01,Resolved
-273,4,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-07-28,Resolved
-274,3,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures.,2023-01-18,Resolved
-275,5,Disease Outbreak,Critical,Increase in Diarrheal Disease cases reported. Take preventive measures.,2025-03-30,Active
-276,17,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-08-05,Resolved
-277,16,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2023-12-31,Resolved
-278,13,Air Pollution Alert,Medium,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-05-05,Active
-279,7,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-10-08,Resolved
-280,3,Disease Outbreak,Low,Increase in Japanese Encephalitis cases reported. Take preventive measures.,2025-02-02,Resolved
-281,5,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-11-08,Active
-282,5,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-07-18,Resolved
-283,6,Disease Outbreak,Low,Increase in Measles cases reported. Take preventive measures.,2023-05-30,Resolved
-284,9,Water Contamination,Critical,Water contamination detected. Boil water before consumption.,2024-07-26,Resolved
-285,9,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2025-04-04,Under Investigation
-286,5,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2024-09-16,Resolved
-287,6,Disease Outbreak,High,Increase in Measles cases reported. Take preventive measures.,2025-07-11,Under Investigation
-288,1,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-12-24,Active
-289,13,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2023-02-14,Active
-290,6,Disease Outbreak,Critical,Increase in Cholera cases reported. Take preventive measures.,2023-09-26,Resolved
-291,10,Air Pollution Alert,High,Air quality deteriorated. Use masks and avoid outdoor exercise.,2025-06-26,Resolved
-292,13,Water Contamination,Low,Water contamination detected. Boil water before consumption.,2024-12-10,Resolved
-293,1,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures.,2023-09-21,Resolved
-294,9,Disease Outbreak,Low,Increase in COVID-19 cases reported. Take preventive measures.,2023-07-29,Resolved
-295,12,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-03-17,Resolved
-296,16,Air Pollution Alert,Critical,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-06-27,Resolved
-297,20,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-09-30,Resolved
-298,2,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities.,2024-03-02,Under Investigation
-299,1,Disease Outbreak,Low,Increase in Cholera cases reported. Take preventive measures.,2025-06-24,Resolved
-300,7,Air Pollution Alert,Low,Air quality deteriorated. Use masks and avoid outdoor exercise.,2024-07-23,Under Investigation
+1,1,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-05,Active
+2,10,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-22,Active
+3,11,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-26,Resolved
+4,5,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-05-28,Resolved
+5,12,Water Contamination,Critical,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-03,Resolved
+6,3,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-17,Resolved
+7,20,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-06-29,Resolved
+8,15,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-17,Resolved
+9,7,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-14,Resolved
+10,20,Disease Outbreak,Critical,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-05,Resolved
+11,6,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-09,Active
+12,4,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-22,Resolved
+13,17,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-29,Active
+14,4,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-05,Resolved
+15,19,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-04,Resolved
+16,4,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-22,Resolved
+17,20,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-01,Resolved
+18,8,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-03,Under Investigation
+19,10,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-19,Resolved
+20,19,Disease Outbreak,Critical,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-31,Resolved
+21,14,Disease Outbreak,Critical,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-26,Under Investigation
+22,3,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-21,Resolved
+23,12,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-20,Resolved
+24,8,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-31,Under Investigation
+25,2,Water Contamination,Critical,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-27,Resolved
+26,14,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-26,Resolved
+27,19,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-08,Resolved
+28,2,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-11-10,Resolved
+29,9,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-14,Active
+30,3,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-19,Resolved
+31,15,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-18,Active
+32,9,Disease Outbreak,Critical,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-26,Active
+33,14,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-19,Resolved
+34,14,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-18,Under Investigation
+35,16,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-04,Active
+36,3,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-21,Active
+37,1,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-21,Resolved
+38,10,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-23,Resolved
+39,10,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-15,Resolved
+40,20,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-19,Resolved
+41,2,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-26,Resolved
+42,8,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-11,Resolved
+43,20,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-14,Resolved
+44,19,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-09,Resolved
+45,17,Disease Outbreak,Critical,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-19,Active
+46,17,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-02,Resolved
+47,3,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-09-13,Resolved
+48,4,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-12,Resolved
+49,3,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-21,Under Investigation
+50,15,Disease Outbreak,Critical,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-11,Resolved
+51,16,Disease Outbreak,Critical,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-05,Resolved
+52,5,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-31,Resolved
+53,3,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-25,Resolved
+54,1,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-09,Resolved
+55,13,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-06,Active
+56,5,Disease Outbreak,Critical,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-05,Resolved
+57,14,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-30,Resolved
+58,12,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-29,Resolved
+59,14,Disease Outbreak,Critical,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-20,Under Investigation
+60,11,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-01,Resolved
+61,9,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-14,Active
+62,9,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-27,Resolved
+63,5,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-09,Resolved
+64,2,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-06,Resolved
+65,10,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-11,Active
+66,12,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-21,Resolved
+67,11,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-07,Active
+68,16,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-31,Active
+69,15,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-26,Under Investigation
+70,12,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-04,Resolved
+71,16,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-19,Resolved
+72,9,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-22,Resolved
+73,2,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-31,Under Investigation
+74,13,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-04,Resolved
+75,15,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-18,Resolved
+76,19,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-22,Resolved
+77,10,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-05,Resolved
+78,4,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-14,Active
+79,12,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-16,Resolved
+80,14,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-08,Resolved
+81,20,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-24,Resolved
+82,15,Disease Outbreak,Critical,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-28,Resolved
+83,4,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-05-23,Resolved
+84,13,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-05,Resolved
+85,19,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-04,Under Investigation
+86,9,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-09-12,Resolved
+87,5,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-05-28,Resolved
+88,16,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-06-21,Resolved
+89,11,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-02,Resolved
+90,20,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-21,Resolved
+91,6,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-28,Resolved
+92,10,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-05-29,Resolved
+93,8,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-17,Resolved
+94,1,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-09,Resolved
+95,5,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-21,Resolved
+96,9,Disease Outbreak,Critical,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-09,Resolved
+97,4,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-30,Active
+98,3,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-19,Resolved
+99,5,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-06,Resolved
+100,10,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-30,Resolved
+101,17,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-16,Resolved
+102,16,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-19,Resolved
+103,11,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-25,Resolved
+104,15,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-01,Resolved
+105,7,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-17,Active
+106,12,Disease Outbreak,Low,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-20,Active
+107,15,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-08,Under Investigation
+108,17,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-08-13,Resolved
+109,11,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-25,Under Investigation
+110,16,Disease Outbreak,Low,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-17,Active
+111,19,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-29,Active
+112,19,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-19,Resolved
+113,8,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-24,Under Investigation
+114,9,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-29,Active
+115,6,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-05-28,Under Investigation
+116,20,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-09,Resolved
+117,14,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-03,Active
+118,5,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-06,Active
+119,6,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-19,Resolved
+120,11,Disease Outbreak,Low,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-27,Resolved
+121,11,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-06-14,Resolved
+122,15,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-22,Active
+123,6,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-30,Resolved
+124,14,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-19,Active
+125,11,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-16,Active
+126,8,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-13,Active
+127,12,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-10,Resolved
+128,18,Air Pollution Alert,Low,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-08-25,Resolved
+129,4,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-03,Resolved
+130,8,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-11,Resolved
+131,6,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-14,Under Investigation
+132,10,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-05-27,Resolved
+133,8,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-06,Resolved
+134,2,Water Contamination,Critical,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-29,Resolved
+135,16,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-13,Resolved
+136,7,Air Pollution Alert,Low,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-06-26,Resolved
+137,13,Disease Outbreak,Low,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-28,Resolved
+138,18,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-05-31,Resolved
+139,12,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-06,Under Investigation
+140,3,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-11-06,Active
+141,5,Disease Outbreak,Low,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-02,Resolved
+142,19,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-27,Resolved
+143,16,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-06,Active
+144,4,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-01,Resolved
+145,17,Water Contamination,Critical,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-13,Under Investigation
+146,15,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-03,Active
+147,19,Disease Outbreak,Low,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-29,Resolved
+148,12,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-11,Resolved
+149,19,Disease Outbreak,Critical,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-15,Resolved
+150,6,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-22,Resolved
+151,4,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-14,Resolved
+152,6,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-01,Active
+153,11,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-25,Resolved
+154,19,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-21,Resolved
+155,6,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-24,Active
+156,18,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-19,Active
+157,18,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-26,Active
+158,9,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-01,Resolved
+159,13,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-25,Resolved
+160,14,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-05,Under Investigation
+161,15,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-30,Resolved
+162,2,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-02,Active
+163,9,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-19,Resolved
+164,19,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-30,Resolved
+165,10,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-30,Resolved
+166,15,Disease Outbreak,Low,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-31,Resolved
+167,16,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-03,Resolved
+168,12,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-14,Resolved
+169,18,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-15,Resolved
+170,8,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-12,Resolved
+171,16,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-06,Resolved
+172,19,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-06,Resolved
+173,8,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-25,Resolved
+174,6,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-19,Active
+175,15,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-05-25,Resolved
+176,1,Water Contamination,Critical,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-06,Resolved
+177,12,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-04,Resolved
+178,9,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-22,Active
+179,1,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-05,Resolved
+180,4,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-09,Resolved
+181,13,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-17,Under Investigation
+182,13,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-16,Resolved
+183,9,Air Pollution Alert,Low,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-19,Resolved
+184,1,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-14,Resolved
+185,5,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-22,Under Investigation
+186,3,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-17,Resolved
+187,16,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-07,Under Investigation
+188,15,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-19,Active
+189,3,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-28,Resolved
+190,20,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-07,Resolved
+191,17,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-01,Active
+192,16,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-15,Under Investigation
+193,7,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-23,Resolved
+194,2,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-01,Under Investigation
+195,8,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-19,Resolved
+196,4,Disease Outbreak,Low,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-12,Resolved
+197,18,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-29,Resolved
+198,10,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-20,Active
+199,7,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-06,Resolved
+200,17,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-26,Resolved
+201,7,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-06,Active
+202,8,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-27,Under Investigation
+203,14,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-17,Resolved
+204,19,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-21,Resolved
+205,9,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-11-02,Active
+206,13,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-08,Resolved
+207,4,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-01,Resolved
+208,16,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-04,Resolved
+209,18,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-08,Resolved
+210,16,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-21,Resolved
+211,20,Disease Outbreak,Critical,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-07,Resolved
+212,16,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-31,Active
+213,5,Disease Outbreak,Critical,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-17,Active
+214,5,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-19,Resolved
+215,9,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-21,Resolved
+216,9,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-05,Active
+217,11,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-03,Resolved
+218,12,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-11-10,Resolved
+219,13,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-18,Resolved
+220,9,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-16,Active
+221,20,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-08,Resolved
+222,6,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-04,Active
+223,12,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-11-07,Resolved
+224,20,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-26,Resolved
+225,2,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-23,Resolved
+226,15,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-13,Under Investigation
+227,7,Disease Outbreak,Critical,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-28,Active
+228,4,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-01,Resolved
+229,8,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-17,Resolved
+230,16,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-31,Active
+231,5,Disease Outbreak,Critical,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-29,Resolved
+232,18,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-23,Active
+233,13,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-07,Resolved
+234,19,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-18,Resolved
+235,5,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-11-02,Active
+236,9,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-24,Resolved
+237,16,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-14,Resolved
+238,11,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-13,Resolved
+239,7,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-05-23,Resolved
+240,2,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-24,Resolved
+241,15,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-23,Resolved
+242,11,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-24,Resolved
+243,6,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-29,Under Investigation
+244,2,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-05-23,Resolved
+245,11,Disease Outbreak,Low,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-19,Resolved
+246,7,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-11,Resolved
+247,7,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-09,Resolved
+248,6,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-05-27,Resolved
+249,6,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-29,Resolved
+250,17,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-07,Resolved
+251,15,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-03,Resolved
+252,7,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-02,Active
+253,19,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-08,Active
+254,5,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-24,Resolved
+255,16,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-28,Resolved
+256,14,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-20,Resolved
+257,15,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-05,Resolved
+258,8,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-03,Resolved
+259,14,Disease Outbreak,Critical,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-07,Resolved
+260,14,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-29,Resolved
+261,3,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-11,Resolved
+262,13,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-20,Under Investigation
+263,14,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-28,Resolved
+264,8,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-05-23,Resolved
+265,6,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-27,Resolved
+266,5,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-28,Under Investigation
+267,5,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-28,Resolved
+268,19,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-10,Resolved
+269,8,Disease Outbreak,Low,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-18,Resolved
+270,14,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-02,Active
+271,3,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-24,Resolved
+272,5,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-19,Resolved
+273,5,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-01,Resolved
+274,6,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-17,Resolved
+275,10,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-27,Active
+276,14,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-30,Active
+277,18,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-23,Under Investigation
+278,10,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-15,Active
+279,15,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-13,Under Investigation
+280,13,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-17,Under Investigation
+281,1,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-29,Resolved
+282,6,Water Contamination,Critical,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-29,Active
+283,11,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-08-26,Resolved
+284,6,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-26,Resolved
+285,5,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-27,Resolved
+286,6,Disease Outbreak,Critical,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-18,Under Investigation
+287,20,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-08,Resolved
+288,9,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-23,Resolved
+289,9,Disease Outbreak,Medium,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-01,Resolved
+290,10,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-19,Resolved
+291,13,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-11,Resolved
+292,17,Air Pollution Alert,Critical,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-05-25,Resolved
+293,6,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-09-11,Under Investigation
+294,1,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-18,Resolved
+295,20,Disease Outbreak,Critical,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-19,Resolved
+296,14,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-28,Active
+297,18,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-04,Resolved
+298,18,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-12,Active
+299,14,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-23,Resolved
+300,16,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-06-18,Under Investigation
+301,18,Disease Outbreak,High,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-19,Active
+302,1,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-31,Active
+303,12,Disease Outbreak,Low,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-04,Resolved
+304,4,Disease Outbreak,Low,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-18,Resolved
+305,13,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-09,Active
+306,1,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-21,Resolved
+307,6,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-18,Resolved
+308,2,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-22,Resolved
+309,8,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-25,Active
+310,19,Disease Outbreak,Low,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-05-25,Resolved
+311,19,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-06-09,Under Investigation
+312,13,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-24,Resolved
+313,6,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-09-05,Resolved
+314,7,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-12,Resolved
+315,3,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-31,Resolved
+316,4,Air Pollution Alert,Low,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-23,Resolved
+317,18,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-27,Under Investigation
+318,2,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-15,Active
+319,18,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-29,Resolved
+320,7,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-08,Active
+321,20,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-26,Resolved
+322,12,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-03,Resolved
+323,2,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-09,Resolved
+324,19,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-23,Under Investigation
+325,7,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-08,Active
+326,3,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-09,Under Investigation
+327,15,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-05,Active
+328,11,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-26,Active
+329,9,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-07,Resolved
+330,6,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-07,Active
+331,11,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-27,Under Investigation
+332,1,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-19,Resolved
+333,3,Air Pollution Alert,Low,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-04,Active
+334,11,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-11-19,Active
+335,10,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-08-06,Resolved
+336,16,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-13,Active
+337,1,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-29,Active
+338,15,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-11,Resolved
+339,17,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-21,Active
+340,6,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-29,Resolved
+341,5,Disease Outbreak,Low,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-02,Under Investigation
+342,5,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-11-17,Active
+343,7,Disease Outbreak,Critical,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-15,Resolved
+344,3,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-14,Resolved
+345,2,Disease Outbreak,Low,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-09,Resolved
+346,9,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-21,Resolved
+347,13,Environmental Hazard,Critical,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-11,Resolved
+348,19,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-31,Under Investigation
+349,3,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-09,Resolved
+350,20,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-11-13,Resolved
+351,8,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-04,Resolved
+352,4,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-25,Active
+353,14,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-07-15,Resolved
+354,3,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-06-23,Resolved
+355,1,Air Pollution Alert,Low,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-26,Active
+356,4,Disease Outbreak,Medium,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-27,Resolved
+357,15,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-11-09,Active
+358,9,Water Contamination,Critical,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-05-23,Resolved
+359,17,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-09,Resolved
+360,7,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-12,Resolved
+361,6,Disease Outbreak,High,Increase in H1N1 Influenza cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-06,Resolved
+362,12,Disease Outbreak,Critical,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-14,Resolved
+363,7,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-09-25,Resolved
+364,1,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-09,Resolved
+365,8,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-25,Resolved
+366,20,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-07,Resolved
+367,5,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-05-30,Resolved
+368,11,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-08-11,Resolved
+369,20,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-31,Active
+370,5,Disease Outbreak,Critical,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-21,Resolved
+371,10,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-11-19,Active
+372,4,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-06,Resolved
+373,5,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-27,Active
+374,11,Air Pollution Alert,Medium,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-10-05,Resolved
+375,17,Disease Outbreak,Critical,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-30,Resolved
+376,2,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-08,Resolved
+377,10,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-28,Active
+378,4,Disease Outbreak,Critical,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-23,Resolved
+379,19,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-26,Resolved
+380,18,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-04,Resolved
+381,17,Water Contamination,Low,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-22,Resolved
+382,4,Disease Outbreak,High,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-07,Resolved
+383,9,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-03,Resolved
+384,15,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-10-06,Resolved
+385,7,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-06-06,Resolved
+386,12,Environmental Hazard,Low,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-06-07,Resolved
+387,1,Water Contamination,High,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-11-04,Active
+388,3,Disease Outbreak,Medium,Increase in Typhoid cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-07-07,Resolved
+389,8,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-11-07,Resolved
+390,6,Disease Outbreak,Medium,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-14,Active
+391,17,Environmental Hazard,Medium,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-10-27,Under Investigation
+392,8,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-07-20,Under Investigation
+393,6,Disease Outbreak,Low,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-09-02,Under Investigation
+394,14,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-11-16,Active
+395,4,Environmental Hazard,High,Environmental pollution levels exceed safe limits. Avoid outdoor activities and use protective measures.,2025-11-13,Resolved
+396,8,Air Pollution Alert,High,"Air quality deteriorated to hazardous levels. Use N95 masks, avoid outdoor exercise, and keep windows closed.",2025-07-28,Resolved
+397,5,Water Contamination,Medium,Water contamination detected in municipal supply. Boil water before consumption and use water purification methods.,2025-11-03,Under Investigation
+398,2,Disease Outbreak,High,Increase in COVID-19 cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-08-13,Resolved
+399,12,Disease Outbreak,Medium,Increase in Malaria cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-06-24,Resolved
+400,5,Disease Outbreak,High,Increase in Dengue cases reported. Take preventive measures and seek medical attention if symptoms appear.,2025-10-02,Under Investigation

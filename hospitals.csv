@@ -8,7 +8,7 @@ hospital_id,hospital_name,city_id,hospital_type,bed_capacity,contact_number
 7,Apollo Hospital,9,Private Hospital,407,+91-8815115025
 8,Safdarjung Hospital,11,Private Hospital,160,+91-8445662585
 9,Max Hospital,4,Primary Health Center,99,+91-8541804686
-10,District Hospital,12,Medical College,463,+91-7186618211
+10,District Hospital,12,Government Hospital,185,+91-7186618211
 11,Civil Hospital,15,Government Hospital,113,+91-8625792787
 12,Civil Hospital,3,Government Hospital,200,+91-9699987374
 13,KEM Hospital,20,Community Health Center,148,+91-7298737106
@@ -27,125 +27,125 @@ hospital_id,hospital_name,city_id,hospital_type,bed_capacity,contact_number
 26,Grant Medical Hospital,19,Community Health Center,254,+91-8554762903
 27,Fortis Hospital,8,Community Health Center,302,+91-7390452952
 28,Max Hospital,2,Private Hospital,371,+91-7687117441
-29,District Hospital,14,Government Hospital,247,+91-8639042338
-30,Victoria Hospital,20,Community Health Center,178,+91-9376087131
-31,Max Hospital,1,Community Health Center,434,+91-8146005448
-32,Max Hospital,11,Medical College,272,+91-7679282378
-33,Apollo Hospital,15,Medical College,306,+91-7767303988
-34,Max Hospital,17,Medical College,480,+91-9744267175
-35,District Hospital,17,Private Hospital,128,+91-8605947756
-36,Civil Hospital,6,Government Hospital,448,+91-9277851678
-37,District Hospital,1,Medical College,300,+91-7083651970
-38,KEM Hospital,4,Medical College,172,+91-7248786714
-39,District Hospital,8,Government Hospital,93,+91-9087313121
-40,Civil Hospital,3,Government Hospital,442,+91-7540137296
-41,Victoria Hospital,5,Community Health Center,134,+91-8138409539
-42,District Hospital,17,Primary Health Center,158,+91-9316259067
-43,Safdarjung Hospital,7,Primary Health Center,393,+91-9791205006
-44,Victoria Hospital,12,Community Health Center,281,+91-7519709079
-45,AIIMS Hospital,8,Government Hospital,82,+91-8452066459
-46,District Hospital,1,Community Health Center,167,+91-9527331058
-47,Apollo Hospital,8,Government Hospital,412,+91-9710566582
-48,AIIMS Hospital,2,Government Hospital,84,+91-7134917627
-49,Max Hospital,11,Community Health Center,171,+91-8196050747
-50,AIIMS Hospital,16,Government Hospital,326,+91-7568275055
-51,District Hospital,19,Primary Health Center,174,+91-9031403296
-52,AIIMS Hospital,14,Government Hospital,98,+91-7416314667
-53,KEM Hospital,14,Primary Health Center,260,+91-9005855667
-54,Max Hospital,2,Government Hospital,256,+91-8457293575
-55,AIIMS Hospital,4,Government Hospital,148,+91-7816941039
-56,Victoria Hospital,18,Private Hospital,266,+91-7788075126
-57,Victoria Hospital,9,Private Hospital,497,+91-7323775634
-58,Civil Hospital,15,Government Hospital,100,+91-7217275224
-59,Apollo Hospital,18,Government Hospital,435,+91-8015242176
-60,Grant Medical Hospital,6,Primary Health Center,296,+91-7918037633
-61,Apollo Hospital,13,Private Hospital,244,+91-7009257255
-62,Safdarjung Hospital,13,Primary Health Center,196,+91-8816803306
-63,Victoria Hospital,18,Private Hospital,147,+91-8274350418
-64,Apollo Hospital,7,Community Health Center,426,+91-9328710672
-65,KEM Hospital,2,Government Hospital,75,+91-9509023674
-66,Civil Hospital,16,Government Hospital,486,+91-9281169403
-67,Apollo Hospital,6,Community Health Center,91,+91-7798112150
-68,District Hospital,3,Government Hospital,395,+91-8010193046
-69,Max Hospital,13,Community Health Center,176,+91-9486438403
-70,Apollo Hospital,20,Community Health Center,91,+91-8800557283
-71,District Hospital,19,Community Health Center,211,+91-8119980130
-72,KEM Hospital,7,Private Hospital,185,+91-8699887270
-73,Safdarjung Hospital,5,Primary Health Center,211,+91-7311570307
-74,Victoria Hospital,1,Community Health Center,338,+91-7429416213
-75,Civil Hospital,3,Government Hospital,159,+91-9172758220
-76,Fortis Hospital,9,Medical College,85,+91-8049193572
-77,Safdarjung Hospital,12,Private Hospital,274,+91-9333103372
-78,District Hospital,10,Community Health Center,54,+91-9868450609
-79,Safdarjung Hospital,18,Government Hospital,499,+91-7576775951
-80,Max Hospital,9,Government Hospital,430,+91-9376077463
-81,Safdarjung Hospital,5,Medical College,359,+91-7904647469
-82,AIIMS Hospital,11,Government Hospital,401,+91-9724031273
-83,Civil Hospital,9,Government Hospital,300,+91-8078557553
-84,Max Hospital,2,Primary Health Center,474,+91-8188332531
-85,Apollo Hospital,2,Medical College,444,+91-7561866144
-86,Fortis Hospital,9,Primary Health Center,332,+91-8836901321
-87,Apollo Hospital,18,Government Hospital,88,+91-9967906665
-88,Civil Hospital,5,Government Hospital,68,+91-8585770584
-89,Civil Hospital,19,Government Hospital,125,+91-8845919895
-90,Apollo Hospital,5,Medical College,236,+91-7171347175
-91,AIIMS Hospital,12,Government Hospital,399,+91-8071722055
-92,KEM Hospital,4,Community Health Center,497,+91-8745377599
-93,Fortis Hospital,20,Private Hospital,492,+91-7697939765
-94,Grant Medical Hospital,6,Government Hospital,141,+91-8426725702
-95,AIIMS Hospital,14,Government Hospital,186,+91-7683749521
-96,Grant Medical Hospital,4,Government Hospital,489,+91-9021598245
-97,AIIMS Hospital,8,Government Hospital,468,+91-8976987348
-98,Safdarjung Hospital,12,Private Hospital,164,+91-7101637979
-99,Grant Medical Hospital,7,Medical College,192,+91-7298159856
-100,KEM Hospital,9,Community Health Center,254,+91-9918508077
-101,KEM Hospital,18,Government Hospital,109,+91-8121910732
-102,District Hospital,6,Medical College,69,+91-7465585404
-103,Grant Medical Hospital,20,Medical College,423,+91-8347233823
-104,District Hospital,14,Community Health Center,109,+91-8654401763
-105,AIIMS Hospital,19,Government Hospital,180,+91-7190638698
-106,Apollo Hospital,14,Community Health Center,462,+91-9312633708
-107,KEM Hospital,7,Primary Health Center,85,+91-9852879124
-108,District Hospital,11,Medical College,389,+91-7535261654
-109,Civil Hospital,10,Government Hospital,208,+91-9864283209
-110,KEM Hospital,14,Primary Health Center,406,+91-8269829408
-111,Fortis Hospital,18,Private Hospital,265,+91-9855850145
-112,Fortis Hospital,13,Community Health Center,341,+91-8292569882
-113,Civil Hospital,13,Government Hospital,476,+91-7001743499
-114,Safdarjung Hospital,10,Private Hospital,270,+91-9491015654
-115,KEM Hospital,20,Primary Health Center,276,+91-8899061865
-116,Civil Hospital,7,Government Hospital,292,+91-7728818981
-117,Safdarjung Hospital,3,Community Health Center,389,+91-9718460279
-118,KEM Hospital,20,Government Hospital,469,+91-8008752943
-119,AIIMS Hospital,10,Government Hospital,462,+91-7855256552
-120,Apollo Hospital,5,Government Hospital,175,+91-9040695043
-121,Max Hospital,20,Primary Health Center,262,+91-9704821724
-122,AIIMS Hospital,19,Government Hospital,417,+91-9990818727
-123,Victoria Hospital,13,Primary Health Center,174,+91-7633814084
-124,Max Hospital,1,Primary Health Center,162,+91-7755427535
-125,Victoria Hospital,17,Government Hospital,335,+91-8070298438
-126,Victoria Hospital,4,Private Hospital,460,+91-8995627518
-127,Civil Hospital,17,Government Hospital,354,+91-8362784338
-128,District Hospital,15,Community Health Center,268,+91-9353092123
-129,Fortis Hospital,15,Primary Health Center,280,+91-8113219231
-130,Safdarjung Hospital,8,Community Health Center,298,+91-9691864041
-131,Safdarjung Hospital,8,Primary Health Center,89,+91-8227193073
-132,Safdarjung Hospital,8,Medical College,213,+91-9319936135
-133,Fortis Hospital,3,Private Hospital,168,+91-8645124051
-134,AIIMS Hospital,5,Government Hospital,82,+91-8781844052
-135,KEM Hospital,14,Community Health Center,288,+91-8785736751
-136,AIIMS Hospital,2,Government Hospital,476,+91-8804502687
-137,District Hospital,13,Government Hospital,488,+91-9472571231
-138,Victoria Hospital,13,Government Hospital,230,+91-8282531582
-139,Grant Medical Hospital,13,Community Health Center,432,+91-9345620385
-140,AIIMS Hospital,20,Government Hospital,299,+91-7942408767
-141,Grant Medical Hospital,9,Primary Health Center,64,+91-8670128972
-142,Grant Medical Hospital,11,Private Hospital,480,+91-9007425404
-143,District Hospital,5,Community Health Center,63,+91-8692304102
-144,District Hospital,19,Government Hospital,92,+91-9760588734
-145,Fortis Hospital,14,Primary Health Center,143,+91-7215970859
-146,Grant Medical Hospital,9,Medical College,158,+91-8952918745
-147,KEM Hospital,11,Primary Health Center,192,+91-8810607153
-148,Max Hospital,9,Primary Health Center,59,+91-9316787198
-149,KEM Hospital,2,Private Hospital,382,+91-7294713656
-150,Apollo Hospital,2,Private Hospital,152,+91-7087531510
+29,District Hospital,14,Government Hospital,82,+91-8652563013
+30,District Hospital,13,Government Hospital,289,+91-9272528809
+31,Civil Hospital,9,Government Hospital,490,+91-7049310608
+32,Civil Hospital,4,Government Hospital,434,+91-8146005448
+33,Max Hospital,11,Medical College,272,+91-7679282378
+34,Apollo Hospital,15,Medical College,306,+91-7767303988
+35,Max Hospital,17,Medical College,480,+91-9744267175
+36,District Hospital,17,Government Hospital,151,+91-7656439677
+37,Fortis Hospital,12,Community Health Center,448,+91-9277851678
+38,District Hospital,1,Government Hospital,215,+91-9098545541
+39,Max Hospital,1,Medical College,499,+91-8320763135
+40,Apollo Hospital,8,Private Hospital,499,+91-9436779490
+41,Max Hospital,3,Primary Health Center,467,+91-7297265480
+42,Fortis Hospital,18,Private Hospital,387,+91-9041322270
+43,Fortis Hospital,18,Medical College,320,+91-9605301030
+44,AIIMS Hospital,14,Government Hospital,326,+91-9962958940
+45,Safdarjung Hospital,7,Primary Health Center,393,+91-9791205006
+46,Victoria Hospital,12,Community Health Center,281,+91-7519709079
+47,AIIMS Hospital,8,Government Hospital,82,+91-8452066459
+48,District Hospital,1,Government Hospital,333,+91-7988335251
+49,AIIMS Hospital,19,Government Hospital,53,+91-7304912982
+50,AIIMS Hospital,2,Government Hospital,84,+91-7134917627
+51,Max Hospital,11,Community Health Center,171,+91-8196050747
+52,AIIMS Hospital,16,Government Hospital,326,+91-7568275055
+53,District Hospital,19,Government Hospital,292,+91-8043665192
+54,Grant Medical Hospital,16,Private Hospital,98,+91-7416314667
+55,KEM Hospital,14,Primary Health Center,260,+91-9005855667
+56,Max Hospital,2,Government Hospital,256,+91-8457293575
+57,AIIMS Hospital,4,Government Hospital,148,+91-7816941039
+58,Victoria Hospital,18,Private Hospital,266,+91-7788075126
+59,Victoria Hospital,9,Private Hospital,497,+91-7323775634
+60,Civil Hospital,15,Government Hospital,100,+91-7217275224
+61,Apollo Hospital,18,Government Hospital,435,+91-8015242176
+62,Grant Medical Hospital,6,Primary Health Center,296,+91-7918037633
+63,Apollo Hospital,13,Private Hospital,244,+91-7009257255
+64,Safdarjung Hospital,13,Primary Health Center,196,+91-8816803306
+65,Victoria Hospital,18,Private Hospital,147,+91-8274350418
+66,Apollo Hospital,7,Community Health Center,426,+91-9328710672
+67,KEM Hospital,2,Government Hospital,75,+91-9509023674
+68,Civil Hospital,16,Government Hospital,486,+91-9281169403
+69,Apollo Hospital,6,Community Health Center,91,+91-7798112150
+70,District Hospital,3,Government Hospital,84,+91-9900015820
+71,Grant Medical Hospital,8,Government Hospital,341,+91-8057486868
+72,District Hospital,19,Government Hospital,70,+91-9660223333
+73,Grant Medical Hospital,3,Community Health Center,339,+91-9245334677
+74,Safdarjung Hospital,11,Private Hospital,392,+91-8349409434
+75,Safdarjung Hospital,8,Primary Health Center,117,+91-9884887548
+76,Victoria Hospital,10,Medical College,434,+91-7311570307
+77,Victoria Hospital,1,Community Health Center,338,+91-7429416213
+78,Civil Hospital,3,Government Hospital,159,+91-9172758220
+79,Fortis Hospital,9,Medical College,85,+91-8049193572
+80,Safdarjung Hospital,12,Private Hospital,274,+91-9333103372
+81,District Hospital,10,Government Hospital,463,+91-9808806886
+82,Apollo Hospital,17,Community Health Center,203,+91-9849232839
+83,Fortis Hospital,4,Medical College,109,+91-7459716009
+84,Fortis Hospital,18,Medical College,194,+91-9597724331
+85,KEM Hospital,7,Private Hospital,401,+91-9724031273
+86,Civil Hospital,9,Government Hospital,300,+91-8078557553
+87,Max Hospital,2,Primary Health Center,474,+91-8188332531
+88,Apollo Hospital,2,Medical College,444,+91-7561866144
+89,Fortis Hospital,9,Primary Health Center,332,+91-8836901321
+90,Apollo Hospital,18,Government Hospital,88,+91-9967906665
+91,Civil Hospital,5,Government Hospital,68,+91-8585770584
+92,Civil Hospital,19,Government Hospital,125,+91-8845919895
+93,Apollo Hospital,5,Medical College,236,+91-7171347175
+94,AIIMS Hospital,12,Government Hospital,399,+91-8071722055
+95,KEM Hospital,4,Community Health Center,497,+91-8745377599
+96,Fortis Hospital,20,Private Hospital,492,+91-7697939765
+97,Grant Medical Hospital,6,Government Hospital,141,+91-8426725702
+98,AIIMS Hospital,14,Government Hospital,186,+91-7683749521
+99,Grant Medical Hospital,4,Government Hospital,489,+91-9021598245
+100,AIIMS Hospital,8,Government Hospital,468,+91-8976987348
+101,Safdarjung Hospital,12,Private Hospital,164,+91-7101637979
+102,Grant Medical Hospital,7,Medical College,192,+91-7298159856
+103,KEM Hospital,9,Community Health Center,254,+91-9918508077
+104,KEM Hospital,18,Government Hospital,109,+91-8121910732
+105,District Hospital,6,Government Hospital,185,+91-7164313410
+106,District Hospital,4,Government Hospital,272,+91-8484714820
+107,Grant Medical Hospital,11,Community Health Center,311,+91-7496694873
+108,District Hospital,13,Government Hospital,147,+91-8094024844
+109,Grant Medical Hospital,2,Government Hospital,316,+91-9312633708
+110,KEM Hospital,7,Primary Health Center,85,+91-9852879124
+111,District Hospital,11,Government Hospital,210,+91-9849227494
+112,Safdarjung Hospital,4,Community Health Center,208,+91-9864283209
+113,KEM Hospital,14,Primary Health Center,406,+91-8269829408
+114,Fortis Hospital,18,Private Hospital,265,+91-9855850145
+115,Fortis Hospital,13,Community Health Center,341,+91-8292569882
+116,Civil Hospital,13,Government Hospital,476,+91-7001743499
+117,Safdarjung Hospital,10,Private Hospital,270,+91-9491015654
+118,KEM Hospital,20,Primary Health Center,276,+91-8899061865
+119,Civil Hospital,7,Government Hospital,292,+91-7728818981
+120,Safdarjung Hospital,3,Community Health Center,389,+91-9718460279
+121,KEM Hospital,20,Government Hospital,469,+91-8008752943
+122,AIIMS Hospital,10,Government Hospital,462,+91-7855256552
+123,Apollo Hospital,5,Government Hospital,175,+91-9040695043
+124,Max Hospital,20,Primary Health Center,262,+91-9704821724
+125,AIIMS Hospital,19,Government Hospital,417,+91-9990818727
+126,Victoria Hospital,13,Primary Health Center,174,+91-7633814084
+127,Max Hospital,1,Primary Health Center,162,+91-7755427535
+128,Victoria Hospital,17,Government Hospital,335,+91-8070298438
+129,Victoria Hospital,4,Private Hospital,460,+91-8995627518
+130,Civil Hospital,17,Government Hospital,354,+91-8362784338
+131,District Hospital,15,Government Hospital,467,+91-9168005699
+132,Civil Hospital,14,Government Hospital,278,+91-7683577992
+133,Victoria Hospital,16,Medical College,434,+91-8061886576
+134,Civil Hospital,9,Government Hospital,298,+91-9691864041
+135,Safdarjung Hospital,8,Primary Health Center,89,+91-8227193073
+136,Safdarjung Hospital,8,Medical College,213,+91-9319936135
+137,Fortis Hospital,3,Private Hospital,168,+91-8645124051
+138,AIIMS Hospital,5,Government Hospital,82,+91-8781844052
+139,KEM Hospital,14,Community Health Center,288,+91-8785736751
+140,AIIMS Hospital,2,Government Hospital,476,+91-8804502687
+141,District Hospital,13,Government Hospital,406,+91-7083889094
+142,Grant Medical Hospital,19,Primary Health Center,53,+91-8510792572
+143,Grant Medical Hospital,10,Primary Health Center,325,+91-9345620385
+144,AIIMS Hospital,20,Government Hospital,299,+91-7942408767
+145,Grant Medical Hospital,9,Primary Health Center,64,+91-8670128972
+146,Grant Medical Hospital,11,Private Hospital,480,+91-9007425404
+147,District Hospital,5,Government Hospital,323,+91-7115820025
+148,District Hospital,13,Government Hospital,338,+91-9847562279
+149,Max Hospital,1,Primary Health Center,119,+91-8982979741
+150,Apollo Hospital,6,Medical College,244,+91-8405969000
